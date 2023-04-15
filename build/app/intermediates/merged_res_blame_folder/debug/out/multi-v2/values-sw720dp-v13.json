@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shashikant/Documents/Application_developement/homzy2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/shashikant/.gradle/caches/transforms-3/32d2f2407d8aa3318b5ebc2939f65ef4/transformed/jetified-kommunicateui-2.6.2/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,164,213",
+                        "endColumns": "55,52,48,38",
+                        "endOffsets": "106,159,208,247"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shashikant/Documents/Application_developement/homzy2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/shashikant/.gradle/caches/transforms-3/32d2f2407d8aa3318b5ebc2939f65ef4/transformed/jetified-kommunicateui-2.6.2/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,3,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,143,288",
+                        "endLines": "2,5,6",
+                        "endColumns": "87,12,42",
+                        "endOffsets": "138,283,326"
+                    }
+                }
+            ]
+        }
+    ]
+}

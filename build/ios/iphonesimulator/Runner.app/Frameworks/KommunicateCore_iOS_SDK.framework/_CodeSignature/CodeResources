@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AppLozic.momd/AppLozic 10.mom</key>
+		<data>
+		XoL6tSG4WkuyKA6GmJBquQVVtHE=
+		</data>
+		<key>AppLozic.momd/AppLozic 11.mom</key>
+		<data>
+		1iYz7xR3ee/H/BBxXOgNBNJF4Bs=
+		</data>
+		<key>AppLozic.momd/AppLozic 12.mom</key>
+		<data>
+		rN/fHTzA/K7B/JcdVq2/Hs30vM0=
+		</data>
+		<key>AppLozic.momd/AppLozic 13.mom</key>
+		<data>
+		zuO6QJrpRjT2zf1MzJO+ddfuFgw=
+		</data>
+		<key>AppLozic.momd/AppLozic 13.omo</key>
+		<data>
+		9KZqwo+0whK2R1y31iLf1vipowE=
+		</data>
+		<key>AppLozic.momd/AppLozic 2.mom</key>
+		<data>
+		ftXoUYr13ntrWi2B2XdCss33Qso=
+		</data>
+		<key>AppLozic.momd/AppLozic 3.mom</key>
+		<data>
+		B0EcjjoupKOLyEFB+aks/Qzbgac=
+		</data>
+		<key>AppLozic.momd/AppLozic 4.mom</key>
+		<data>
+		UdFiyhjpHJBELev/sgafmuyc7FI=
+		</data>
+		<key>AppLozic.momd/AppLozic 5.mom</key>
+		<data>
+		e+3Qb6KOcrHiA2a/0Ja5drp9Yno=
+		</data>
+		<key>AppLozic.momd/AppLozic 6.mom</key>
+		<data>
+		hXnkQr/Nz7uJvqP6N0L2r59ouVc=
+		</data>
+		<key>AppLozic.momd/AppLozic 7.mom</key>
+		<data>
+		ceo3apianUj0EOWHI1yRmeBEekc=
+		</data>
+		<key>AppLozic.momd/AppLozic 8.mom</key>
+		<data>
+		1TcU730O8cr5OlRm0Ln38nPrLFw=
+		</data>
+		<key>AppLozic.momd/AppLozic 9.mom</key>
+		<data>
+		ni7UOsdWOM4yjggF7kedvIMjof0=
+		</data>
+		<key>AppLozic.momd/AppLozic.mom</key>
+		<data>
+		0oFV7LneHmUftebM+G3CE6mqHx4=
+		</data>
+		<key>AppLozic.momd/VersionInfo.plist</key>
+		<data>
+		qBQNNGqcJ3ocTlwnHoPVoJZ8pt8=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		FPmTca0Jia73rWvg/Bv4Ym4dEkU=
+		</data>
+		<key>MQTTClient.momd/MQTTClient.mom</key>
+		<data>
+		f44gkRKr0Oqvz7aoCeq/8Feft6o=
+		</data>
+		<key>MQTTClient.momd/MQTTClient.omo</key>
+		<data>
+		acxzJXINprFYwcy2DBxx01kTGZc=
+		</data>
+		<key>MQTTClient.momd/VersionInfo.plist</key>
+		<data>
+		iZ596X1CeRWHvwCcdnaWvTt9ovw=
+		</data>
+		<key>TSMessagesDefaultDesign.json</key>
+		<data>
+		+G50m/VOp2YXPg/6whd1nnWSlgU=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>AppLozic.momd/AppLozic 10.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8OLqHL042T26AZ4PycxbigH4YjaNDQo9qXDCR9iGHEk=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 11.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eXc/vlNCBLvfN9Feb0brdkEFm4CYqVfuIYUl3gE8SLI=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 12.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yzJlNBCa5BpftnmYH9j5oWkbMoAXLahxDeihZexKoSQ=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 13.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5OHrZSAifRyNxOfDWaVUDVr46ZIa1aUHIi3rF4kmVPI=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 13.omo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UFqqVb8UntpYzT2rwR/6O2BkfAT/QwDouX3yS3K8zGs=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 2.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iuWXSJrnkvK2HlpduM8momdMAN0TYN3gs6v+rRuKQtE=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 3.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l/qtWkrK9xxM7cIXECDVCUBKc0vRlJUKykipMjtoE/E=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 4.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5G9M3JLh5B7jpWIP5RIsMHpZxaptHUOV2pJl+IUdPOM=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 5.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/qSGsHFodUZTQOZ5SSVq/xwCOqAPA5thyJBCVMSQNC8=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 6.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			44FfKWg9AQ9iRzu+nQ+qHy9Oub+i/Pw69LfcEzD3TUk=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 7.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ps9rMvreyrzi0Ew3xdDNpOQ+TB178FNGHbgSz9cQB1A=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 8.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1TPtKBoFa78/ik74w4kgSUJvfIbucEdNvPyYQOk1008=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic 9.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			imsLx3xaoQfYdKvAHqQonovpxEnIBEqm3cNSNjkLx5g=
+			</data>
+		</dict>
+		<key>AppLozic.momd/AppLozic.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cH4jiBZeNgkvsPRQ7Q9EVyPI1JmxBBeoBjR8qcUs9d8=
+			</data>
+		</dict>
+		<key>AppLozic.momd/VersionInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dAYqb0gJrDxKzoV+HUUxMF/Tvx8gDsXK5h1OavaSE8c=
+			</data>
+		</dict>
+		<key>MQTTClient.momd/MQTTClient.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C+YRhpZFVIPeiYxIVDqdtL+zYuqXLrLuGn7HL+WUEMI=
+			</data>
+		</dict>
+		<key>MQTTClient.momd/MQTTClient.omo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F3Dl+udfH8Ihjo0aD1CMms8lVQTUgKuhWDDTIR2HFb4=
+			</data>
+		</dict>
+		<key>MQTTClient.momd/VersionInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3jkVWlmaZK65P0DT91F19S2tDlzlan9v8s++MVdhJkY=
+			</data>
+		</dict>
+		<key>TSMessagesDefaultDesign.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cvz15jIIpyxZh8IRupioVQ8lN1GFvL8+O54HirEUucc=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

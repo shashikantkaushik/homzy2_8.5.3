@@ -1,0 +1,11 @@
+framework module kommunicate_flutter {
+  umbrella header "kommunicate_flutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module kommunicate_flutter.Swift {
+  header "kommunicate_flutter-Swift.h"
+  requires objc
+}

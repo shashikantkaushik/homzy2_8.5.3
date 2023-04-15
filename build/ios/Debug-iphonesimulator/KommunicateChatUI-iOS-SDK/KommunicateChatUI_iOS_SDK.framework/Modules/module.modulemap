@@ -1,0 +1,11 @@
+framework module KommunicateChatUI_iOS_SDK {
+  umbrella header "KommunicateChatUI-iOS-SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module KommunicateChatUI_iOS_SDK.Swift {
+  header "KommunicateChatUI_iOS_SDK-Swift.h"
+  requires objc
+}
