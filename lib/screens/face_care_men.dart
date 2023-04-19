@@ -73,16 +73,16 @@ class FaceMenServiceScreen extends StatelessWidget {
                 ),
               ),
               SmallService(context,
-                  "assets/face_care_for_women/eyebrow_2.2.jpeg",
-                  "Eyebrow",
-                  "assets/face_care_for_women/eyebrow_poster_2.2.jpeg",
+                  "assets/face_care_men/beard_grooming.jpeg",
+                  "beardGrooming",
+                  "assets/face_care_men/beard_grooming_poster.jpeg",
                   int.parse("399"),
                   "Our eyebrow home service provides precise and personalized eyebrow shaping to enhance the natural shape and balance of the face, using high-quality products and techniques to create a polished and professional look."
               ),
               SmallService(context,
-                  "assets/face_care_for_women/facial_cleaning.jpeg",
+                  "assets/face_care_men/facial_for_men.jpeg",
                   "Facial",
-                  "assets/face_care_for_women/exfoliation_poster.webp",
+                  "assets/face_care_men/facial_poster.jpeg",
                   int.parse("399"),
                   "Our facial home service offers a range of personalized facial treatments using high-quality products and specialized techniques to cleanse, exfoliate, and nourish the skin for a refreshed and rejuvenated appearance."
               ),
@@ -100,5 +100,3 @@ class FaceMenServiceScreen extends StatelessWidget {
     );
   }
 }
-
-

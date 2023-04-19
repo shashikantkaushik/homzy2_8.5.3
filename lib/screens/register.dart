@@ -99,7 +99,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                           borderSide: const BorderSide(color: Colors.black12),
                         ),
                         prefixIcon: Container(
-                          padding: const EdgeInsets.all(8.0),
+                          padding: const EdgeInsets.all(13.0),
                           child: InkWell(
                             onTap: () {
                               showCountryPicker(

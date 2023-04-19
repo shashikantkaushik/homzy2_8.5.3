@@ -100,5 +100,3 @@ class FaceWomenServiceScreen extends StatelessWidget {
     );
   }
 }
-
-

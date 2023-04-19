@@ -6,8 +6,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:homzy1/booked_model.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
-
-
+import 'package:homzy1/screens/home_screen.dart';
+import 'package:homzy1/screens/no_booking.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 class bookedService extends StatefulWidget {
   @override
@@ -59,7 +59,15 @@ class _bookedServiceState extends State<bookedService> {
 
           for (final docSnapshot in snapshot.data!.docs) {
             print('reqList length: ${reqList.length}');
+          if(reqList.length==0){
+            Navigator.push(
+                context,
 
+                MaterialPageRoute(
+                  builder: (context) => const NoBookingsScreen(),
+                ),
+            );
+          }
             print("error60r");
             final data = docSnapshot.data();
             print("error2345");

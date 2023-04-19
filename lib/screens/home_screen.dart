@@ -7,6 +7,19 @@ import 'package:homzy1/screens/small_service_page.dart';
 import 'package:homzy1/screens/account_page.dart';
 
 import 'package:homzy1/screens/booked_service.dart';
+import 'package:homzy1/screens/booked_service.dart';
+import 'package:flutter/material.dart';
+import 'package:carousel_pro/carousel_pro.dart';
+import 'package:homzy1/screens/account_page.dart';
+import 'package:homzy1/screens/takedata_page.dart';
+import 'package:homzy1/screens/booked_service.dart';
+import 'package:homzy1/screens/small_services_small_contianer .dart';
+import 'package:homzy1/screens/small_service_page.dart';
+import 'package:homzy1/screens/small_services_small_contianer .dart';
+import 'package:homzy1/screens/small_service_small_repair.dart';
+import 'package:homzy1/screens/small_service_carpenter.dart';
+import 'package:homzy1/screens/face_care.dart';
+import 'package:homzy1/screens/face_care_men.dart';
 
 
 import 'package:flutter/material.dart';
@@ -298,15 +311,85 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             Row(
               children: [
-                SmallCategories(
-                  context,
-                  "assets/images/spa.png",
-                  "Face Care",
+                Expanded(
+                    child: GestureDetector(
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => FaceWomenServiceScreen()),
+                        );
+                      },
+                      child: Container(
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(15),
+                          color: Color(0xFFe9e4f4),
+                        ),
+                        margin: EdgeInsets.only(left: 10, right: 10),
+                        height: 100,
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            CircleAvatar(
+                              child: Image.asset("assets/images/spa.png", height: 50, width: 50),
+                            ),
+                            SizedBox(height: 8),
+                            Padding(
+                              padding: EdgeInsets.all(0.5),
+                              child: Center(child:
+                              Text("Face Care",
+                                style:
+                                TextStyle(fontSize: 16,
+                                  color:
+                                  Colors.black54,
+                                ),
+                              ),
+                              ),
+                            ),
+                          ],
+                        ),
+
+                      ),
+                    )
                 ),
-                SmallCategories(
-                  context,
-                  "assets/images/massage.png",
-                  "Face Care",
+                Expanded(
+                    child: GestureDetector(
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => FaceMenServiceScreen()),
+                        );
+                      },
+                      child: Container(
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(15),
+                          color: Color(0xFFe9e4f4),
+                        ),
+                        margin: EdgeInsets.only(left: 10, right: 10),
+                        height: 100,
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            CircleAvatar(
+                              child: Image.asset("assets/images/massage.png", height: 50, width: 50),
+                            ),
+                            SizedBox(height: 8),
+                            Padding(
+                              padding: EdgeInsets.all(0.5),
+                              child: Center(child:
+                              Text("Face Care",
+                                style:
+                                TextStyle(fontSize: 16,
+                                  color:
+                                  Colors.black54,
+                                ),
+                              ),
+                              ),
+                            ),
+                          ],
+                        ),
+
+                      ),
+                    )
                 ),
               ],
             ),
@@ -360,7 +443,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       onTap: () {
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (context) => CleaningServiceScreen()),
+                          MaterialPageRoute(builder: (context) => CarpenterServiceScreen()),
                         );
                       },
                       child: Container(
@@ -1288,7 +1371,7 @@ class _HomeScreenState extends State<HomeScreen> {
             case 1:
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) =>bookedService()),
+                MaterialPageRoute(builder: (context) => bookedService()),
               );
               break;
             case 2:

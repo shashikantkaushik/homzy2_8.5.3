@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:homzy1/auth.dart';
 import 'package:provider/provider.dart';
 import 'package:homzy1/screens/WelcomeScreen.dart';
-//import 'package:kommunicate_flutter/kommunicate_flutter.dart';
+import 'package:homzy1/screens/profile_screen.dart';
+import 'package:kommunicate_flutter/kommunicate_flutter.dart';
 class SubSetting extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -89,11 +90,21 @@ class SubSetting extends StatelessWidget {
                       size: 50.0,
                     ),
                     SizedBox(width: 10.0),
-                    Text(
-                      "Profile",
-                      style: TextStyle(
-                        color: Colors.black,
-                        fontSize: 23.0,
+                    TextButton(
+                      onPressed: (){
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const Profile(),
+                          ),
+                        );
+                      },
+                      child: Text(
+                        "Profile",
+                        style: TextStyle(
+                          color: Colors.black,
+                          fontSize: 23.0,
+                        ),
                       ),
                     ),
                   ],
@@ -272,11 +283,24 @@ class SubSetting extends StatelessWidget {
                         size: 50.0,
                       ),
                       SizedBox(width: 10.0),
-                      Text(
-                        "Log Out",
-                        style: TextStyle(
-                          color: Colors.black,
-                          fontSize: 23.0,
+                      TextButton(
+                        onPressed: (){
+                          ap.userSignOut().then(
+                                (value) => Navigator.pushAndRemoveUntil(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => const WelcomeScreen(),
+                              ),
+                                  (Route<dynamic> route) => false,
+                            ),
+                          );
+                        },
+                        child: Text(
+                          "Log Out",
+                          style: TextStyle(
+                            color: Colors.black,
+                            fontSize: 23.0,
+                          ),
                         ),
                       ),
                     ],
