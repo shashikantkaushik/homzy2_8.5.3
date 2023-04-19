@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shashikant/Documents/Application_developement/homzy2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
+            "outputFile": "/Users/shashikant/Desktop/homzy2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
             "map": [
                 {
                     "source": "/Users/shashikant/.gradle/caches/transforms-3/e947a34c1a75845a9ea3b4b0130091ce/transformed/appcompat-1.2.0/res/values-sk/values-sk.xml",
@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "/Users/shashikant/.gradle/caches/transforms-3/50ac565c2d78ece85381646878fcb457/transformed/core-1.9.0/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "112",
+                        "startColumns": "4",
+                        "startOffsets": "10176",
+                        "endColumns": "100",
+                        "endOffsets": "10272"
+                    }
+                },
+                {
                     "source": "/Users/shashikant/.gradle/caches/transforms-3/27ed75583d8888cfd149af38bb71ea35/transformed/jetified-play-services-base-18.0.1/res/values-sk/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -35,23 +52,6 @@
                         "startOffsets": "3474,3580,3740,3864,3974,4130,4258,4371,4612,4781,4892,5062,5192,5355,5519,5587,5654",
                         "endColumns": "105,159,123,109,155,127,112,101,168,110,169,129,162,163,67,66,86",
                         "endOffsets": "3575,3735,3859,3969,4125,4253,4366,4468,4776,4887,5057,5187,5350,5514,5582,5649,5736"
-                    }
-                },
-                {
-                    "source": "/Users/shashikant/.gradle/caches/transforms-3/42e6491f5f37d2219727138ee1097e2e/transformed/core-1.8.0/res/values-sk/values-sk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "112",
-                        "startColumns": "4",
-                        "startOffsets": "10176",
-                        "endColumns": "100",
-                        "endOffsets": "10272"
                     }
                 },
                 {

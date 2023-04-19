@@ -31,7 +31,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  kommunicate_flutter: ^1.5.1
+  kommunicate_flutter: ^1.6.2
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -39,15 +39,15 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   country_picker: ^2.0.18
-  firebase_core: ^2.3.0
-  firebase_auth: ^4.1.5
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.4.2
   cloud_firestore: ^4.1.0
   firebase_storage: ^11.0.6
   shared_preferences: ^2.0.15
   provider: ^6.0.4
   pinput: ^2.2.16
   image_picker: ^0.8.6
-  font_awesome_flutter: ^9.2.0
+  font_awesome_flutter: ^10.4.0
 
   carousel_pro: ^1.0.0
 
@@ -68,9 +68,6 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/
-    - assets/service/
-    - assets/small_service/
-    - assets/
     - assets/images/spa_image.jpg
     - assets/images/spa.png
     - assets/images/massage.png
@@ -78,27 +75,70 @@ flutter:
     - assets/images/painting.png
     - assets/images/Repair.png
     - assets/carsoul_image/salon_banner.jpeg
-    - assets/carsoul_image/massage_salon_men.jpeg
-    - assets/carsoul_image/plumber_banner.jpeg
-    - assets/carsoul_image/electric_banner.jpeg
     - assets/salon_men/salon_service_men.jpeg
     - assets/salon_men/men_shaving.jpeg
     - assets/salon_men/men_hair_color.jpeg
     - assets/salon_men/facila_treatment.jpeg
-    - assets/salon_women/manicure.webp
     - assets/salon_women/haircut.jpeg
     - assets/salon_women/hair_color.jpeg
+    - assets/salon_women/manicure.webp
     - assets/salon_women/glow.jpeg
     - assets/sub_service/plumber_image/Faucet.jpeg
-    - assets/sub_service/plumber_image/pipe_repair.jpeg
+    - assets/sub_service/plumber_image/piper_repair_2.0.jpeg
+    - assets/sub_service/plumber_image/water_heater.png
+    - assets/sub_service/Electric_image/ac_repair.jpeg
+    - assets/sub_service/Electric_image/Lighting.jpeg
+    - assets/sub_service/Electric_image/washing_image.jpg
+    - assets/carsoul_image/massage_salon_men.jpeg
+    - assets/carsoul_image/plumber_banner.jpeg
+    - assets/carsoul_image/electric_banner.jpeg
+    - assets/salon_men/child_hari_cut.jpeg
+    - assets/salon_men/men_shaving_4.1.jpeg
+    - assets/salon_men/men_color_3.3.png
+    - assets/salon_men/facila_treatment.jpeg
+    - assets/salon_women/manicure_3.1.jpeg
+    - assets/salon_women/coloring hair_women_sec.jpeg
+    - assets/salon_women/hair_cutt_women_5.2.jpeg
+    - assets/salon_women/change_pixel.jpg
+    - assets/salon_women/makup_women_3.1.webp
+    - assets/sub_service/plumber_image/faucet_4.1.webp
+    - assets/sub_service/plumber_image/pipe_4.1.webp
     - assets/sub_service/plumber_image/water_heater.png
     - assets/sub_service/plumber_image/water_purifier.webp
-    - assets/sub_service/Electric_image/ac_repair.jpeg
-    - assets/sub_service/Electric_image/washing_image.jpeg
-    - assets/sub_service/Electric_image/Lighting.jpeg
+    - assets/sub_service/Electric_image/ac_repair_3.3.jpeg
+    - assets/sub_service/Electric_image/washing_machine_3.2.jpeg
+    - assets/sub_service/Electric_image/lighting_3.3.webp
     - assets/sub_service/Electric_image/referegator-repairing-large.jpg
     - assets/sub_service/plumber_subscreen.jpeg
-    - assets/sub_service/plum.jpg
+    - assets/sub_service/470110063 (1).jpg
     - assets/sub_service/plumber_image/pipe_repair.jpeg
     - assets/sub_service/plumber_image/piper_repair_2.0.jpeg
-      #   - images/a_dot_ham.jpe
+    - assets/salon_men/men_salon.jpeg
+    - assets/salon_men/facial_trement_2.0.webp
+    - assets/salon_women/women_haircut_2.0.jpeg
+    - assets/sub_service/plumber_image/water_heater_3.3.jpeg
+    - assets/sub_service/plumber_image/water_system_3.2.jpeg
+    - assets/cleaning_service/bathroom_cleaning.jpeg
+    - assets/cleaning_service/kitchen_cleaning.jpeg
+    - assets/cleaning_service/sofa_cleaning.jpeg
+    - assets/cleaning_service/carpet_cleaning.webp
+    - assets/cleaning_service/1_room_set_cleaning.jpeg
+    - assets/cleaning_service/garden claening.jpeg
+    - assets/cleaning_service/bathroom_cleaning_poster.jpeg
+    - assets/cleaning_service/kitchen_cleaner_poster.jpeg
+    - assets/cleaning_service/garden_cleaner_poster.jpeg
+    - assets/cleaning_service/carpet_cleaner_poster.jpeg
+    - assets/cleaning_service/sofa_cleaner_poster.jpeg
+    - assets/repair_serivce/switch_repair.jpeg
+    - assets/repair_serivce/ovens_stoves_repair.jpeg
+    - assets/repair_serivce/vaccum_cleaners.jpeg
+    - assets/repair_serivce/fan_repair.webp
+    - assets/repair_serivce/electrical-wiring.jpeg
+    - assets/repair_serivce/wire_repair_2.3.jpeg
+    - assets/repair_serivce/vacuum_poster.jpeg
+    - assets/repair_serivce/fan_poster.webp
+    - assets/repair_serivce/stove_poster.jpeg
+    - assets/repair_serivce/stove_poster_2.1.jpeg
+    - assets/repair_serivce/switch_poster.jpeg
+    - assets/repair_serivce/electric_main.webp
+  #   - images/a_dot_ham.jpe

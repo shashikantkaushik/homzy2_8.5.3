@@ -3,17 +3,17 @@
 
 import 'package:homzy1/auth.dart';
 import 'package:flutter/material.dart';
-import 'package:homzy1/screens/account_page.dart';
 import 'package:homzy1/screens/home_screen.dart';
-import 'package:homzy1/screens/small_service_page.dart';
 import 'package:homzy1/utils.dart';
 import 'dart:io';
 
 import 'package:provider/provider.dart';
 import 'package:homzy1/req_model.dart';
 class LocationScreen extends StatefulWidget {
-  final String work;
-   LocationScreen({required this.work});
+ // final String work;
+   LocationScreen(
+       //required this.work
+       );
   @override
   _LocationScreenState createState() => _LocationScreenState();
 }

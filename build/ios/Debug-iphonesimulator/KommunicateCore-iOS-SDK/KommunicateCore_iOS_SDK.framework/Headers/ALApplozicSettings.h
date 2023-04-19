@@ -164,6 +164,7 @@ static NSString *const AL_CUSTOM_BOT_ID = @"com.applozic.userdefault.AL_CUSTOM_B
 static NSString *const KM_ZENDESK_ACCOUNT_KEY = @"com.applozic.userdefault.KM_ZENDESK_ACCOUNT_KEY";
 static NSString *const KM_ZENDESK_LAST_CONVERSATION_ID = @"com.applozic.userdefault.KM_ZENDESK_LAST_CONVERSATION_ID";
 static NSString *const KM_ZENDESK_LAST_SYNC_TIME = @"com.applozic.userdefault.KM_ZENDESK_LAST_SYNC_TIME";
+static NSString *const KM_SELECTED_LANGUAGE_FOR_SPEECH_TO_TEXT = @"KM_SELECTED_LANGUAGE_FOR_SPEECH_TO_TEXT";
 
 
 @interface ALApplozicSettings : NSObject
@@ -657,5 +658,9 @@ static NSString *const KM_ZENDESK_LAST_SYNC_TIME = @"com.applozic.userdefault.KM
 
 + (void) saveZendeskLastSyncTime: (NSNumber *) lastSyncTime;
 + (NSNumber *) getZendeskLastSyncTime;
+
++ (void) setSelectedLanguageForSpeechToText: (NSString *) language;
++ (NSString *) getSelectedLanguageForSpeechToText;
+
 
 @end

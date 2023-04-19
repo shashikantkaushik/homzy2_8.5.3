@@ -849,6 +849,22 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layer
 @end
 
 
+SWIFT_CLASS("_TtC25KommunicateChatUI_iOS_SDK22KMConversationInfoView")
+@interface KMConversationInfoView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)_ OBJC_DESIGNATED_INITIALIZER SWIFT_UNAVAILABLE;
+@end
+
+
+/// A curved button with text and  image.
+SWIFT_CLASS("_TtC25KommunicateChatUI_iOS_SDK19KMMultiSelectButton")
+@interface KMMultiSelectButton : UIView
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)_ SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+
 SWIFT_CLASS("_TtC25KommunicateChatUI_iOS_SDK20KMZendeskChatHandler")
 @interface KMZendeskChatHandler : NSObject <ZDKJWTAuthenticator>
 - (void)getToken:(void (^ _Nonnull)(NSString * _Nullable, NSError * _Nullable))completion;
@@ -1888,6 +1904,22 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layer
 - (void)didMoveToWindow;
 - (void)willMoveToSuperview:(UIView * _Nullable)newSuperview;
 - (void)prepareForInterfaceBuilder;
+@end
+
+
+SWIFT_CLASS("_TtC25KommunicateChatUI_iOS_SDK22KMConversationInfoView")
+@interface KMConversationInfoView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)_ OBJC_DESIGNATED_INITIALIZER SWIFT_UNAVAILABLE;
+@end
+
+
+/// A curved button with text and  image.
+SWIFT_CLASS("_TtC25KommunicateChatUI_iOS_SDK19KMMultiSelectButton")
+@interface KMMultiSelectButton : UIView
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)_ SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
 

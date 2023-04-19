@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:homzy1/auth.dart';
-import 'package:homzy1/screens/home_screen.dart';
 import 'package:provider/provider.dart';
 import 'package:homzy1/screens/WelcomeScreen.dart';
-import 'package:kommunicate_flutter/kommunicate_flutter.dart';
+//import 'package:kommunicate_flutter/kommunicate_flutter.dart';
 class SubSetting extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -21,23 +21,62 @@ class SubSetting extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
+          SizedBox(
+            height: 20,
+          ),
           // Circular, small image in the middle of the top screen
           SafeArea(
             child: Container(
-              child:
-                CircleAvatar(
+              padding: EdgeInsets.only(left: 10),
+              width: 400.0,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.start,
+                children: [
+                  Container(
+                    height: 100.0,
+                    width: 100.0,
+                    decoration: BoxDecoration(
+                      shape: BoxShape.circle,
+                      color: Color(0xFF189AB4),
+                      image: DecorationImage(
+                        fit: BoxFit.cover,
+                        image: NetworkImage(ap.userModel.profilePic),
+                      ),
+                    ),
+                  ),
 
-                  backgroundImage: NetworkImage(ap.userModel.profilePic),
-                  backgroundColor: Color(0xFF189AB4),
-                  radius: 50,
-                )
+
+                  SizedBox(width: 20.0),
+                  Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                       "$name",
+                        style: TextStyle(
+                          fontSize: 24.0,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      SizedBox(height: 5.0),
+                      Text(
+                       "$phone",
+                        style: TextStyle(
+                          fontSize: 18.0,
+                          color: Colors.grey,
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+
             ),
+
           ),
           SizedBox(height: 50),
           // Container 1 with payment icon and arrow
           Container(
             height: 60.0,
-            color: Colors.white,
             padding: EdgeInsets.symmetric(horizontal: 16.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -45,21 +84,21 @@ class SubSetting extends StatelessWidget {
                 Row(
                   children: [
                     Icon(
-                      Icons.edit,
-                      color: Colors.black,
-                      size: 32.0,
+                      Icons.account_circle,
+                      color: Colors.blueAccent,
+                      size: 50.0,
                     ),
-                    SizedBox(width: 16.0),
+                    SizedBox(width: 10.0),
                     Text(
-                      "Profile Edit",
+                      "Profile",
                       style: TextStyle(
                         color: Colors.black,
-                        fontSize: 24.0,
+                        fontSize: 23.0,
                       ),
                     ),
                   ],
                 ),
-                Spacer(),
+              //  Spacer(),
                 Icon(
                   Icons.arrow_forward_ios,
                   color: Colors.black,
@@ -68,10 +107,9 @@ class SubSetting extends StatelessWidget {
               ],
             ),
           ),
-          SizedBox(height: 16.0),
+          SizedBox(height: 20.0),
           Container(
             height: 60.0,
-            color: Colors.white,
             padding: EdgeInsets.symmetric(horizontal: 16.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -80,20 +118,20 @@ class SubSetting extends StatelessWidget {
                   children: [
                     Icon(
                       Icons.payment,
-                      color: Colors.black,
-                      size: 32.0,
+                      color: Colors.purpleAccent,
+                      size: 50.0,
                     ),
-                    SizedBox(width: 16.0),
+                    SizedBox(width: 10.0),
                     Text(
                       "Payment",
                       style: TextStyle(
                         color: Colors.black,
-                        fontSize: 24.0,
+                        fontSize: 23.0,
                       ),
                     ),
                   ],
                 ),
-                Spacer(),
+               // Spacer(),
                 Icon(
                   Icons.arrow_forward_ios,
                   color: Colors.black,
@@ -102,10 +140,9 @@ class SubSetting extends StatelessWidget {
               ],
             ),
           ),
-          SizedBox(height: 16.0),
+          SizedBox(height: 20.0),
           Container(
             height: 60.0,
-            color: Colors.white,
             padding: EdgeInsets.symmetric(horizontal: 16.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -114,20 +151,20 @@ class SubSetting extends StatelessWidget {
                   children: [
                     Icon(
                       Icons.question_answer,
-                      color: Colors.black,
-                      size: 32.0,
+                      color: Colors.deepOrange,
+                      size: 50.0,
                     ),
-                    SizedBox(width: 16.0),
+                    SizedBox(width: 10.0),
                     Text(
                       "FAQ",
                       style: TextStyle(
                         color: Colors.black,
-                        fontSize: 24.0,
+                        fontSize: 23.0,
                       ),
                     ),
                   ],
                 ),
-                Spacer(),
+               // Spacer(),
                 Icon(
                   Icons.arrow_forward_ios,
                   color: Colors.black,
@@ -136,11 +173,10 @@ class SubSetting extends StatelessWidget {
               ],
             ),
           ),
-          SizedBox(height: 16.0),
+          SizedBox(height: 20.0),
           // Container 2
           Container(
             height: 60.0,
-            color: Colors.white,
             padding: EdgeInsets.symmetric(horizontal: 16.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -149,30 +185,15 @@ class SubSetting extends StatelessWidget {
                   children: [
                     Icon(
                       Icons.help,
-                      color: Colors.black,
-                      size: 32.0,
+                      color: Colors.orangeAccent,
+                      size: 50.0,
                     ),
-                    SizedBox(width: 16.0),
-                    TextButton(
-                      onPressed: (){
-                        dynamic conversationObject = {
-                          'appId': '$kchatbot',// The [APP_ID](https://dashboard.kommunicate.io/settings/install) obtained from kommunicate dashboard.
-                        };
-
-                        KommunicateFlutterPlugin.buildConversation(conversationObject)
-                            .then((clientConversationId) {
-
-                          print("Conversation builder success : " + clientConversationId.toString());
-                        }).catchError((error) {
-                          print("Conversation builder error : " + error.toString());
-                        });
-                      },
-                      child: Text(
-                        "Help",
-                        style: TextStyle(
-                          color: Colors.black,
-                          fontSize: 24.0,
-                        ),
+                    SizedBox(width: 10.0),
+                    Text(
+                      "Help",
+                      style: TextStyle(
+                        color: Colors.black,
+                        fontSize: 23.0,
                       ),
                     ),
                   ],
@@ -186,13 +207,12 @@ class SubSetting extends StatelessWidget {
             ),
           ),
 
-          SizedBox(height: 16.0),
+          SizedBox(height: 20.0),
           // Container 3
           // Container 4
           // Container 4
           Container(
             height: 60.0,
-            color: Colors.white,
             padding: EdgeInsets.symmetric(horizontal: 16.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -200,21 +220,21 @@ class SubSetting extends StatelessWidget {
                 Row(
                   children: [
                     Icon(
-                      Icons.email,
-                      color: Colors.black,
-                      size: 32.0,
+                      Icons.email_outlined,
+                      color: Colors.redAccent,
+                      size: 50.0,
                     ),
-                    SizedBox(width: 16.0),
+                    SizedBox(width: 10.0),
                     Text(
                       "About us",
                       style: TextStyle(
                         color: Colors.black,
-                        fontSize: 24.0,
+                        fontSize: 23.0,
                       ),
                     ),
                   ],
                 ),
-                Spacer(),
+             //   Spacer(),
                 Icon(
                   Icons.arrow_forward_ios,
                   color: Colors.black,
@@ -223,75 +243,51 @@ class SubSetting extends StatelessWidget {
               ],
             ),
           ),
-          SizedBox(height: 16.0),
+          SizedBox(height: 20.0),
           // Container 3
           // Container 4
           Container(
             height: 60.0,
-            color: Colors.white,
             padding: EdgeInsets.symmetric(horizontal: 16.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                GestureDetector(
-                  onTap: (){
-                      ap.userSignOut().then(
-                          (value) => Navigator.push(
+                TextButton(
+                  onPressed: (){
+                    ap.userSignOut().then(
+                          (value) => Navigator.pushAndRemoveUntil(
                         context,
                         MaterialPageRoute(
                           builder: (context) => const WelcomeScreen(),
                         ),
+                            (Route<dynamic> route) => false,
                       ),
                     );
                   },
-                  child: Row(
+                  child:  Row(
                     children: [
-                      GestureDetector(
-                        onTap: (){
-                          ap.userSignOut().then(
-                                (value) => Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                builder: (context) => const WelcomeScreen(),
-                              ),
-                            ),
-                          );
-                        },
-                        child: Icon(
-                          Icons.logout,
-                          color: Colors.black,
-                          size: 32.0,
-                        ),
+                      Icon(
+                        Icons.logout,
+                        color: Colors.blueGrey,
+                        size: 50.0,
                       ),
-                      SizedBox(width: 16.0),
+                      SizedBox(width: 10.0),
                       Text(
                         "Log Out",
                         style: TextStyle(
                           color: Colors.black,
-                          fontSize: 24.0,
+                          fontSize: 23.0,
                         ),
                       ),
                     ],
                   ),
                 ),
-                Spacer(),
-                GestureDetector(
-                  onTap: (){ap.userSignOut().then(
-                        (value) => Navigator.pushAndRemoveUntil(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => const WelcomeScreen(),
-                      ),
-                          (Route<dynamic> route) => false,
-                    ),
-                  );
 
-                  },
-                  child: Icon(
-                    Icons.arrow_forward_ios,
-                    color: Colors.black,
-                    size: 24.0,
-                  ),
+              //  Spacer(),
+                Icon(
+                  Icons.arrow_forward_ios,
+                  color: Colors.black,
+                  size: 24.0,
                 ),
               ],
             ),

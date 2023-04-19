@@ -311,6 +311,9 @@ SWIFT_CLASS_NAMED("Storage")
 /// The maximum time in seconds to retry operations other than upload and download if a failure occurs.
 /// Defaults to 2 minutes (120 seconds).
 @property (nonatomic) NSTimeInterval maxOperationRetryTime;
+/// Specify the maximum upload chunk size. Values less than 256K (262144) will be rounded up to 256K. Values
+/// above 256K will be rounded down to the nearest 256K multiple. The default is no maximum.
+@property (nonatomic) int64_t uploadChunkSizeBytes;
 /// A <code>DispatchQueue</code> that all developer callbacks are fired on. Defaults to the main queue.
 @property (nonatomic, strong) dispatch_queue_t _Nonnull callbackQueue;
 /// Creates a <code>StorageReference</code> initialized at the root Firebase Storage location.
@@ -423,7 +426,7 @@ SWIFT_CLASS_NAMED("StorageObservableTask")
 /// Downloads can currently be returned as <code>Data</code> in memory, or as a <code>URL</code> to a file on disk.
 /// Downloads are performed on a background queue, and callbacks are raised on the developer
 /// specified <code>callbackQueue</code> in Storage, or the main queue if left unspecified.
-/// Currently all uploads must be initiated and managed on the main queue.
+/// Currently all downloads must be initiated and managed on the main queue.
 SWIFT_CLASS_NAMED("StorageDownloadTask")
 @interface FIRStorageDownloadTask : FIRStorageObservableTask <FIRStorageTaskManagement>
 /// Prepares a task and begins execution.
@@ -1136,6 +1139,9 @@ SWIFT_CLASS_NAMED("Storage")
 /// The maximum time in seconds to retry operations other than upload and download if a failure occurs.
 /// Defaults to 2 minutes (120 seconds).
 @property (nonatomic) NSTimeInterval maxOperationRetryTime;
+/// Specify the maximum upload chunk size. Values less than 256K (262144) will be rounded up to 256K. Values
+/// above 256K will be rounded down to the nearest 256K multiple. The default is no maximum.
+@property (nonatomic) int64_t uploadChunkSizeBytes;
 /// A <code>DispatchQueue</code> that all developer callbacks are fired on. Defaults to the main queue.
 @property (nonatomic, strong) dispatch_queue_t _Nonnull callbackQueue;
 /// Creates a <code>StorageReference</code> initialized at the root Firebase Storage location.
@@ -1248,7 +1254,7 @@ SWIFT_CLASS_NAMED("StorageObservableTask")
 /// Downloads can currently be returned as <code>Data</code> in memory, or as a <code>URL</code> to a file on disk.
 /// Downloads are performed on a background queue, and callbacks are raised on the developer
 /// specified <code>callbackQueue</code> in Storage, or the main queue if left unspecified.
-/// Currently all uploads must be initiated and managed on the main queue.
+/// Currently all downloads must be initiated and managed on the main queue.
 SWIFT_CLASS_NAMED("StorageDownloadTask")
 @interface FIRStorageDownloadTask : FIRStorageObservableTask <FIRStorageTaskManagement>
 /// Prepares a task and begins execution.

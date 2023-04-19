@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:1:1-2:68
-INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:1:1-2:68
-INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:1:1-2:68
+ADDED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:1:1-2:68
+INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:1:1-2:68
+INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:1:1-2:68
 	package
-		ADDED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:2:5-56
-		INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+		ADDED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:2:5-56
+		INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
-INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
-INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
-INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
-		ADDED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+		ADDED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
-		ADDED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/shashikant/Documents/Application_developement/Flutter_Tool/flutter/.pub-cache/hosted/pub.dartlang.org/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+		ADDED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashikant/.pub-cache/hosted/pub.dev/kommunicate_flutter-1.5.6/android/src/main/AndroidManifest.xml

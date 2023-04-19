@@ -1265,11 +1265,22 @@ int color km_grey_rectangle_background 0x0
 int color km_header_text_background 0x0
 int color km_image_background_color 0x0
 int color km_image_preview_background_color 0x0
+int color km_language_bottom_fragment_background_color 0x0
+int color km_language_code_text_color 0x0
+int color km_language_divider_color 0x0
+int color km_language_heading_text_color 0x0
+int color km_language_name_text_color 0x0
+int color km_language_selected_background_color 0x0
+int color km_language_selected_code_text_color 0x0
+int color km_language_selected_name_text_color 0x0
 int color km_list_item_action_color 0x0
 int color km_list_item_divider_color 0x0
 int color km_list_item_header_text_color 0x0
 int color km_list_item_main_header_text_color 0x0
 int color km_list_item_text_color 0x0
+int color km_multiple_select_border_color 0x0
+int color km_multiple_select_selected_background_color 0x0
+int color km_multiple_select_text_color 0x0
 int color km_offline_dot_color 0x0
 int color km_offline_dot_stroke_color 0x0
 int color km_online_dot_color 0x0
@@ -2039,8 +2050,10 @@ int drawable km_count_button_shape 0x0
 int drawable km_custom_dialog_shape 0x0
 int drawable km_delivered_icon 0x0
 int drawable km_delivered_icon_c 0x0
+int drawable km_doc_icon 0x0
 int drawable km_dropdown_background_with_icon 0x0
 int drawable km_faq_button_background 0x0
+int drawable km_files 0x0
 int drawable km_form_edit_text_background 0x0
 int drawable km_group_icon 0x0
 int drawable km_ic_action_about 0x0
@@ -2076,12 +2089,16 @@ int drawable km_icon_3 0x0
 int drawable km_icon_4 0x0
 int drawable km_image_rich_message_border 0x0
 int drawable km_imageless_rich_message_price_border 0x0
+int drawable km_language_change 0x0
 int drawable km_mail_default 0x0
 int drawable km_mail_error 0x0
 int drawable km_map_offline_thumbnail 0x0
 int drawable km_message_info_status_background 0x0
 int drawable km_mic_pressed 0x0
+int drawable km_multiple_button_selector 0x0
 int drawable km_multiselectgallery_icon 0x0
+int drawable km_next 0x0
+int drawable km_pdf_icon 0x0
 int drawable km_pending_icon_c 0x0
 int drawable km_pending_message_icon 0x0
 int drawable km_prechat_collection_background 0x0
@@ -2097,6 +2114,7 @@ int drawable km_rich_message_edit_text_border 0x0
 int drawable km_rich_message_image_border 0x0
 int drawable km_rich_message_image_transparent_border 0x0
 int drawable km_rich_messaging_price_border 0x0
+int drawable km_selector_success 0x0
 int drawable km_sent_icon 0x0
 int drawable km_sent_icon_c 0x0
 int drawable km_sent_message 0x0
@@ -2168,6 +2186,7 @@ int drawable slide_arrow_right 0x0
 int drawable slide_left 0x0
 int drawable slidearrow 0x0
 int drawable smiley 0x0
+int drawable star 0x0
 int drawable start_1 0x0
 int drawable start_new_conv_shape 0x0
 int drawable take_over_from_bot_online_circle 0x0
@@ -2475,6 +2494,7 @@ int id design_navigation_view 0x0
 int id dial 0x0
 int id dialog_button 0x0
 int id disjoint 0x0
+int id dismiss_button 0x0
 int id displayName 0x0
 int id displayNameLayout 0x0
 int id displayName_edit_btn 0x0
@@ -2622,6 +2642,10 @@ int id kmRecordLayout 0x0
 int id kmTakeOverFromBotButton 0x0
 int id kmTakeOverFromBotLayout 0x0
 int id km_auto_suggestion_row_layout 0x0
+int id km_conversation_info_view 0x0
+int id km_conversation_leading_image_view 0x0
+int id km_conversation_text_view 0x0
+int id km_conversation_trailing_image_view 0x0
 int id km_floating_widget 0x0
 int id km_form_date_picker 0x0
 int id km_form_dropdown_list 0x0
@@ -2631,6 +2655,11 @@ int id km_form_item_root_layout 0x0
 int id km_form_label_text 0x0
 int id km_form_selection_layout 0x0
 int id km_form_validation_text 0x0
+int id km_language_code 0x0
+int id km_language_linear_view 0x0
+int id km_language_name 0x0
+int id km_language_parent_view 0x0
+int id km_language_recycler_view 0x0
 int id km_name_tv 0x0
 int id km_record_view 0x0
 int id km_toast_icon 0x0
@@ -2638,6 +2667,7 @@ int id km_toast_root_layout 0x0
 int id km_toast_text 0x0
 int id labelGroup 0x0
 int id labeled 0x0
+int id language_change_button 0x0
 int id largeLabel 0x0
 int id lastNameEt 0x0
 int id lastSeenAtTextView 0x0
@@ -2822,6 +2852,7 @@ int id qtyValueTextView 0x0
 int id questionText 0x0
 int id quick_conversation_fragment_pane 0x0
 int id radio 0x0
+int id rate_conversation 0x0
 int id record_circle 0x0
 int id recording_text 0x0
 int id recording_text_layout 0x0
@@ -3145,6 +3176,7 @@ int layout km_call_layout 0x0
 int layout km_channel_custom_message_layout 0x0
 int layout km_chat_widget 0x0
 int layout km_context_based_layout 0x0
+int layout km_conversation_info_layout 0x0
 int layout km_custom_message_layout 0x0
 int layout km_custom_toast_layout 0x0
 int layout km_custom_toolbar_layout 0x0
@@ -3157,7 +3189,10 @@ int layout km_groups_list_layout 0x0
 int layout km_guest_details_layout 0x0
 int layout km_hotel_details_layout 0x0
 int layout km_image_rich_message_layout 0x0
+int layout km_language_change_view 0x0
+int layout km_languages_item_layout 0x0
 int layout km_message_info 0x0
+int layout km_multiple_select_button 0x0
 int layout km_prechat_dropdown_layout 0x0
 int layout km_prechat_input_item_layout 0x0
 int layout km_quick_reply_item_layout 0x0
@@ -3373,6 +3408,7 @@ int string camera_option 0x0
 int string cancel 0x0
 int string cancel_text 0x0
 int string cancel_transaction 0x0
+int string changed_language_to 0x0
 int string channel_add_alert 0x0
 int string channel_create_title 0x0
 int string channel_created_by 0x0
@@ -3422,6 +3458,8 @@ int string contactsListActivity 0x0
 int string contacts_list_search_results_title 0x0
 int string contacts_not_found 0x0
 int string conversation 0x0
+int string conversation_delete_failed 0x0
+int string conversation_delete_successful 0x0
 int string conversation_options 0x0
 int string conversation_rated_info 0x0
 int string conversations 0x0
@@ -3751,6 +3789,7 @@ int string profile_status 0x0
 int string push_notifications 0x0
 int string quick_conversation_loading 0x0
 int string rate_the_conversation 0x0
+int string rate_this_conversation 0x0
 int string rating_average 0x0
 int string rating_good 0x0
 int string rating_poor 0x0
@@ -3794,6 +3833,7 @@ int string search_title 0x0
 int string select_at_least 0x0
 int string select_file 0x0
 int string select_file_count_limit 0x0
+int string select_language 0x0
 int string selectionRequestText 0x0
 int string self_destruct 0x0
 int string send_location 0x0

@@ -11,14 +11,35 @@ class WelcomeScreen extends StatefulWidget {
   @override
   State<WelcomeScreen> createState() => _WelcomeScreenState();
 }
-
 class _WelcomeScreenState extends State<WelcomeScreen> {
   @override
+  void initState() {
+    super.initState();
+    // Wait for 3 seconds and navigate to the next screen
+    Future.delayed(const Duration(seconds: 3), () {
+      final ap = Provider.of<AuthProvider>(context, listen: false);
+      if (ap.isSignedIn == true) {
+        ap.getDataFromSP().whenComplete(() => Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const HomeScreen(),
+          ),
+        ));
+      } else {
+        Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const RegisterScreen(),
+          ),
+        );
+      }
+    });
+  }
+
+  @override
   Widget build(BuildContext context) {
-    final ap = Provider.of<AuthProvider>(context, listen: false);
-
+    // Build the UI for the welcome screen
     return Scaffold(
-
       body: SafeArea(
         child: Center(
           child: Padding(
@@ -53,25 +74,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                   width: double.infinity,
                   height: 50,
                   child: CustomButton(
-                    onPressed: () async {
-                      if (ap.isSignedIn == true) {
-                        await ap.getDataFromSP().whenComplete(
-                              () => Navigator.pushReplacement(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => const HomeScreen(),
-                            ),
-                          ),
-                        );
-                      } else {
-                        Navigator.pushReplacement(
-                          context,
-                          MaterialPageRoute(
-                            builder: (context) => const RegisterScreen(),
-                          ),
-                        );
-                      }
-                    },
+                    onPressed: () {},
                     text: "Get started",
                   ),
                 )

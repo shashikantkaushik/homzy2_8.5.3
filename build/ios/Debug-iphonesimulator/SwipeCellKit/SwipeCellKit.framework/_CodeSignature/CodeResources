@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y/BeBk3gbvGBCAy0OADtKlwO5dM=
+		IVC2T19ACHtta4kd0SuAgMOvmWo=
 		</data>
 		<key>Modules/SwipeCellKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		OOuwmVow8gxZVcAPf9IyQL9ALbI=
+		lEaOJgK2cdDKxlmTqq1tYIhFwGM=
 		</data>
 		<key>Modules/SwipeCellKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		gZeYo5UJte1Pl43C7dVvrh1SSpc=
+		l99Edam/ME0ypCAYEHSFAbzfprM=
 		</data>
 		<key>Modules/SwipeCellKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/SwipeCellKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NkyfUUK0MPvZMeYpvvrupzk55x0=
+		jJ42+O0MxJx5EYGX0ei4uS/9FRc=
 		</data>
 		<key>Modules/SwipeCellKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/SwipeCellKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uFO1B+FwkdN+InoXtitUJspmQfo=
+		iLW92GD5KtW1Z7UzSXHdb5rET6M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OOuwmVow8gxZVcAPf9IyQL9ALbI=
+			lEaOJgK2cdDKxlmTqq1tYIhFwGM=
 			</data>
 			<key>hash2</key>
 			<data>
-			i+hbsyAN7JP/BkCVzOjQLxUGpH82OAq9ck4IWONdSZ4=
+			VdJwVF+BS61wvjT+mZiay6FVqlBuog97bkdxzTzh2qM=
 			</data>
 		</dict>
 		<key>Modules/SwipeCellKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gZeYo5UJte1Pl43C7dVvrh1SSpc=
+			l99Edam/ME0ypCAYEHSFAbzfprM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2TJxZTDveC5EQ+NkjlUajJY6GqTNVxBKzUgFvcKG2gc=
+			zJXqtQeri6+nEVVtJbRnfz7HBD7a4bY/727kjqvmbhk=
 			</data>
 		</dict>
 		<key>Modules/SwipeCellKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NkyfUUK0MPvZMeYpvvrupzk55x0=
+			jJ42+O0MxJx5EYGX0ei4uS/9FRc=
 			</data>
 			<key>hash2</key>
 			<data>
-			/dOMlWLtpWUWAUzkHxwWHFJMAq2cWmOz9aqLsUT6yMQ=
+			pXDXTNS0HtsZ3qz8HIvSJPaHFqH5GgHKjgRObZJkpAg=
 			</data>
 		</dict>
 		<key>Modules/SwipeCellKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uFO1B+FwkdN+InoXtitUJspmQfo=
+			iLW92GD5KtW1Z7UzSXHdb5rET6M=
 			</data>
 			<key>hash2</key>
 			<data>
-			pyzBFcNtv5Dv/JAY/YNUP37gqLKAOzEdueC6rpJFiFM=
+			fAZ5SUDkBRHAgQk0JEewkMmitCCVR3CJfjMI+Fk/5j8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

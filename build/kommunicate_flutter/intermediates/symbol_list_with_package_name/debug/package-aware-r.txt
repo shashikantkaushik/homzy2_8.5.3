@@ -1266,11 +1266,22 @@ color km_grey_rectangle_background
 color km_header_text_background
 color km_image_background_color
 color km_image_preview_background_color
+color km_language_bottom_fragment_background_color
+color km_language_code_text_color
+color km_language_divider_color
+color km_language_heading_text_color
+color km_language_name_text_color
+color km_language_selected_background_color
+color km_language_selected_code_text_color
+color km_language_selected_name_text_color
 color km_list_item_action_color
 color km_list_item_divider_color
 color km_list_item_header_text_color
 color km_list_item_main_header_text_color
 color km_list_item_text_color
+color km_multiple_select_border_color
+color km_multiple_select_selected_background_color
+color km_multiple_select_text_color
 color km_offline_dot_color
 color km_offline_dot_stroke_color
 color km_online_dot_color
@@ -2040,8 +2051,10 @@ drawable km_count_button_shape
 drawable km_custom_dialog_shape
 drawable km_delivered_icon
 drawable km_delivered_icon_c
+drawable km_doc_icon
 drawable km_dropdown_background_with_icon
 drawable km_faq_button_background
+drawable km_files
 drawable km_form_edit_text_background
 drawable km_group_icon
 drawable km_ic_action_about
@@ -2077,12 +2090,16 @@ drawable km_icon_3
 drawable km_icon_4
 drawable km_image_rich_message_border
 drawable km_imageless_rich_message_price_border
+drawable km_language_change
 drawable km_mail_default
 drawable km_mail_error
 drawable km_map_offline_thumbnail
 drawable km_message_info_status_background
 drawable km_mic_pressed
+drawable km_multiple_button_selector
 drawable km_multiselectgallery_icon
+drawable km_next
+drawable km_pdf_icon
 drawable km_pending_icon_c
 drawable km_pending_message_icon
 drawable km_prechat_collection_background
@@ -2098,6 +2115,7 @@ drawable km_rich_message_edit_text_border
 drawable km_rich_message_image_border
 drawable km_rich_message_image_transparent_border
 drawable km_rich_messaging_price_border
+drawable km_selector_success
 drawable km_sent_icon
 drawable km_sent_icon_c
 drawable km_sent_message
@@ -2169,6 +2187,7 @@ drawable slide_arrow_right
 drawable slide_left
 drawable slidearrow
 drawable smiley
+drawable star
 drawable start_1
 drawable start_new_conv_shape
 drawable take_over_from_bot_online_circle
@@ -2476,6 +2495,7 @@ id design_navigation_view
 id dial
 id dialog_button
 id disjoint
+id dismiss_button
 id displayName
 id displayNameLayout
 id displayName_edit_btn
@@ -2623,6 +2643,10 @@ id kmRecordLayout
 id kmTakeOverFromBotButton
 id kmTakeOverFromBotLayout
 id km_auto_suggestion_row_layout
+id km_conversation_info_view
+id km_conversation_leading_image_view
+id km_conversation_text_view
+id km_conversation_trailing_image_view
 id km_floating_widget
 id km_form_date_picker
 id km_form_dropdown_list
@@ -2632,6 +2656,11 @@ id km_form_item_root_layout
 id km_form_label_text
 id km_form_selection_layout
 id km_form_validation_text
+id km_language_code
+id km_language_linear_view
+id km_language_name
+id km_language_parent_view
+id km_language_recycler_view
 id km_name_tv
 id km_record_view
 id km_toast_icon
@@ -2639,6 +2668,7 @@ id km_toast_root_layout
 id km_toast_text
 id labelGroup
 id labeled
+id language_change_button
 id largeLabel
 id lastNameEt
 id lastSeenAtTextView
@@ -2823,6 +2853,7 @@ id qtyValueTextView
 id questionText
 id quick_conversation_fragment_pane
 id radio
+id rate_conversation
 id record_circle
 id recording_text
 id recording_text_layout
@@ -3146,6 +3177,7 @@ layout km_call_layout
 layout km_channel_custom_message_layout
 layout km_chat_widget
 layout km_context_based_layout
+layout km_conversation_info_layout
 layout km_custom_message_layout
 layout km_custom_toast_layout
 layout km_custom_toolbar_layout
@@ -3158,7 +3190,10 @@ layout km_groups_list_layout
 layout km_guest_details_layout
 layout km_hotel_details_layout
 layout km_image_rich_message_layout
+layout km_language_change_view
+layout km_languages_item_layout
 layout km_message_info
+layout km_multiple_select_button
 layout km_prechat_dropdown_layout
 layout km_prechat_input_item_layout
 layout km_quick_reply_item_layout
@@ -3374,6 +3409,7 @@ string camera_option
 string cancel
 string cancel_text
 string cancel_transaction
+string changed_language_to
 string channel_add_alert
 string channel_create_title
 string channel_created_by
@@ -3423,6 +3459,8 @@ string contactsListActivity
 string contacts_list_search_results_title
 string contacts_not_found
 string conversation
+string conversation_delete_failed
+string conversation_delete_successful
 string conversation_options
 string conversation_rated_info
 string conversations
@@ -3752,6 +3790,7 @@ string profile_status
 string push_notifications
 string quick_conversation_loading
 string rate_the_conversation
+string rate_this_conversation
 string rating_average
 string rating_good
 string rating_poor
@@ -3795,6 +3834,7 @@ string search_title
 string select_at_least
 string select_file
 string select_file_count_limit
+string select_language
 string selectionRequestText
 string self_destruct
 string send_location

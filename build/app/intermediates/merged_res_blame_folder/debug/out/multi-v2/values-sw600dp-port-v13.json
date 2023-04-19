@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shashikant/Documents/Application_developement/homzy2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-port-v13/values-sw600dp-port-v13.xml",
+            "outputFile": "/Users/shashikant/Desktop/homzy2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-port-v13/values-sw600dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/shashikant/.gradle/caches/transforms-3/32d2f2407d8aa3318b5ebc2939f65ef4/transformed/jetified-kommunicateui-2.6.2/res/values-sw600dp-port-v13/values-sw600dp-port-v13.xml",
+                    "source": "/Users/shashikant/.gradle/caches/transforms-3/79b2ccad5aeb61f4b4456e03d74e9271/transformed/jetified-kommunicateui-2.6.8/res/values-sw600dp-port-v13/values-sw600dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

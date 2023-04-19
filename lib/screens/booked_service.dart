@@ -1,24 +1,13 @@
 import 'package:flutter/material.dart';
 //import 'package:homzy1/screens/respose.dart';
-import 'package:flutter/material.dart';
 import 'package:homzy1/auth.dart';
-import 'package:homzy1/req_model.dart';
 import 'package:provider/provider.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'dart:convert';
-import 'dart:io';
 import 'package:homzy1/booked_model.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:homzy1/req_model.dart';
-import 'package:homzy1/utils.dart';
-import 'package:flutter/material.dart';
-import 'package:homzy1/user_model.dart';
 
-import 'package:homzy1/screens/otp_screen.dart';
-import 'package:homzy1/utils.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 class bookedService extends StatefulWidget {
   @override
@@ -105,13 +94,13 @@ class _bookedServiceState extends State<bookedService> {
               //   icon: Icon(Icons.arrow_back),
               //   onPressed: () {},
               // ),
-              Text(
-              'Booked Service',
-              style: TextStyle(
-              fontSize: 24,
-              fontWeight: FontWeight.bold,
-              ),
-              ),
+              // Text(
+              // 'Booked Service',
+              // style: TextStyle(
+              // fontSize: 24,
+              // fontWeight: FontWeight.bold,
+              // ),
+              // ),
               SizedBox(
               width: 40,
               ),

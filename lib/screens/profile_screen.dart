@@ -268,7 +268,8 @@ backgroundColor: Colors.transparent,
                                 leading: Icon(Icons.help,
                                     color:Colors.black),
                                 title:GestureDetector(
-                                  onTap: (){    dynamic conversationObject = {
+                                  onTap: (){
+                                    dynamic conversationObject = {
                             'appId': '$kchatbot',// The [APP_ID](https://dashboard.kommunicate.io/settings/install) obtained from kommunicate dashboard.
                             };
 

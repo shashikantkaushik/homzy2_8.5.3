@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		NJiAWROo5ePGwO1mAGvpM2vQKk8=
+		nSIecGcIjlcng1rZNMqIfYLllpQ=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		PnEes8+HTpakzsWBelhfhMnJhec=
+		cdEH2GZSak4H77AoBtkk53UaZ4E=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		i1I2tEQO755CG0cgZOmQlY4sCaA=
+		mapq4cl7NwZ3zHRoKY2ey+iwGzw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		KeMZJT4uFpAm0ApWMm33cYUwNss=
+		SjBxl8dy/kgJzpOcui//BoeWt6k=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		Z+xZx9m1rCJ2WrBOSsTAGEO9UBQ=
+		1fZT05n4e5klX8WCc8orDifGd+Y=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/1.1.jpeg</key>
 		<data>
@@ -246,15 +246,15 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		mcmNrC70e/OT89y/p5EgxkVsLrs=
+		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<data>
-		+udtKIRyAcIS6rTHnYkqPRthPjk=
+		xbo3iIc8fTnuE5W4XE0VFw6QIBI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		T9vuC/U01uoVf33cl0TM0Zma9f4=
+		ZOkebcCqo1RzVeGrSCyDw7MN79E=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -262,23 +262,23 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf</key>
 		<data>
-		9K4M4LFRtO0XT/e548Ht8/ou2QU=
+		uJKrLDSPNYscx2HTsncf+/pNhEI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf</key>
 		<data>
-		TwxaL9PbSu7YG4pf8JX5PQN7/ow=
+		o7H7f51pvNrGe6NHNc0mT3XjFzI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf</key>
 		<data>
-		qCSzIeujm7QkMIhEZjtJuPn4xMA=
+		gh7ch0O49J1XoTGeDwa/CIqLo48=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
-		sBYZiH+OA3z+8ZbcHEE89PH9Rs8=
+		Z/DhfUUahgFGsthszkW1YubfdU8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
 		<data>
-		h8pEgB2abbws6A/J7VE0iurKhow=
+		bjcE383nCc8U85vWBdZ80X32NVA=
 		</data>
 		<key>Frameworks/ChatProvidersSDK.framework/ChatProvidersSDK</key>
 		<data>
@@ -292,765 +292,117 @@
 		<data>
 		nnq6Vk8r2QZosm1wDpa/wMg7ZKk=
 		</data>
-		<key>Frameworks/ChatSDK.framework/ChatSDK</key>
-		<data>
-		OeOok588nQJuiw9uUonQs5esQwg=
-		</data>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/Info.plist</key>
-		<data>
-		MnYUdxZJpiYWTd5b6AT3oDw5itA=
-		</data>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tJXI1adkR7SS4hGYGp0h/E/JBMA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/bg.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			b4ztAfUKHqjxVRHUw8ktgm3euyk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/cs.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+SEsKcItIjss+/vezLCYIV1ZAvY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/da.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1I0mQxdXFh3rXAKXxQAWhKauv6s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/de.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mDgUQW9/+U8PvdSkP05lORgC/n0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/el.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vyrpMLd0If2iXp/asDt7Ckseec8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/en-GB.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vnpo4/2beFBvk4WlFsXYxErQz3M=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vnpo4/2beFBvk4WlFsXYxErQz3M=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ulvj+AYwY8Q7npkS72YApsuLUhM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/fi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			S64N88louDcHDFG1eRjBqwSdqPY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/fil.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			z+NC0ic4O6+Se90pDKn4Wj6QquY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/fr-CA.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RGhp0NcdayzGmgqBrYI0vZt2p9A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/fr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/SO7yTWsLiGLSMOOYheokUPRnto=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/he.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fGw7TQVLeQ5mfKaY0xNa9bAsQB4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/hi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OI0QzD0xhZgU85u3NM8Ubday6Qg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/hu.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9gsRUu6yzrUIv8L60f+PkVZZz6Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/id.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zTU95juxg9k74QKxztPpQ/cooC4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8ZfxlaBZqTBrZ7P2uDVki0OByeg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ja.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D3SbtgRj+MityvmTAEz6Xi2hOvI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eXw6nwIeWXOyQsPd9LwA3gm+PT4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ms.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PftFTFghk7jQGvaM9yXMsFzDnq8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/nb.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9yGwv+LuLV8IdD8YE2f9ErkWEdQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/nl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			54U2YxnBxZD7u5GnLtSFGmvZ/Sw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/pl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aiXdGH9VyxD/9lXz27/WvRJdoTg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/pt-BR.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			czR8++/hprp9E7Bon/cjq5B0G48=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/pt.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			czR8++/hprp9E7Bon/cjq5B0G48=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ro.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CBE5ICw9l1hR3rbW5xZ7jFEOeQw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ru.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TMlO4BXIJAt43K/2LvagfpIG+jw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/sv.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EJBP6BDPlg6bbg7zK/1W2g1KOxU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/th.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tJmrbWV9k9nptdjimpF0SvQnns0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/tr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aQlBwW0Ed+Wa83mZbVNBoUW8bCU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/vi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UKvJmEWqB7zO8ioqMusLKtmG/E8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			82MdMhJ0/szhk04r2/4dhJ7FexQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lSQyV1raracSTueSaIKRPGtCNqw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/Info.plist</key>
-		<data>
-		BbtOveAiyNc3MZQExg4iYQBCZ7M=
-		</data>
-		<key>Frameworks/ChatSDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		FuIdyoW+OMKaXPxn+UR3kpg+LSY=
-		</data>
-		<key>Frameworks/CommonUISDK.framework/Assets.car</key>
-		<data>
-		9+4cQS1w9IbAkp/n3YYf/H1+Me8=
-		</data>
-		<key>Frameworks/CommonUISDK.framework/CommonUISDK</key>
-		<data>
-		+RTL3oJfHIuGDRhPa3TFvmfENVs=
-		</data>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/Info.plist</key>
-		<data>
-		iFtTU/QB5Z+pjvmz8ZB2gchw0kE=
-		</data>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oV5e05tYFJvqrnv/8oMvt513K68=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/bg.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Dzr74KUhPQMeBtHh1lREYHhHBbI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/cs.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VAIF4Q6POxWMnjzJst6dQVzDnno=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/da.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HWOgKaZDDaScqbWwwfs4yv0Gj2Y=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/de.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z27roo4P+qzW88/UKPWxtjqx9oo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/el.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mpVQUPi7P5mJJuy5PmjHntrm1MY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/en-GB.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D/CMWCD2uQi/9oqQYKwbFfY2nQk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JDN4Vf6iP/wb9Po+YUZZvUqgoM0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xYbzZsEZ54CZIMaRjwpkW1wdXFw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/fi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zm32QVH387iy4a5EXk6Z7zjv9H4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/fil.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			b4Pasq/+pG3y+Ylu6zFF/ercrNs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/fr-CA.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1zlRhO3WZuoEDb0QcXUPvu2UwCw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/fr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U7xpVxBP/SkVWvt4ckSo8ppFF+s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/he.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EIkNq9KdwHqCEGLKB4GJqkvuAjA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/hi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wT8eOoHhuZpMA95NYnNvaaOaFP4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/hu.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZxRKalK00a9geB5f6qU9YuGDCRc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/id.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7nBbiPCjzUvcM1XvUndgVWZm1i4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uSbj3fCD9DSEHIRUO8VMzAx402c=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ja.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vb1GAFLsTjfdWzDQp4Hbnrk8424=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Cs0r1bSlzyxRaPGjlni71p2PfTI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ms.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			t5L6I5IzBc81ESc2YiB1pxbGZWo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/nb.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q25J3SapwB+FqQVrvq7noXRiUlw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/nl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T1+Q0hkwYm7HuyIjO9vjQCfEXZA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/pl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IvdpTzGC//t1xCwPpXxBssZYtKg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/pt-BR.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EA6TE7g6yNIKHyhgJKideqWb6gQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/pt.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EA6TE7g6yNIKHyhgJKideqWb6gQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ro.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lDLXeTjFuNFJPI4TmrVzOcewnoI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ru.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			X2u+gbo/2eqV/M3g9fLOYf6iv2w=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/sv.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YSQgcsQoRMrKx6w+VOP08aOc8hQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/th.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			znyY/rx+vQPfT8kD+qX8FXEZOwE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/tr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			S2LzvuXcUvYbKaCBJqv39aEtp7A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/vi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ufxU+RXCZLz1pT1DfDES36w7BjA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HnFXQRrQNG/KUAtBOTR7jdNnhgo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			M960rJKt0Ad3/tPANWm+CQFJ/ak=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/Info.plist</key>
-		<data>
-		GR59IxGzaMjUakpWtAWG2FAyKMw=
-		</data>
-		<key>Frameworks/CommonUISDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		jH1XaCbiFEEKo+WTqAU9IITQTts=
-		</data>
 		<key>Frameworks/FBLPromises.framework/FBLPromises</key>
 		<data>
-		l34i0ec+5+dJgKBR63tJoWqdxKY=
+		MoZQSLt2k7KQe+OYTsI6d+BTKvs=
 		</data>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
 		<data>
-		SV3az3OTdmcaIquUve3FhKV1LUI=
+		i6ShkFbA3X9VZbsYrG8afpTxcVI=
 		</data>
 		<key>Frameworks/FBLPromises.framework/_CodeSignature/CodeResources</key>
 		<data>
-		VqKnPdbs8RFAj0ZkIKK1/Q8UbKM=
+		WKq4qVYGkKcpP3xDudp0kvPbZeQ=
 		</data>
 		<key>Frameworks/FirebaseAppCheckInterop.framework/FirebaseAppCheckInterop</key>
 		<data>
-		97t3Ob3bGKOlbVhUj+OP9sWW8FA=
+		PMZzkriZOU1Kt0k63fxcgYERBB0=
 		</data>
 		<key>Frameworks/FirebaseAppCheckInterop.framework/Info.plist</key>
 		<data>
-		jAz+5pf4bnKfyqj/X+s6ETg027I=
+		YmQnb371vi/0CjWOda2r40mit9U=
 		</data>
 		<key>Frameworks/FirebaseAppCheckInterop.framework/_CodeSignature/CodeResources</key>
 		<data>
-		MHLl3EDKhqn3jWyHg1lFXxlOqm0=
+		3A5NxyBNxWV221t2/cQO4y1hesA=
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<data>
-		s+CirRUHJxZ+DxP+ljP/lxDTgUs=
+		Fv49bhYeY692oDILeFLXcGb3mp8=
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<data>
-		T98zyRH0b8/XY3bPvytgWlRaQfY=
+		6oH57jRMJpoi8gqqm3FzuoHcXR4=
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources</key>
 		<data>
-		T4wy1YwRdQP5u5FXkc6Z9ghdeB4=
+		ZniE5TLg4sTZ0hn/0JPeQV2fkq0=
 		</data>
 		<key>Frameworks/FirebaseAuthInterop.framework/FirebaseAuthInterop</key>
 		<data>
-		z6PCZv34U0ohliFkuBjgy5//GwA=
+		fwjHDL/+O/u5PMbDhKblFy6NLXU=
 		</data>
 		<key>Frameworks/FirebaseAuthInterop.framework/Info.plist</key>
 		<data>
-		azoT1v2jyhbanJdbTg82Bz7Ll0E=
+		6EzD2NRp3gb2wQXeHca0YIvfHwo=
 		</data>
 		<key>Frameworks/FirebaseAuthInterop.framework/_CodeSignature/CodeResources</key>
 		<data>
-		r2Jm9VYFT3KS0h0sWYa5IQKFDYw=
+		T6FGEFOPWbq2vMRkkXyjpTm68kA=
 		</data>
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<data>
-		rJAS3A/qf3iX+YE5G28UQCetyuw=
+		Gzgvq1VRv3rgydxaQmtY6p7zAgk=
 		</data>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<data>
-		F8mOF6rtgU07H/HOO40buA3ymw4=
+		FjFky3VEmCYnUh5w5fFAD3VLZtI=
 		</data>
 		<key>Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xVeZFFMd/ySvUXazLJ9RmmvB4RU=
+		lQ5xA3Ujj3tVYqyZCeZ70zEsmbI=
 		</data>
 		<key>Frameworks/FirebaseCoreExtension.framework/FirebaseCoreExtension</key>
 		<data>
-		oX7NgBxroAhp2k6bkeBTvC18wtk=
+		+RADykLK7EHCjK10LKS3R4OAr4A=
 		</data>
 		<key>Frameworks/FirebaseCoreExtension.framework/Info.plist</key>
 		<data>
-		emtrLNunZapWEgls4LM4hcJeefA=
+		mUp3HitWhCQpAvPnv3o52iXRq5M=
 		</data>
 		<key>Frameworks/FirebaseCoreExtension.framework/_CodeSignature/CodeResources</key>
 		<data>
-		3p0GSe0QtRppsH67AJ3KY65RNTQ=
+		sShhzxF9HxEEnfu/PAuw7tsy62o=
 		</data>
 		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal</key>
 		<data>
-		l/qEepJYJO7eI4L/Oxyr4ZDFyqI=
+		ZGD40iyFec/2VRZg0Yhsn1kOdyw=
 		</data>
 		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
 		<data>
-		Pr22bT0FGcy03KdNSKZlOyu149Y=
+		BpjTPBaMHLrubPIKBtsxFki432o=
 		</data>
 		<key>Frameworks/FirebaseCoreInternal.framework/_CodeSignature/CodeResources</key>
 		<data>
-		1p4sQBVMm/t7seqRCnQxJVoOiZ0=
+		dGxBCbfTMHRD2SrGEm93pZ/uvL8=
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
 		<data>
-		6WEdpcvrKNmiZgUQOhvVfSgSpxU=
+		BFnQt9q6YTxyxHoo8dCFPfNBRm0=
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
 		<data>
-		pz8Cg+YShqGyCWeFIGALzsWBm2o=
+		0BEDPSdFZthEZlUYcz7UFzWpm2Y=
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		SL8GXXG3ckAoWShqE3ZIIl/wVUU=
+		Tj9I9lh4R4he95DS8L/eF4MWr+E=
 		</data>
 		<key>Frameworks/FirebaseStorage.framework/FirebaseStorage</key>
 		<data>
-		6XY0pSacUbSKCy6Y5VduPPu8Eno=
+		MIMtYFOycYfkM+qaiOOmekMaXNE=
 		</data>
 		<key>Frameworks/FirebaseStorage.framework/Info.plist</key>
 		<data>
-		ljtnjMagSr67ZLqJnH0KC43NutA=
+		ZAUbkyOATtlASDEjz8JVJ99PYkI=
 		</data>
 		<key>Frameworks/FirebaseStorage.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+5ShyATmdvpxt80CIw3lNxeBxJ8=
+		PWPRbz8GEjcM04x8ikWlIrvwedw=
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		7t/Aj8fRNXeWgv3JOCd4kKoFOv0=
+		T+7xB0J930LPaV5oVdCHU58hIn4=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -1094,7 +446,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterMacros.h</key>
 		<data>
-		I9N4VAVhaoHjYjsRdmqSzEYJgN4=
+		T2wuUnVU/0f9v8Mc7CGjJQWLdGU=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h</key>
 		<data>
@@ -1102,11 +454,11 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterPlugin.h</key>
 		<data>
-		S/UeCZ6Y0yI99FfBwKgU9PS43Ew=
+		/x91Ms5Ao0r+FYqgLtVW2J5I1WU=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h</key>
 		<data>
-		zAGEwFaURRrydTUwPCDUz7GJ6zM=
+		fOE5MLh4qWf93owSQ+X0HvcUlq8=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterTexture.h</key>
 		<data>
@@ -1114,11 +466,11 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterViewController.h</key>
 		<data>
-		UCKxCRw4ftESNOrjckKsTk5MwvI=
+		6nBSlZSj+EZbyrAd2cS7H0pF3bA=
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
-		cD/SFHerNr5Irscr71/WfqemFsU=
+		GZcp+7aGGy9QK7mSuaJhIscgLGg=
 		</data>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
 		<data>
@@ -1126,67 +478,67 @@
 		</data>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		kQCH9CKMwF+E/sP/knar+9mWHsI=
+		jyxP9VAcM5cAAFEgTc70YiQT9TU=
 		</data>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
-		q5acp6rOkQ+ckG1e10c6ecrMr8U=
+		iqxdhxDOeG6GKBcMhgGCL00SLGw=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		J3uZQoW1C/SJjnwPOiVhHxme3Jg=
+		fVB3Vy8T1AOYVb+sSV0SRiPDbVk=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
-		DY6aHZpHPOXkssMbyKjJLkvEp5E=
+		0+NZ8oU1kd1vlp1lrnPHyWgulXA=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xSBXN+47VUg9R0Snc+jPDLWfaj0=
+		m5+U7l7FI9KVA0ji9VaXoYXc/q0=
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities</key>
 		<data>
-		BP0mwFTf/u1/HWdKmZcAMZSLgi4=
+		M0rtu9Avk3tSRIuT5NCRWp6qGwU=
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
 		<data>
-		IxG4qypOgvGGZ9fNe0q2qBtKnyM=
+		/YQJjTLPXQLr4MVVz/5xDUMxZNI=
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bqrMPpPhFVLvV35k62oppXmvDcs=
+		XssruE7Xh+r5hswEx4DwSukI4mw=
 		</data>
 		<key>Frameworks/Kingfisher.framework/Info.plist</key>
 		<data>
-		sr3UkrArMTV6R0IDClOrlTTdCJ4=
+		kyvjUxi2tvoxTpILBRy1l7dnpj0=
 		</data>
 		<key>Frameworks/Kingfisher.framework/Kingfisher</key>
 		<data>
-		N9mQHwnMmG696FnRzXXNT1069eA=
+		1cbJpwv6YkP15YEscH0SL6PW0q0=
 		</data>
 		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		quSJ2LWWDPnzhgbUIww2lq2lxjY=
+		nFQNsqqMTnkniwdQToi43diZ73g=
 		</data>
 		<key>Frameworks/Kommunicate.framework/Assets.car</key>
 		<data>
-		TrMQbW3qyxy7qe23/0zaLNQX4FQ=
+		ea/XTT7iuiAPKphVD8mz/7ei18I=
 		</data>
 		<key>Frameworks/Kommunicate.framework/CustomPreChatFormView.nib</key>
 		<data>
-		tuLwjoqvxyNKnfMEAR1RMgWPJx0=
+		lj23Mkua2fctVf3XelQTydAczDw=
 		</data>
 		<key>Frameworks/Kommunicate.framework/Info.plist</key>
 		<data>
-		wykzr1dhK5VAtfmsUuLTCEzoVWE=
+		p5r0I6easpGqIQQThqNVUdqzb8g=
 		</data>
 		<key>Frameworks/Kommunicate.framework/KMPreChatUserFormView.nib</key>
 		<data>
-		/82+UnWEum3xgYk6oHPBmj1TvKg=
+		IrDWSg7I7TtWHHsIqkTpK5QtqFs=
 		</data>
 		<key>Frameworks/Kommunicate.framework/Kommunicate</key>
 		<data>
-		LXaJEHEcoLiKrm8yJpmIbMmy7+g=
+		4bKBKg8caL24pMz+Kmm8qs78sfQ=
 		</data>
 		<key>Frameworks/Kommunicate.framework/Localizable.strings</key>
 		<data>
@@ -1194,7 +546,7 @@
 		</data>
 		<key>Frameworks/Kommunicate.framework/_CodeSignature/CodeResources</key>
 		<data>
-		LZhBFe62pyzB4ibe3Erv2h15TpQ=
+		VG6FwZ2VwtL3TRWzp87W1D3fPuI=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/ALKAccountSuspensionView.nib</key>
 		<data>
@@ -1206,20 +558,20 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/Assets.car</key>
 		<data>
-		85q80KqnL7aC6w+Lc7e5jiSpBlw=
+		xrXlNYFulwT2M+VBdTS+h28UpfM=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QGymCE6kYfDTBRG3+o6iQsAdrpw=
+			quF/TNK9ifHSQrRhEOz6EM5khDo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/ALKCreateGroupViewController.nib</key>
 		<data>
-		uoiBxdqWAwvAyqe+cTA6T3+BIz8=
+		QP8sd9VOwgKY4nlxNQaKQ5yFHbY=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/ALKParticipantSelectionViewContoller.nib</key>
 		<data>
@@ -1227,11 +579,11 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/CaI-s3-0mh-view-GuI-4l-BXU.nib</key>
 		<data>
-		ysulxqj4eAZM1hrNtMCjh4P05OQ=
+		IndYg/ns10LhfdBPqpTQ9YIAMxc=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/CreateGroupNavigation.nib</key>
 		<data>
-		ZqEVBOQvNFfHlfaQ4zmTL+RLXwk=
+		6PS+DznYqC3XhdU6uJYQ9985duU=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/Info.plist</key>
 		<data>
@@ -1239,15 +591,15 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/qX5-gu-8Uq-view-3N8-iZ-Yps.nib</key>
 		<data>
-		AB8ss0Q9sEWVefYy82Wp47PZWK0=
+		KVJDV5Gl2LfeAKbWJ1fYeqwUriU=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/ALKCustomCameraPreviewViewController.nib/objects-12.3+.nib</key>
 		<data>
-		s5ivUhz0Lglbe1uEBLq527cSGYs=
+		Ps28cXyTpV6DHmRGxNdYnqKzmp4=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/ALKCustomCameraPreviewViewController.nib/runtime.nib</key>
 		<data>
-		s5ivUhz0Lglbe1uEBLq527cSGYs=
+		Ps28cXyTpV6DHmRGxNdYnqKzmp4=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/ALKCustomCameraViewController.nib/objects-12.3+.nib</key>
 		<data>
@@ -1287,11 +639,11 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/dyl-zf-n0M-view-JZe-R1-hhH.nib/objects-12.3+.nib</key>
 		<data>
-		C2WR6sK2XeaeqY7KsgJfAWtRx5E=
+		99liaY6pmW0aM4mC2ErqIwmxLHY=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/dyl-zf-n0M-view-JZe-R1-hhH.nib/runtime.nib</key>
 		<data>
-		C2WR6sK2XeaeqY7KsgJfAWtRx5E=
+		99liaY6pmW0aM4mC2ErqIwmxLHY=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/iTB-q3-GAc-view-BiX-m0-OcR.nib/objects-12.3+.nib</key>
 		<data>
@@ -1335,7 +687,7 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomVideoCapture.storyboardc/ALKCustomVideoPreviewViewController.nib</key>
 		<data>
-		NXlElwHuMFjcqFdpReI8e+zAN0g=
+		DhKdkpCFFum0q7OSuxQtpTe1z8A=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomVideoCapture.storyboardc/CustomVideoNavigationController.nib</key>
 		<data>
@@ -1359,11 +711,11 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/Info.plist</key>
 		<data>
-		uVmOzwkbjHQkIBmSoJe077Xq1fw=
+		C4FSHrRcSCKu0EWca61qb6YxiAg=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/KommunicateChatUI_iOS_SDK</key>
 		<data>
-		KPQvCNYyRAMEcDSxnm6CvqAKaHM=
+		9XqQL5bmGpxA5VbIdjeDEn/mvLk=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -1387,7 +739,7 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/MapView.storyboardc/UINavigationController-WSq-8e-eNR.nib</key>
 		<data>
-		fL5fectk4+2kwUdh34Ddj1rVUPM=
+		8pX3/sUKwW3K3EHLr8RApui97Os=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/MapView.storyboardc/gjQ-qY-9vY-view-WIy-Ji-vjS.nib</key>
 		<data>
@@ -1439,7 +791,7 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/PreviewLocation.storyboardc/UINavigationController-ihs-ZY-kzc.nib</key>
 		<data>
-		1uGTAgdo/nZnH9s6m+xRJ+O+zvI=
+		Fh2XOaajEVj8w+h8R8dZf/XdLr4=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/PreviewLocation.storyboardc/l16-FW-5Jn-view-efs-qd-iIY.nib</key>
 		<data>
@@ -1455,7 +807,7 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/ShareLocation.storyboardc/UINavigationController-ekZ-mf-7SD.nib</key>
 		<data>
-		2pw5XTkoJk1WRV64VF3T8FeJvNI=
+		2lg2VDXogQaqQnJoEuXHDxsGCys=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/ShareLocation.storyboardc/g1v-O6-33i-view-sAp-Ww-P5d.nib</key>
 		<data>
@@ -1463,7 +815,7 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		TfTnBjH2IUKrb7+DMpSjo9FqvN4=
+		QenG1CVvdVf6dSrJaDeH/vA7/NE=
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/AppLozic.momd/AppLozic 10.mom</key>
 		<data>
@@ -1523,15 +875,15 @@
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/AppLozic.momd/VersionInfo.plist</key>
 		<data>
-		qBQNNGqcJ3ocTlwnHoPVoJZ8pt8=
+		hVQ+inix5uYce3GuV81bvLgZgrs=
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/Info.plist</key>
 		<data>
-		FPmTca0Jia73rWvg/Bv4Ym4dEkU=
+		nwZE5uA2TqokJa3nIK+MYaXIXZk=
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/KommunicateCore_iOS_SDK</key>
 		<data>
-		CUD/j4Uww2ixppXwjTlia3pUucA=
+		IHV6TU9DiGrzIYkY9emLtikDZqA=
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/MQTTClient.momd/MQTTClient.mom</key>
 		<data>
@@ -1551,405 +903,55 @@
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		wRVSikwK5yrJZLenbuPpmUpomJE=
-		</data>
-		<key>Frameworks/MessagingAPI.framework/Info.plist</key>
-		<data>
-		522s7ih8OqbM+Z0w8l35kubC+JQ=
-		</data>
-		<key>Frameworks/MessagingAPI.framework/MessagingAPI</key>
-		<data>
-		SX10WKImo/2aYCUIUCcxg87+r94=
-		</data>
-		<key>Frameworks/MessagingAPI.framework/_CodeSignature/CodeResources</key>
-		<data>
-		yyDj9HvndCbw94wj7PuN+aVie34=
-		</data>
-		<key>Frameworks/MessagingSDK.framework/Assets.car</key>
-		<data>
-		OsLiTGb/Ncpndjii8uGpcZPSzE0=
-		</data>
-		<key>Frameworks/MessagingSDK.framework/Info.plist</key>
-		<data>
-		Yd8rciYlTfHBwUdhTRIECoIwQaE=
-		</data>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDK</key>
-		<data>
-		60q8DIJG6q35KY1jAMZ2Vo7DSTI=
-		</data>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/Info.plist</key>
-		<data>
-		MnYUdxZJpiYWTd5b6AT3oDw5itA=
-		</data>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iJKKxHlI+GhO9ORPWGjOPjfKFa8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/bg.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nc6ml9hG36a2J3qM+X0i7XWXgbY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/cs.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pKInhQlKFwyOnZiGoSYkrDP2UHY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/da.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sJ5aRP+zb7YWmJ7SwgcMwqc31E0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/de.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zUWOxBwX8St4wKSuQu26eF91z4g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/el.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WNMMW1frZVCLyNJ4RAZjxSESMnE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/en-GB.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RyP8EsM3CzFyeAw2oq/7cyk2Lrs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RyP8EsM3CzFyeAw2oq/7cyk2Lrs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hTbf3hc3rUhNXNcizn89xWs++1w=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/fi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DqyN3ipWY+xa3KRcRISRhhr2Ar8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/fil.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6OaNNZ5NDGrLvVFgo3VIR0huM4A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/fr-CA.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			t1kP+iR3yilSlzgJ4i4tugcjWeY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/fr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			t1kP+iR3yilSlzgJ4i4tugcjWeY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/he.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TZAvQHCJhcQ8QLuCTvYCApQbRsA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/hi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y9aap9Z/K5G4HI6BfVDyOJfFQyg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/hu.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nn4DylzAAyHJmtG9f0mRpi53S+Y=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/id.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xQN/FvEEriWBD2Nm+p/OgpzcYvs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1qE1F2MOxAU5cYPkrR3AOlw1YYY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ja.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GYmMHiFcM89nJiBIU6ngKoUDKAY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jpzFcStawQG+LUq9ZS4/pEkPprg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ms.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9wXg4CvS0PkHqmEsc8CegTRZjP0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/nb.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+9wy0HTLfU0njpkIAyoV7TEwU6s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/nl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4QODYI6x3FN0k9Cx1yTpesEzPgM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/pl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EcrIPFGlxQxAmS7QeAp2zwabRkc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/pt-BR.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			25hdK++IBoZtui5b92wZel9AbrI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/pt.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			25hdK++IBoZtui5b92wZel9AbrI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ro.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Wvfmg0EaOOiYCBiv6A694QdGrbE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ru.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vAf7KeFjtYOAgRZFeYZoDFVlqYE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/sv.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3lItic2Nm0U6tJtsEBxg8RvXtKg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/th.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D4P9yMwJC5PKkLFnaaJsNSQ66m4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/tr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SETM3flbJcT6b9zzbuZkSAKlSbU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/vi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yKp2S4Kx1K8hoOj9eShahEJeeSw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wM+4euNBsLY3Dqu7XAFwpetvbfY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wGLlEQBbl312vpavL0S9V/5rC80=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		tQb1ZQZqVggWPBprxuTSWszCoxU=
-		</data>
-		<key>Frameworks/SDKConfigurations.framework/Info.plist</key>
-		<data>
-		jtlVNn7aeSJuMY4nBUzwSmbOz3Q=
-		</data>
-		<key>Frameworks/SDKConfigurations.framework/SDKConfigurations</key>
-		<data>
-		B/Xs4NEnfnrE5MeIr9R1pEBRPc4=
-		</data>
-		<key>Frameworks/SDKConfigurations.framework/_CodeSignature/CodeResources</key>
-		<data>
-		WqQv4p6AF+7eQTT45Bn7Rgtq3Vc=
+		ry1tNjZZrc3cpzgRDNKw815yTx0=
 		</data>
 		<key>Frameworks/SwipeCellKit.framework/Info.plist</key>
 		<data>
-		y/BeBk3gbvGBCAy0OADtKlwO5dM=
+		IVC2T19ACHtta4kd0SuAgMOvmWo=
 		</data>
 		<key>Frameworks/SwipeCellKit.framework/SwipeCellKit</key>
 		<data>
-		962QxkqYB5LdRXdUIhRuCvPhUoU=
+		OIyX3Hz9b8WJ7v1OmDJPLVL728g=
 		</data>
 		<key>Frameworks/SwipeCellKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		gAon56ogiBh+kffaYEkg8H0y15E=
+		PKZDA95GsWh0L8Zv9dZDjv76Vuk=
 		</data>
 		<key>Frameworks/absl.framework/Info.plist</key>
 		<data>
-		Ljv5wCaiCbbQOkYlBBIsg5GPDnw=
+		nXLsJmzgSTE4+6yFY3hL/3BTgok=
 		</data>
 		<key>Frameworks/absl.framework/_CodeSignature/CodeResources</key>
 		<data>
-		oCvkma11UkrZmPpTEKRDQE06RGY=
+		1lKVGJef0itOUSecAUBZKHS3A8I=
 		</data>
 		<key>Frameworks/absl.framework/absl</key>
 		<data>
-		lRlNS+PtG4Tm6k5K12gLeIwUGnI=
+		DdkM0IOgmPjqjQRXkEIVqmFduy0=
 		</data>
 		<key>Frameworks/grpc.framework/Info.plist</key>
 		<data>
-		lXE7dWvE+H3AsHm6x45xZxEKnLg=
+		bp4VABcL7KNgz3BTr7TYx+cIzpI=
 		</data>
 		<key>Frameworks/grpc.framework/_CodeSignature/CodeResources</key>
 		<data>
-		g39S8c8jbPTomEsNbbpubeTaf5w=
+		uKvykCcIdfdmbvW/HBICSrI1W64=
 		</data>
 		<key>Frameworks/grpc.framework/grpc</key>
 		<data>
-		3ceSpQwTW1t2rMW8zpceVpz8jEI=
+		nMmKblGp9fYpYox9+TX8JQmiWnA=
 		</data>
 		<key>Frameworks/grpcpp.framework/Info.plist</key>
 		<data>
-		1wH2hR3n0AJp1J/0gJW+NRsp6UA=
+		oWWUKdwj335s9Rs8evHDDKlFCkw=
 		</data>
 		<key>Frameworks/grpcpp.framework/_CodeSignature/CodeResources</key>
 		<data>
-		dNuWYpvDkRAO7OwxS9Hra/ow6vQ=
+		F485DhzbB5fcNA7NIakADDUArr8=
 		</data>
 		<key>Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/Info.plist</key>
 		<data>
-		9WOsMdWNcpj2tM+8WEdTIXnNL4U=
+		0GCKBF7rDURwQbKS9UE6Wfrg+jw=
 		</data>
 		<key>Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/roots.pem</key>
 		<data>
@@ -1957,103 +959,103 @@
 		</data>
 		<key>Frameworks/grpcpp.framework/grpcpp</key>
 		<data>
-		y7cDwCUyeNbfUD2ThVGa4Q48VGw=
+		AMPJMgjLdGs2rBtfZ09FW6Cfkgc=
 		</data>
 		<key>Frameworks/image_picker_ios.framework/Info.plist</key>
 		<data>
-		EKq728zISCMIEIf8H6n8xUYWRpo=
+		gy497lFYLPzMuvPCbKC8zYL6vqA=
 		</data>
 		<key>Frameworks/image_picker_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		uYfmxWjYwHZcCTmvJ5lrBH0/Fa4=
+		tLQtbKIm23rJefwDYV9pIjO8Vog=
 		</data>
 		<key>Frameworks/image_picker_ios.framework/image_picker_ios</key>
 		<data>
-		1lw9FPXRCZm3HUHVtkKBFvPl8NA=
+		2Nuvrra2F9VPwalplyJfn4RfYBo=
 		</data>
 		<key>Frameworks/kommunicate_flutter.framework/Info.plist</key>
 		<data>
-		gv1ohs9CeVcapamPffvxfco0oRw=
+		neMcgtulJ5uPbGRlFpXyS86tMlc=
 		</data>
 		<key>Frameworks/kommunicate_flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		qSeqn0PBOAozLmJh+EVT3osbE7M=
+		mTOc/oJfv2KAhu7CUUf/z3U5Hs0=
 		</data>
 		<key>Frameworks/kommunicate_flutter.framework/kommunicate_flutter</key>
 		<data>
-		lQT9hCg2CyQFIPr68bIFV+g6WIQ=
+		A0TFMDrxnmHJM9U/pz7/0+fwmbE=
 		</data>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
 		<data>
-		uh+cj2vxYrlvrl0zQYfNitt+MJ0=
+		fykXtOESYnQa0VqrDYVGq6B5Xjc=
 		</data>
 		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
 		<data>
-		KRmJgzcQfyEqeLU/7F0Gqgaad/I=
+		O+lUOayTIdXbkENvWBNWDL9EaVw=
 		</data>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<data>
-		VVA2IUOmgAJ63CZh48DZOboDp3Q=
+		LkhgqEyW1YkeYiC0ZIVkzNzY0yc=
 		</data>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<data>
-		/9jc1d7ASWXvkNu4pGCrAdHeA7I=
+		qQxgM50reRdsMVLBsiNKAWTD7tA=
 		</data>
 		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
 		<data>
-		qeABI4YFvvL09Iq0oXivW5QicZ8=
+		xZR0lMAtec+W4fUIc8+PhbY/vjA=
 		</data>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<data>
-		L+qv1oycuBeCNdhzrRTu+ZAVLK4=
+		K/leZkcynH2C3/7n9CGVFzaOrmg=
 		</data>
 		<key>Frameworks/openssl_grpc.framework/Info.plist</key>
 		<data>
-		g6/NPSNUeojr8QsnFVn1Xw9iy0s=
+		qUEh4kn3H9tEhH3IkvFINhdtwhQ=
 		</data>
 		<key>Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources</key>
 		<data>
-		T7IkYcKwDcq/Fdh0/xnMEcQBfxA=
+		09GLI6dGayEUNPQo8tVHT8RtZ0o=
 		</data>
 		<key>Frameworks/openssl_grpc.framework/openssl_grpc</key>
 		<data>
-		X/yoWlOBaJk5o3m1I4X3/2vVQrc=
+		oSgPQOg3dAqiIMULVhdC2ZTH7vA=
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
 		<data>
-		aRRHa2LHmLK907yzmTtBmqKQ5gQ=
+		tBki3M+gdsDA3Ftfat0lpgwn6Fk=
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xNr9i4umhsGfuWBpS8du9DsDXa4=
+		Tq0hSVJHxBhjVntbxw6FhZLZ03w=
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
 		<data>
-		sanKWmACwFgJ2BaR9knFV/w71iM=
+		nIjW3m+Ve1Zj/crvISGupnrVpyY=
 		</data>
 		<key>Frameworks/smart_auth.framework/Info.plist</key>
 		<data>
-		knSjYPe+F9a6MPgRcXN7sIcW+Us=
+		OlxEuhRj8JjjXYj73RSPzyYOosA=
 		</data>
 		<key>Frameworks/smart_auth.framework/_CodeSignature/CodeResources</key>
 		<data>
-		537Tyn/WrEDsJP2rRX1K8jO0D5c=
+		39h6Hp6oPCJJnLOIqhuJ7sOsqOo=
 		</data>
 		<key>Frameworks/smart_auth.framework/smart_auth</key>
 		<data>
-		lYyyW6xLi2/8ll4bxX9EqhKo7Ps=
+		EDYI09U94uRRjhUTX9LeWEEI/7k=
 		</data>
 		<key>Frameworks/uv.framework/Info.plist</key>
 		<data>
-		nCDDuMTlVR+5GyypuuT1LaGWiyc=
+		CISWhD0spEfyL+1U/Mg3lolAlOE=
 		</data>
 		<key>Frameworks/uv.framework/_CodeSignature/CodeResources</key>
 		<data>
-		KB1HmzcBNbSL9L3ljWSDdBw6xJo=
+		5HHVsJ0blJjHxnBlVSpgIvd/1BY=
 		</data>
 		<key>Frameworks/uv.framework/uv</key>
 		<data>
-		b+WRJyVvhoBIIlcDL4KxE1NRcjE=
+		64GN7Ty4RZc1IoRKDt58BG2lgpI=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -2061,7 +1063,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+UQBiJegJ7AkET+8hq/Ug3wSZ64=
+		1TttiCMQfzb6wbsrYH7aTgF40iQ=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -2095,7 +1097,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wS81e7JvGeG5xyMFzoHzNiReGu6T1GhOkcHPsHwtuJg=
+			tHuycqPwiQmwnuesdu7D9MkqTQJj42UHYeyPqmp6JZY=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -2144,7 +1146,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E5uGdb/fGJ6oCotpATZ6bljQRrXi+Wda9a2EYyl1nsU=
+			kZt2xGDtMrZ286D9duqveuj1zNK8so2zBGGlQnZVW4g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -2158,14 +1160,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FqzKgQtx5IXRMcRfASAr5tQF5dQqrpqKtsL4Z9S8k4A=
+			VwMbyRz4dm6E7UOGGc0enBDqvlWKytxvqc201Y2E9kI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0SOwpd9qo5zgyIwAvE7F4RrqD3oHcPDRUdqJk5c/cfI=
+			iqSH6PIXB7+aXLcDHzODcj52OidDkBuGuFQ/h78w0UE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -2179,7 +1181,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k3uUKqRZNt1yRG0tnwsMcvpLhtFnVChiiSPTR2khtbI=
+			wTnCjYRL7jfCZVInf7Vj5sMEZP8IsD3/mdv1mqpyk18=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/1.1.jpeg</key>
@@ -2494,21 +1496,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BugRRJlkJdABYrpi+ZDcvZjsh+EPQ4Uf2ST65b83vlc=
+			2YZbZxoJ1oPROoYwidiCXg9ho3aWzl19RIvIAjqmJFM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eSIT6ez3qoVubFYyO1nZwI2rBt+8+ysx4WZAsR28p80=
+			76aJUrz/yLBliHLDcOlVu+tPuICHsFWS91Ovpysst2I=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aHTFoY0H7weCwNm9uDN69UiXW/jtONEC+T85MGrZ1h8=
+			Pqocr+ehqRdsW5NfkGNoZk+IlVv6X8e5DWyfu4fkc/I=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -2522,35 +1524,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5OdoB6IaKslj5wfd/7NiMoNhjAQ0VySya9wj0Nr9/eY=
+			WFLr8uzB16etXP1JSLvLW6uZ5HVPh7npxhz1+KUp3KI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GmpZWgL5Po3urukCH4vQxdxDoXd8w56sQDVWoOBwCmk=
+			mvrafyiZ9/M0Tl2W43FGKLT99t8V2WYQyh5Z+g2yC34=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+daTPQTFmkKsowvYjuw4u5y+tpsVR/1VDvc+ugvOeho=
+			FpSAIql4u2ER5QvLFHSkE0LyDWLTitbnyIcYvUbixqM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3+WtaovXEOay83OJctT1VoYsJJm45FE1pb1IYvZNIwg=
+			hgGex10sKxTSC95tzLdljzYd3qnntuSb96YXXaU9Nlc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nfs3sjv7oinwH9C9t8WvFHN0xSlF9POWHw5G1/7TY2A=
+			L69dzlyAJyxdLVGPUFBuUaiyjDwAOUWCUp3TXXm9RjY=
 			</data>
 		</dict>
 		<key>Frameworks/ChatProvidersSDK.framework/ChatProvidersSDK</key>
@@ -2574,875 +1576,200 @@
 			blb8Usd+KZlhTvVHul2VFMbXqK0UmvaqXFZkk5RHFrg=
 			</data>
 		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatSDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xNxS3NktGk6eu+bYlYCrYjOh6vMeh6jjiGO6iETWl94=
-			</data>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Cz0q+iX1rQEVY02cxNB+SAkB79iHzIeMBaB4qU1I0hA=
-			</data>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FrFOEXMe/lpS8EyI/lDvzLWzobxNzi0zIWto12tdVlg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/bg.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m9CykDHDBMrdl0gSbCSXhsn7TrUCiKqNqJD9fW10bQc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/cs.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tE8IA9R5QeEfSl/vQhZ1+TBrFi9F3PhfW/MD9g1Eo5A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/da.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ahXnRBqjSPVn9m4VLps3LNKWxJUTyIeWIqfA8Cew6PI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/de.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1Y3tXElRZg29rwLuCMWMv/b8SuguvqKDq+7LRE+t5dw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/el.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jB3R7vwPzSnz6tXfjgxvKmOs1xG4n3E/PA+CKgy9v04=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/en-GB.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LWtffDFeaixt94Qz2BKjpPUOvR8g6T7yngsHeyOS2l4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LWtffDFeaixt94Qz2BKjpPUOvR8g6T7yngsHeyOS2l4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IukjNQk3VSE48bZAqsWnPgLmp3xj1kVrHcWWiYDHM9s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/fi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Z2XpZMAUJnHwbYnudLv2QSDGdA3bBEZ7jZ6EPVJc+bY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/fil.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HkTjvkgrTBNJ89QEugl+o5JFE5n9pH119z42CKCKMqw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/fr-CA.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ow6Kqa3nE/A91cGZAKELB3HScEbhzdrfmD+wm83/tNg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/fr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			klkIisfuHrq43DupmuhG5hpXbWnoPVnsE/G1nNarbJY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/he.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ojADAITgxzTs1kVtq2AzAw6+pSfROxtX5aVQ9K97/6s=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/hi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JDW/xFNltD0zDLa16cfJ8kM7vVoXI9J2fbsJf9YwHXk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/hu.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6e4WTU7S9oKSIKTRefPMlmF0xXoC9+5FSQKT6rqoqOs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/id.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YMhkrPbRl152lOJcAxzfsyD0YyzNy3V/WGJTgDXfdSk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			o/kZrUU8Bo2GFfCR+SwhME0pTxZ4TofxIGGOPhET/oY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ja.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qbR/fthmIoJZSOsJjdK1XKibYj+3FzSTDE4gYvPKz8o=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0NS2xAPQxeiCP4LfthrzLPbJ3YQ5gQq6Mx2lPYUp7BU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ms.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f+eVibTHsL+HBkmGS5EijIWrvV83tmxajHBMI+jvvJY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/nb.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CcwC8UwVz6W6ghtgpWhn2W5Apsb1QgtHV4nWD+9ABfM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/nl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ODfguOyDxFZR5QCwwK1CIpLzLdfxtXBVe0pyW5uFALE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/pl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SoMoitkSyR05nuxlfEbtPQpTgpCaUZGhkJrTzQBItGQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/pt-BR.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AYezNFgpdqVg3sOnRhsgILtAcb8UNksF8+fbQ2TPQgE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/pt.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AYezNFgpdqVg3sOnRhsgILtAcb8UNksF8+fbQ2TPQgE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ro.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4RUFJyNms+HIKSSOO1op4k4fGzAg8UhIYkqVXRpNnNM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/ru.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JqRLKPUolfW1OGjdF+jXw9PWcUwTFigV4/7a27ltorE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/sv.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+LQrNlIpTqiE9lc7j6w4EMwAHphRKG/2i6/Lg29Q3YM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/th.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GaY7sZJgKXJbl1gUVNYKEy+Ns+pusJT/8NtF7yQzCdc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/tr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5EUuiFbbKSOSJceDdATzquwrJezfwKOSnEMNuMfs/m4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/vi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f4Zp7uhltWt7aYh+LyIOwZA2LGdqb79wLGaUybJwaJk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8AxQwcE3tMswmBA6/y4qtoeR3VGj25kn96lGvjlgeIE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/ChatStrings/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Nvs+GbtrlS5cFvA4Cf+dE6pYmdHFhJsGp5yZSu2g8/E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0CG9l3qBAgQOX33onWdiVsCpUwZvljs/PLoLwbLvFvE=
-			</data>
-		</dict>
-		<key>Frameworks/ChatSDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8Cm5hrobOAC2qNeAFkdK25HMexSZbkgd57OHbF1hako=
-			</data>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3tDBP4VWLIWoNdCkoprnrlLMC4EnHtXPOcsKZpmX+E4=
-			</data>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUISDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0BoNpFb/Q+rBfEzld7yOYQJeKVDEvl2xDl6Zb2skLLo=
-			</data>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Lg3h9yS1XDMFkBmn9JQIsDnJQiLWcGt++Q+uXusTVIw=
-			</data>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pe8EDLclXDApBUiGn2mPP6owRrvOPfoHkdXGCB/C9Sw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/bg.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dyIXoh+HvV3UlRoJqkw/d9LQlPUfnguZM3ArZfg6atw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/cs.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6Vq0u2RYowp1dOkm10FG4EO9uxXGQ/TfZJEwTUCC0Nc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/da.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ALWO7pGVeTAl/jMbQBohVYn3Cpy/nvZPYu6xe8PVYoY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/de.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Rb+0yu9XnwSe/Hqk/GDzAp8o032nOuaSZo9jOasG44c=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/el.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0iCG179O1VHHRedrFhcizmHCCI4+kSTpaHqRltJw90k=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/en-GB.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			i6ksn91RhygcEJ3CcYPpMLCXquX88TrGy8tky5gC3PI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YJVvrOdqGh7phok3C9oJTbPo+LBWOu+kma95f1Ikk9Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			e8vV174zgfXjzNPkvtkJe5Pr7RHQcsV51agNg27KaR8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/fi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+godBntgIbPR4+F7MsBDFsZqzjwVC+PX71wXEjZ8FYM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/fil.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			75JB1kzyokkD12KRSntLM+3VBMARoIFY15he2C5r2ZU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/fr-CA.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			x2+6DO0wnCvRG6DqbSghVqWAYwMOnwFvDVa32znpFtI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/fr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8m3VDB5o/vuu5BZFTcSlBP9xMo2Bt5F+WoSWgUFzcEY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/he.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bjT27wsBIus3ziInv/3ITmV8UxMoLKHoz/WFIFHs7tg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/hi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pi7EZxxUH3tXNl/JiHehqjftnXrFtaSnsslzVpznpMM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/hu.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NJiVTstS16q+NZsXTG1Ts62/t1hARc4xygtWK0kI744=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/id.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			N0ktSJ8Gk1KhiP1keUsxygF/rJBYNqptwkWJf34sjP8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hzVSjGv1KcpvVOmtdbIliGIHKIHIyRyLtCpr5anMv5g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ja.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iKFLzlOHLCadu3kgSmnWoDS515AqZs22CMRDO10ffbE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jo19+l48qP6gycWMAsHBPzGPmx9pZKI+SRIhLyC/Md8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ms.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			w/ifmMkYgYNhNJiAZEi9Fd0RuTt/JmBnII/vwapP++c=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/nb.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hQQ2aL9Xmhj2YmWezcEgk73JlZCxKqtcOujLcuCVoEA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/nl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5UJ/s/1x/MBBRgg2upfxXwbNecsfbzNGn7ZU+kMjQJ8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/pl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f603zqwadNrxck0ftiNtiVbunpqsaCwQlR1UOBElN18=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/pt-BR.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0sLBCoQh6e70RPl4JIRWZth3U7u59ZFAeqZWNNHQtcY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/pt.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0sLBCoQh6e70RPl4JIRWZth3U7u59ZFAeqZWNNHQtcY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ro.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Cx6DMs6yRmoXbMk9yH7tS/0ZvpeWHYM9iaZhRShULDE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/ru.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5I/KDT30J2JW9oaPdkL/+EyZ6v5enwduwtqXNBFf7u8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/sv.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AF4lKHUi0zLbNG8TbzWovC90kVXUXfvs0qHr6qmykwo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/th.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TfXNWvWzZLQqE0uo/490Gql2Z82mIcPQuQJf8eHLtDw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/tr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VucEapRgJJO1/v7aWmocJWevCxon6nfWEHlftFZgEFw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/vi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Jla5+b+bRsvOYdx5ZvtAqj5D0Ok8Zl1NfrIMKALrUDA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kwymP4qDgXAa02lymOIaqQnUDlhzUGYGsxc80cdgMeA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/CommonUIStrings/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2xMZTofwJKrKljw4wUbqn4pAxjIoPxl4kd4pTG2MleU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RH7brvi1QAqfPanI6yPX9HyltOMfb06IVTbJ8BCLRfg=
-			</data>
-		</dict>
-		<key>Frameworks/CommonUISDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sYac8JL4oAwBKBEdch0UuS8D0CR4SJoyDYgzF7T1AQM=
-			</data>
-		</dict>
 		<key>Frameworks/FBLPromises.framework/FBLPromises</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			duG2PBLokKb1DF5r6M/qh2ywwx9wSx8a6Kk5r9pnGUw=
+			e/qKosV/yUGcmO+s/ub/w8ZHiKZxyAup4exRUoCBVCA=
 			</data>
 		</dict>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PTqf++9R6a1GjmILVv6HQhkPbqGEj5Yctm5LpXrAue4=
+			3+pv0BHDiSlNt3G4ELmkfrew8VXD+ZkdMDuQ/Wv6TuY=
 			</data>
 		</dict>
 		<key>Frameworks/FBLPromises.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KZ4rMzYiOuyZwWzAASshmx7sbw5DUi2b+iPAW1/pJro=
+			oFFwhufgLFRdotgvRQk6gbYjVHx655emp5plWpya+nY=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAppCheckInterop.framework/FirebaseAppCheckInterop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m+GfyA7PtaUBhZdndenrRnLvIA08sdcFldjNj8O8F9c=
+			pvEy0Pg4l1xZ3puA5C8I80hYDySvBXAbwSAj3hXqCfM=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAppCheckInterop.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YHQdKz5JREmI2SJWJgiej0BwJMWies0EkA7hTQOVzgk=
+			RrwHzQNcMYco+JOM30ID3xWtUO2STJtm7qGyhxIMi0U=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAppCheckInterop.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YjOZEo0mZ9gZH6WRHf/SD/HhaNW39dNehxghCaBQccI=
+			0F6oB6uPmx8aQAK9u7+VgG4FLt2H9jtrN0PxcyYRdMg=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3jog098gIphq/lazrd/mnc7DX19sX3grTcWkOmb6aqQ=
+			m6yb/95o7E4ZQ9TlAdRbm3/OZIYzIrPaMLR91+pnVys=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BQoLZAI3JFHpjAkO6hcx4xe7vr8sirYHgrkUingd4Mo=
+			Kbf+6J6bcjyL3qL+xzIX+OxsbWkMIryNm1ALC1na2I4=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BkIf7Ko+s9FMQQ9/ioUJ87rhCxSOMkPHrtKwFrZT/7I=
+			gbqskQNGhF+IyCd8BucAbCwl48F9mL8nIoi0srYk5Ms=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuthInterop.framework/FirebaseAuthInterop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LRMcNMFYccNkeTGvbw82bBwORObT2JXLISkhEvWoWxs=
+			r9eteGEGcy9CfCGBEplKAfg/deVU6cz5Wt94xcs/D/k=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuthInterop.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tp7x8WxBcj1QP3i2m7Z7cxGejK8CaAlwDTIt1hgaYjE=
+			LS04hFqN/k1fbqJzqu3df2zQVFH5fUwpZMHwGasXrkM=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuthInterop.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MJHr9IovYnY46IjdxLLzuIRRejLU8hD/RN3MqMZAXjQ=
+			kisw01TTy/vpj04zJMEbqvStjIFPd35O930YG20d7h8=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o/ijnfnysrSVzeWswiuQ7z5c0b3oeyrBCPcBEzg9m30=
+			YSE6EYtqNgeCmvah/4ZPlgcE7I8TgyddAaVgoku1ey8=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iDfo6okwpFTwrh+vfKyYP+xdH1l86niC+UJDxJuhw88=
+			W5hJ916ay6LOArksr4TD9jaGEBYLppw8wt0/S640cvc=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9JnGKEmAh3jNUcsYAQ52Q+UEsvYLfwMe07FQri/UxQQ=
+			t9bAg1I74FchNtgpuJgsanibQsnXZiTxWPQ93Y1r3z4=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreExtension.framework/FirebaseCoreExtension</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dr5lPqOr0d9W+qEfbwlWxkZeXLAGZ9KRs4xDyJpE/64=
+			V8io7VkJA1pObW20yzx3IoycmRQqJK5IsIf6HR8CHl0=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreExtension.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zj8i2r68ucethoQbIGA6BowN86Vb9Av4HIt+vrkQ9v8=
+			1PwXrK23UTLXeaoF5w8XL2D03IQ3CCiBgxJk4RmRWvM=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreExtension.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p8+a2izn1/NuMqB7ml2rkVStrm82OmAOu84sU+sAtNI=
+			5LUlVkTy1JbT7VeMhy26iQ78E9a3OEK3xOtDU06DmxQ=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ABNBenTg9I+U+Aq5P2bj1f3+4wsyCFvfRQzFjO4z3Q=
+			J7MjTSlATvkApGSawB9LXdr5fEUtyDvmdopvn9vzfU8=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SzCSrftYN0iiLBCs1lXIqfGYxAN3DQKTo92SwCA7pZU=
+			9yRTnuLcVP6v7hPjD05byLrQAeKYfdCMP/mgfGJJEvQ=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreInternal.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gNc2hbxT3pCGgO3lcILFbeCfDEht7mTFkHZh9xKmTpk=
+			rBuXkYK4By9o7M4po6+h4t4Ddvj+JoEdWBZH9+Cck68=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CevEE/U0ZpxvGxc5ez84oZmBM1kBBdw34yDuWkmR3pM=
+			Cyu4Num3QiB44nHvm2FaYsD3VOiOrrqWAmqv8M/VnXA=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K4+Rq+g8ZvAjvBOrf4R0IHbdEPfy33+cTvAlswF96Qc=
+			5PGpPWGD+yM6plyNHEN223tV7QG4UyS5fhi8KLOma7o=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseFirestore.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R5m3F3r6R/rKn8KiVaA1JjAldhROMspEfrKowMTm858=
+			1X+VmdAD6x69Ji1uNJ79D9YtiaIBx13Oeya6RUqUtNk=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseStorage.framework/FirebaseStorage</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TC6isLOtic9mxAWZKe9s8/54C1pCGnKcC8EiJW2MoaI=
+			LFt2zW+YfpWcFMwOaBigJ6MlbS4Q5KGKJNbG5AQU7h0=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseStorage.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M1dgcY1mKjHMQHz6TUfDdc+ZTChQkkNNJ3EBTImzWcU=
+			T3I/O/i1C2CXSr4zyy6jvHhHCzKIFsNVsA2f61/DdBU=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseStorage.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ua3wMSVSUHZAcF4ltkWxsX0Yx0hsMou49Jdys99YunA=
+			nO5S8e5geNgNSTcQVmWIllDQj2iM+2A52dkF3Fgzqs8=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lzxZzlb7eU5byb6i3+AAi9S0ebCc+mUehGwZphafd6g=
+			JcS+HK79G5Ysc4eTJwJgi26BWcG7gEQMs/yPZdMKNBw=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -3519,7 +1846,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7FrU4ZPRKob2HMUIRVBrtZ/QBRs2QL0JUN4oJmEaZs0=
+			IEPKCkPf/10aPZiU0dKCx8/ZoIfvkjycwKB4vH8mwG4=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h</key>
@@ -3533,14 +1860,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nGbu0SXJXnL90HHWeBDDdp4TMAX9aCxs6QUNHIebL8c=
+			D17L2nSMBDMXn6Wt78LmYnXSwHnXHeNL0utzz39V8ns=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EtaABLEmwzrHo7IO2TwLjD27xRbd1xOeRM7NrlUhRm0=
+			dUgOAjuWSztnQHh41AIhVYpjgdDBMv42TTnqrZJQEtc=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterTexture.h</key>
@@ -3554,14 +1881,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C0fpf8JWYFfVJpaZWQrws4doHE19mmLZH79B8kp6ATs=
+			P0GsFW0zzP6Yi8y8zBx1bdWpXoBcaVpIbO3lgDBZoDY=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iSSQOr473ybTbnD+gyLB0RHi593SIeRDcEcguCNNlLg=
+			Nh4gzi+mSKC/1MEbRUWlDQWLL2hv4rdL0qRcoslSvoI=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
@@ -3575,112 +1902,112 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			onjzTq0O5Jlr2MF00xb9Zp69RN22k38EWBpgtJFr2Bc=
+			XpkQkuSY/6GzYssyMiAQHdpwitynpw+WNh88UpUOnyE=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sA+D9pONLsc1rI+XDHefj/KAY7kac9Ait6lUu4UjHDg=
+			d80FTlJMKYsTn7JmRt/E1O9oOh+k9tF0xR10Q3ZrKn4=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LhqRQopXH+AzxBoDE/FBMOCwzMpfLh0VSjQcF7iNJZQ=
+			x8ogOpLWqPmxGP3ZAce/UJPnDqQyriDlnKm4DfmO1WY=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jaxom396fwAwQBKd7GQAUDp+ame4HJwr2R2D5nvOVkY=
+			0hYx3PYm/yLiRvmIkE/f5d90BNKTd3yvhCjk3EDuF9g=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qz0pjkfpd1Oj0XXqwVb2OQylHVvJPk1ZXX8PXffI6Oc=
+			fzcvhjVF3lY7NeeEVa7a2sSoXYB4oekIjR5ts6H+7+k=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gC+UhFN+vUZxNg73zvjktMGv7YnnSJIbtJ10k5FBGoA=
+			qyGukjoD8I9fma3aD0keYDMaL/mx4zl2svTCA42kL+4=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uh7nCJiibDjZtTzLOGqgkz0OQsUgbZeHYdEiWeC3RZk=
+			TKcjbwmP6QPXLgiLT69EfahHArTG68qZeBuYoV/vKcE=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ou2UND58zHcy/Zx7DA0DnbEaorRHzXnMg7dJMGljCK0=
+			JmOd5x3dQOCOExXffqcuufFCN4+kXWyxq5cEjynMq48=
 			</data>
 		</dict>
 		<key>Frameworks/Kingfisher.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TLVzCSNmd9Vqx0mKhQz58lxgs4a7BeRw73J0XVwwqyg=
+			E7Dp3aSM1AD81iaN0CXVj+kj4Wr1oRrRqKx9EDYPvrQ=
 			</data>
 		</dict>
 		<key>Frameworks/Kingfisher.framework/Kingfisher</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+8xzq4coJnLeNW1QU5ViHaG2ZlRUGcB1xIhiAWMycPY=
+			1TNF/rWI2T3+RVeX/1VTwEd9LLxKQ6r6Bcnz/+q/oU4=
 			</data>
 		</dict>
 		<key>Frameworks/Kingfisher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			emBd/WJAWQU32LEBw1VEjPfewhYcKlapBSextQiz8gM=
+			G9VG4fr2YFOelJnEBkfa8pkjtXkRDI9Eh7542WMPe+w=
 			</data>
 		</dict>
 		<key>Frameworks/Kommunicate.framework/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5BA7NzPP9XKeXkvKi79e6KSFyACxcEvJ9YOSnwN50/U=
+			RRLpYwvFRgEv1WvKMhZwGyaIJyWD5ytfqiFwCDO2JXA=
 			</data>
 		</dict>
 		<key>Frameworks/Kommunicate.framework/CustomPreChatFormView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6OV8pbOzZerrQMYXEpOMWaaPFgclQI37GbbqLce2zTs=
+			gm8Udy7s/zmacu5Y/K5z+6C0hDtTMouUg2K6McqD6Cs=
 			</data>
 		</dict>
 		<key>Frameworks/Kommunicate.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Lhep87j8yputVhuf+AbCrfHEInvkxsR32eIdiTn2G4=
+			oXoQ7Ah7uWclD6Sd8K16Bf5HtHgswGOqt7Ha16PqB+s=
 			</data>
 		</dict>
 		<key>Frameworks/Kommunicate.framework/KMPreChatUserFormView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h6AxNz+KlT65wtXT6N7PjuXdfGfk5yTXqJFDHbBW8c4=
+			QdSts2Ut2NQwLHFY6cKK0Xzyk6jq7IUwEzSLw1hBNY4=
 			</data>
 		</dict>
 		<key>Frameworks/Kommunicate.framework/Kommunicate</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			flFSVpthLn7m5wmksB7N+AFUXd0JKtT5TN2Mg8BrvC0=
+			xQzK3h5IPIzN4IpHQSLEy69RDTOrICl0PwE/BRxR5F0=
 			</data>
 		</dict>
 		<key>Frameworks/Kommunicate.framework/Localizable.strings</key>
@@ -3694,7 +2021,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mLfK81uY9+C2oojTl1CrHZYD12nw2WYHfx2ukWtnZrI=
+			5gqil6A+LK/fWQkbesKRWG/X5PeQpQQCZsi0tD7PQKo=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/ALKAccountSuspensionView.nib</key>
@@ -3715,14 +2042,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bjJA/4q81NKAmoMHh1dtHJQl9i6uK3KCQn0B2j3mIVw=
+			7yYf07G3A3dZkaefqVweYF8AtPPOEu1P4/trrtZBsbo=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RUIFk5QYfxnKnDjaqWiUbmk/bunPlBDC5IjjcNEFCeM=
+			u7gbSIswlfslvrf7kYE66lJar5UyamJRMjRGf5qrPdk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3731,7 +2058,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rZAvs52VZAsRNG/NaG2j1358oKevbl6PJHYLZUd9oZo=
+			NPFbFGZCBcoJ3lOhWTSa1VVkqgYUQ5hitF59TRROqTw=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/ALKParticipantSelectionViewContoller.nib</key>
@@ -3745,14 +2072,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B9fSVirHj4n3oqtC6OSBvfRz0mpkDQ9m9pAZ3k9vC78=
+			rQK/TpmzP4+LgSoDF9XlZBlsjvofcoBDZxlhMnrrWnM=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/CreateGroupNavigation.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z8aF/4dM5yQtrH1RpXv6YV4uL1L1erQYNbpTQe8BU7o=
+			IXtv407Zi/qerFeUR7PZiIiFRMKEPw2VGkBFnDCbIDw=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CreateGroupChat.storyboardc/Info.plist</key>
@@ -3766,21 +2093,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E1O9rsa+bM5x2Lzgg7dWYNqxziZ8IzCL5oZwGhdRpEE=
+			4m7PR0rsenOciy1Z+p/2vtFs5PpBCecMM7dEGjgd76M=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/ALKCustomCameraPreviewViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J1Fs7ZAY4SEh8CERe1lTL+ehX+8+cQ2iWES2YUYMAc4=
+			BWBxUmGfs9fYtrzquWeh8mavfJzNA87OlG1lHkFMYn8=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/ALKCustomCameraPreviewViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J1Fs7ZAY4SEh8CERe1lTL+ehX+8+cQ2iWES2YUYMAc4=
+			BWBxUmGfs9fYtrzquWeh8mavfJzNA87OlG1lHkFMYn8=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/ALKCustomCameraViewController.nib/objects-12.3+.nib</key>
@@ -3850,14 +2177,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MYJnlz3Bmy9CjpkF2m+SnoKvI3meyxUtg22ZLEfPpvQ=
+			22Xc6yon45IlBA8gTfp06+oG+KYI2Yf5Iw2dMAL3kis=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/dyl-zf-n0M-view-JZe-R1-hhH.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MYJnlz3Bmy9CjpkF2m+SnoKvI3meyxUtg22ZLEfPpvQ=
+			22Xc6yon45IlBA8gTfp06+oG+KYI2Yf5Iw2dMAL3kis=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomCamera.storyboardc/iTB-q3-GAc-view-BiX-m0-OcR.nib/objects-12.3+.nib</key>
@@ -3934,7 +2261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nL/Lle6nba3GTFgRLsVCuOiubvWqmNPua4RgI54+XO4=
+			jHDwI1Ze8EcLpHYWjomViDPG9d48rUfO61zAXyInfpo=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/CustomVideoCapture.storyboardc/CustomVideoNavigationController.nib</key>
@@ -3976,14 +2303,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UMoXZKCRzOemNj63p6+f3nWs5QZ+fVuvB4fVgYrXnCo=
+			M4wzx2z/m74rsHow3IUw9E0sPEVpsBh4PWMstoyb6iY=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/KommunicateChatUI_iOS_SDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/CS6TKLHNIt4VZxEbBoalyjtgwKNu/HvrzfxUxcczU=
+			cFOEGjQHQmZSCcshr0OrNsri1VsmSa3SIECNPSFwU4Q=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -4025,7 +2352,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iizlJvPc8ATLGZQvKpiz27wNaw6v4qZUujZ8fZQFDhw=
+			8yCKPqg0Vg8OkOrUayBPROrLzMrYbxfMsIjnYgCL+as=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/MapView.storyboardc/gjQ-qY-9vY-view-WIy-Ji-vjS.nib</key>
@@ -4116,7 +2443,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gP9PIp9Os8DT9ww3suGwiZ6oLQrWzl9C49eeRiIDQlQ=
+			QFVIRglmpkjFBf+edhMwR+AFMC2RgSQu+zqp1rBhY9c=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/PreviewLocation.storyboardc/l16-FW-5Jn-view-efs-qd-iIY.nib</key>
@@ -4144,7 +2471,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fBLrY9YmmP4KnBMk7tovK8YYb8TOPS+29wRxN/qcP6k=
+			15lwMsiJJfY8vj9/O5OvkdFmK6p+0PSh0gNHadsk81E=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/ShareLocation.storyboardc/g1v-O6-33i-view-sAp-Ww-P5d.nib</key>
@@ -4158,7 +2485,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/dU0BQaACJX0anhnNyeMTRpRLnruqLPodhS6fTJ9WI=
+			kgogoKL3ck6TBMO1Ybdgk/OYA/4mqIyW48MNigI2Z+A=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/AppLozic.momd/AppLozic 10.mom</key>
@@ -4263,21 +2590,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dAYqb0gJrDxKzoV+HUUxMF/Tvx8gDsXK5h1OavaSE8c=
+			kkq3p9J86AK/srO99Z8HRmkLYhGV7m9G9WPT7B2Z0HM=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iq+s7BWsXJrN810Twoy6h5ReoFYLvBxxlfwfopuGces=
+			4omKgweLnFP6lbqAp6YOLzcS6d4mOpuqFZgiythN/BM=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/KommunicateCore_iOS_SDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QmGpSjQIix4FS5wa0sdy8WqXwCmcVP7+/uNomLO6Tik=
+			IKzR09WIG5s+UNHDvDFBmozuA7aoCZc5Y9OwQ6gdfqw=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/MQTTClient.momd/MQTTClient.mom</key>
@@ -4312,474 +2639,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4xBnAKuGas0RLMeBBEtEXwcfeE8EFn2s/vyPPCTvCGs=
-			</data>
-		</dict>
-		<key>Frameworks/MessagingAPI.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nrpiBoa0AI/P49b+lNKXulTpX8psz9nvoYkWbqOwiik=
-			</data>
-		</dict>
-		<key>Frameworks/MessagingAPI.framework/MessagingAPI</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IUFGd3UIH01LVyxDYIOI6CJZDwdkmbHV7ljQ4OKZR04=
-			</data>
-		</dict>
-		<key>Frameworks/MessagingAPI.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BuEkO/7N6COyfheNjSUWUhid5RryeJsuhF0LMoZWwrg=
-			</data>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+6bHUGDzq3zG0y+y3eswfua8rbVgoJnq83L5efCfgIA=
-			</data>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rGJ3BQbUWPKeWTCYUD0EakOH//2upVwZmz6QLip+jQg=
-			</data>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lJVKzpDSkx8/DDxe6fP9SkFaiJ1wBnCfPfeXO6oj7bM=
-			</data>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Cz0q+iX1rQEVY02cxNB+SAkB79iHzIeMBaB4qU1I0hA=
-			</data>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ar64jDgBmrCuTZnH47PS36qnG4baxxD8mY+EU1D7DIM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/bg.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1SmnZKMvXYWfSlCJx0LzpfaSz3/IcC2x9sBeKKN9J7E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/cs.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YHA3fGwebzJ3cIXVIvVwzwhylVBdYHq31Rz0GLxwfhQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/da.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BNhFibu4LBrb4q8JpvUGWoxWxjTmllJ6gWbW2juhiTE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/de.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			osUcy2dDxxRPNQbDGWzwdrznfs0xWbpX/scm9ks8i38=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/el.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			76W7wTR6VH17L/g/Kxc3c9hj7g+VBnJ57oWcNbbBF6g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/en-GB.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nVHzurAhIM1LqWlu32W6gVYKhwxHx98Q/o9FUiAMMTU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nVHzurAhIM1LqWlu32W6gVYKhwxHx98Q/o9FUiAMMTU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			050b0JiGy4ZNGWghQd5q3HT20Yl8OPs6fSzlbnPswro=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/fi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			D4sUbC1Knp3TX86kqOkMmusOYcFvIHHXvR8m1DizyWo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/fil.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qlAjEOKyRrA70szGhxBghqI5fayg1HMWhuzdJr/JRys=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/fr-CA.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CXpCAwIo+WuMSMxPuwtqzhfdnwWx6BMOZpTaon2peXw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/fr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CXpCAwIo+WuMSMxPuwtqzhfdnwWx6BMOZpTaon2peXw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/he.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			R6cOKb4IASWeze0PZpbvS4iZxSDOuXpcTbQMYTH5pMw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/hi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jXPr7jILUlAM/To2h6JIp4h1brFUv4J5nLIWEbgg2XA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/hu.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ozRwQ47FynskRmN7bRlRV14gzPYB8xmUpRzn6iwonH8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/id.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+jnzzN9RAgTaa1AxWVh0C12X7XLtnYalgpIVVwejKbc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4+X9v6cm6kZxRKiR0S7g62V9N5Ouz8F8NKCsumm2xFQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ja.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KbhaWUJzXbKi12I/n8aPMFgnYE60HY7dosmw7oqhWw0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			30n0Fiwuel8M0bIC4rtx84/8XAkqda8egJT7msZRE6k=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ms.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7Uj93yKWx/x4MayyQv1uTkeajqy2pB73O7+uriZyrQM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/nb.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xVdaYlE5/jqwiGIh7FrE4xwWtWkvt3sjp43B6eC1zxA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/nl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FNdsq9BlBD5KJVQ0D7PAXBjeBlo0zJTUmPMRDDHK62g=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/pl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zG9gSI7TcyceMLAUCoVe3PZHXbacDS6lfPGolTyHXsk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/pt-BR.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hmiUiKX+wJeB1iLMeSYKLkyln4JiVMgF918qT9ZAaaI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/pt.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hmiUiKX+wJeB1iLMeSYKLkyln4JiVMgF918qT9ZAaaI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ro.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			znpYsJfXCsB1r/F7ymmVn1qRky+9ZeJLTVbklpEZCm4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/ru.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tt7ufWskIRtgRDaIHoQPoX8LR7Q5I0w2GtfbsbKb45w=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/sv.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JZNefsMx1zFQz/HqMMOGRzt92J3bGCb25WnKTgmhKd0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/th.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2R5rpJaJuGxjH8DnPQaQVjz7zr1nqYv5Jq1gl/AtBAc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/tr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bVIecYZN0hsC3Lha7lyCX53mVPV/VwIhKQWcktDreYg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/vi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2lNl0e2fEcKuNRq7d9wpEKsopqtx3hhcpylI4A/e4w0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kSFMbjUUPIH9OcYPJWikpjVDKeB4jhecnRww0Wk7daE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/MessagingSDKStrings/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OvVxjyyb1HOnbkjtLvsYtkSlX2w3DPE9lpB97SBtVd8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/MessagingSDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			F2b1sA/wgV4lV+/Prhyoisoca1ijyb8uRThHfj3ofDQ=
-			</data>
-		</dict>
-		<key>Frameworks/SDKConfigurations.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1rv5cPrtyTgPCuPCqipR6vZc/H7U15Kl22Lvteczdm0=
-			</data>
-		</dict>
-		<key>Frameworks/SDKConfigurations.framework/SDKConfigurations</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rAsehCfX0ZmRMp72+81wJE/YleavrVrd6lLrZ6/6PJs=
-			</data>
-		</dict>
-		<key>Frameworks/SDKConfigurations.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5G6emIEB8ZvOi7+p1GzxpuXoIHAUDHfdb8SAVyRr/bM=
+			bTQABFy5XEJi5i5KxIJ6AZ2nGBxagHLB/qvpbiDCp5k=
 			</data>
 		</dict>
 		<key>Frameworks/SwipeCellKit.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I6V4YJsEhc+yRK4I/10fQiEg1jRqW3on+HMC8j9wtJc=
+			SdZq7xISOEhTlYgCo74ldNeRnatHD88js+O+YxNP2fQ=
 			</data>
 		</dict>
 		<key>Frameworks/SwipeCellKit.framework/SwipeCellKit</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			icOpq4kG9ljtHeNJ9JySIpggVm1hMVVDENt5y1fkJ9s=
+			JavPrb6iJcBIr245RjPVAbesLaMvVwb32eNjDA5+hdA=
 			</data>
 		</dict>
 		<key>Frameworks/SwipeCellKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U6juRZFb2oC1NTPsQeJAgbqRvjJvo7Y0lTsC4/sJp7I=
+			GbHXY6Eh1i0W656l7mv8UmXXFOSEcan/c5A1kJTaNWE=
 			</data>
 		</dict>
 		<key>Frameworks/absl.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UUK6oO0mvvRD2HeuQe8iGyMNe7jHpe8Ts0kIsRfrEK4=
+			IWu3ELGdgKmNT3LCqxVP6r/ylmYDZlc9///YP6iIVz0=
 			</data>
 		</dict>
 		<key>Frameworks/absl.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UD4WsFSERWYNXNjeo6Ui53ejLGVVyTV9BJ+Yc5keSh8=
+			LZt3oZOj38USwDmXqQGy4ulR86wjItsPx9Y/0jQecQQ=
 			</data>
 		</dict>
 		<key>Frameworks/absl.framework/absl</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fMBd054ckSblOUZ/lt6sEyZOWL8DoKdEbwFrsBflIi8=
+			NT8weA+54AePVC+xfa/Nl5hB226ieqwXPudombNLHNw=
 			</data>
 		</dict>
 		<key>Frameworks/grpc.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BYj78V16lKUUOie5zagjVKs8gVxs/fdv4np7LW4OrEM=
+			mBf+HDdQoGrFOzMeKVHR7y7H4Z6dFsrZBnorr2vdoqk=
 			</data>
 		</dict>
 		<key>Frameworks/grpc.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			52sL/XMlvsUO/DwmIESibrpzYAk9lvpcnCdYxijDIQk=
+			yepblk6jLOpXItM8J/ig45DBR3U96uxO1adsExILX8s=
 			</data>
 		</dict>
 		<key>Frameworks/grpc.framework/grpc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wUYQJ1FG+SQpgk103mcFJ1IqVQL6Hd59JU+lWl+WUo0=
+			L5735BwHOf6KADx1K2m9jHiSMrUmrcj5U8sVbN9R/uo=
 			</data>
 		</dict>
 		<key>Frameworks/grpcpp.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IJpeQHX9Lh3gEPQQPqw+LdqMCf0BTZwS3kEgstSwo5g=
+			YIt4rjFDLrC5DszCAEv7GEt8zhouICPKxqqG+IEoM68=
 			</data>
 		</dict>
 		<key>Frameworks/grpcpp.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SVg0Rox0fxCQOWI0F+7FXPoxpiOrPH7MTuDtcS0CC6Q=
+			F2zetyXP4zOcMgyEyQ6QPzi9Eb1qWBFtSul7X06hjs0=
 			</data>
 		</dict>
 		<key>Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T5mGs/5ETXkxDp9Pw+AeSMzMhJy4YXlcXYVHftenSI4=
+			HOSa1wacCwdpgW6WJxbtnZnZqfckurGrygr7Hd/Ei6E=
 			</data>
 		</dict>
 		<key>Frameworks/grpcpp.framework/gRPCCertificates-Cpp.bundle/roots.pem</key>
@@ -4793,175 +2737,175 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qDyxF5KqFDUz7RoBx+Ce034D11gzqFYuYO1RWm5cAko=
+			9DJ3AdtJvTRdbFOpyST46sndCd7dyvGVbc0ZjmHo3xA=
 			</data>
 		</dict>
 		<key>Frameworks/image_picker_ios.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bDJSUrQmJoU93jXcEuTrwPIE2mmahdhzY+5XcXbZePI=
+			JOxRUeG4B/UwrRARv733+XG2Db37aRfa2cnBpzTFY4s=
 			</data>
 		</dict>
 		<key>Frameworks/image_picker_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OfXqKzc89jJkGFVKdYWaIDirW5+sSASk0H9iGo8OMMg=
+			7odUQLasiJHKd2aNegK8xwi9K2jJ/iKjpkASt8V+n0g=
 			</data>
 		</dict>
 		<key>Frameworks/image_picker_ios.framework/image_picker_ios</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zwb+ubsBwa3GwJ0xXw2sWe+e2WtOJAzhOnt3MqlHqdI=
+			gD2uy0ce1ny1cA6oYuLqSAyB+LIysrXCSr01YWafKDQ=
 			</data>
 		</dict>
 		<key>Frameworks/kommunicate_flutter.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pmP1mxNBuwNWc1oKTxZazIlLSTDvwRm4YIEUwgQkxnM=
+			9nJnLenU8JqkHzfEoHhrEB8zTwCP7k3wbrXOwNjHl5g=
 			</data>
 		</dict>
 		<key>Frameworks/kommunicate_flutter.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/DCosavsNl9uBqA1/c+Uk266kU3iuKcCCQt03cywfsY=
+			H/03uQkC2jBKznQuedDt7LFGEvcMZsHF/ktQko/6blA=
 			</data>
 		</dict>
 		<key>Frameworks/kommunicate_flutter.framework/kommunicate_flutter</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V7/cVgXvOD0OYZBdE7W/T8UnABVW6jT0wCbpPVb6mq8=
+			kubo4kA3ZR9J0RC3tnpSDz1gKb9PJQIB96T5VbZGU1Y=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IjQRffzzXM14BTQStqrRXRotsTHE06+ep3Ed9q2JpLM=
+			24/kkZxGE7HfZqWEIQ8nItRkISi0hwPmJ6DoDL/teBs=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iq+Xuuizb3Fh+bR2dygwEeSLTNr7jpZ/OheJ67GZvN4=
+			N4L/cpEGZzRlOqz9kD2orVi+gy7OWCeO+a67wtjTvZ8=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RdMNEcBu3MEmp82xzpyboZi1evIAKp6JDn1JANC8/m0=
+			uyfIag3eIVpnGuowUf6AXVv/1gbI85ZIpnTGznDO8KY=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oNGA5ji+owN2/1eAM0NiTXt3nlAONHL813o8vGfOH0Q=
+			GVs63hsUxy37fRa7ZYyYs1TMXyMdbDHrNEgNWJ6GySc=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			12ZqiYQ7yqJym1sIqdoM5hhZsN1293C+XgQ/bsDhPrE=
+			YNTdZF4+qrYotjt7miyn3p2qSa6E6nMEU2IMil/pzpw=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cbTtohqWC0WaLOzVd4ouSjEd8FM+KZ8q+9y2v1xL+3g=
+			5OzUic/WKZKCZsQT2ueRD/tNwvJn2xA7INTVtc+GCSE=
 			</data>
 		</dict>
 		<key>Frameworks/openssl_grpc.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			85VA7lFonQJCEWCUoBkeDLvpUzBggiya8oX08zpSvmA=
+			Zfapt0YqByOougtltrBZkmxtCk9oNiH5WB5xpoviC58=
 			</data>
 		</dict>
 		<key>Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q3gDfCAK6TtE3+tw7s+OUqoniMmwLooReNxy6uUYbXM=
+			wGKnfoBL5rIqacnm5lTZNQb0x0CaOQVpQWG6mZCrS6I=
 			</data>
 		</dict>
 		<key>Frameworks/openssl_grpc.framework/openssl_grpc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CscMhL+pcGZu9P6sCjU7Rhcmh/bN6290EpgPzYEbrfY=
+			68PBDj42cTHQPmfCX7zwCpe3vimIzVmwENPLP8C2JR4=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			glXdkLXQWIoCo1OS25bSUnymtPnQYaGxOtJDUhAFkQM=
+			hwHPKhiLKbe4XZprhF7VeE02Xyn0q+qCoQKiGZMcFOw=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q77HdQUrzYPceJeOrkQZEXmN1I1SeGxXD0WXxFZ25pI=
+			yNvlB5wBN6/oEz1o5c/VhtiwtTlLYpcjEt6H70NH5N4=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HCd2cKoeJrfvl/ZYJW4ATfiS+KO4ynl2mbmP2yX8Fp0=
+			kxFNeBqgRuerzXSdrigz03xuo4Xnu1TSBmi8Gj+bqSw=
 			</data>
 		</dict>
 		<key>Frameworks/smart_auth.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4pCs2VBDOud5+Gju+MVEbgR1j9JP+lW/kn2L2eqMWXk=
+			xJAHe4lCptnWfjZpgF1ZGfuAaLcC0KMdQ8TxeB4ubts=
 			</data>
 		</dict>
 		<key>Frameworks/smart_auth.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CBMAa3SPX/SnQQXFOjALzKgEAV9ewwirw2uga1remVI=
+			hXVbOiWrO1mRl8ACk0XqDMASlkTkGjRPwOF3nR8NW3g=
 			</data>
 		</dict>
 		<key>Frameworks/smart_auth.framework/smart_auth</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JY/rZOLTWOEwep7UmLulm3cVjakaQoX4CKwrDsFNrCU=
+			kSHv3OSWhD72XBMZs4cWuLZ8O6fW5RJl2uiQqskYrYA=
 			</data>
 		</dict>
 		<key>Frameworks/uv.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8cPQPA0+SpecgD1qIqRbGXhjxrwk49oLRqgYo4a0SN8=
+			UkDrorrsOA3eprPoC1iN189jRlZ0ZyqNvHS1081VpKs=
 			</data>
 		</dict>
 		<key>Frameworks/uv.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kqt+/Scyo+6IljEHbQkrx15QDKObDsOgV9jL2rKpUUQ=
+			wEHwFIs0Z+FuPUes8fqMAeZQn1jd3Wi5Tm8/yUF/wUc=
 			</data>
 		</dict>
 		<key>Frameworks/uv.framework/uv</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FRfX4cWoc05BKSFb4GTXCGX/ns4GR43Gj5wUhUKxc7Q=
+			JPqC8kdlSS+dS+yTqGVJK9C3OMhZoP2ZKGMvej+3PCU=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>

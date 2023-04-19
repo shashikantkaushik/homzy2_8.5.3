@@ -672,11 +672,22 @@
     <color name="km_header_text_background">#e6e5ec</color>
     <color name="km_image_background_color">#e7e4e4</color>
     <color name="km_image_preview_background_color">#50000000</color>
+    <color name="km_language_bottom_fragment_background_color">#ffffff</color>
+    <color name="km_language_code_text_color">#949498</color>
+    <color name="km_language_divider_color">#E7EAF2</color>
+    <color name="km_language_heading_text_color">#000000</color>
+    <color name="km_language_name_text_color">#29292a</color>
+    <color name="km_language_selected_background_color">#686464</color>
+    <color name="km_language_selected_code_text_color">#ffffff</color>
+    <color name="km_language_selected_name_text_color">#ffffff</color>
     <color name="km_list_item_action_color">#504db0</color>
     <color name="km_list_item_divider_color">#e5e5e5</color>
     <color name="km_list_item_header_text_color">#5c5aa7</color>
     <color name="km_list_item_main_header_text_color">#686464</color>
     <color name="km_list_item_text_color">#646262</color>
+    <color name="km_multiple_select_border_color">#00A4BF</color>
+    <color name="km_multiple_select_selected_background_color">#D4F3F8</color>
+    <color name="km_multiple_select_text_color">#00A4BF</color>
     <color name="km_offline_dot_color">#949896</color>
     <color name="km_offline_dot_stroke_color">#f5f2f2</color>
     <color name="km_online_dot_color">#05bf50</color>
@@ -1435,6 +1446,7 @@
     <string name="cancel">Cancel</string>
     <string name="cancel_text">CANCEL</string>
     <string name="cancel_transaction">Do you want to cancel this transaction?</string>
+    <string name="changed_language_to">Changed language to %1$s</string>
     <string name="channel_add_alert">Unable to add participant in group because you are not a participant</string>
     <string name="channel_create_title">New group</string>
     <string name="channel_created_by">Created by</string>
@@ -1484,6 +1496,8 @@
     <string name="contacts_list_search_results_title">Contact search for \"%s\"</string>
     <string name="contacts_not_found">No Contacts Found</string>
     <string name="conversation">Conversation</string>
+    <string name="conversation_delete_failed">Conversation failed to delete</string>
+    <string name="conversation_delete_successful">Conversation has been deleted</string>
     <string name="conversation_options">Options</string>
     <string name="conversation_rated_info">You rated this conversation</string>
     <string name="conversations">Conversations</string>
@@ -1559,7 +1573,7 @@
     <string name="gcm_defaultSenderId" translatable="false">58462324312</string>
     <string name="go_back">Are you sure you want to exit this page?</string>
     <string name="google_api_key" translatable="false">AIzaSyAR2SYEvccvLZbQjkhFICouQYUKBZkV1oQ</string>
-    <string name="google_app_id" translatable="false">1:58462324312:android:825fff9130220d278e2c2d</string>
+    <string name="google_app_id" translatable="false">1:58462324312:android:517c7ec6000b30d18e2c2d</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAR2SYEvccvLZbQjkhFICouQYUKBZkV1oQ</string>
     <string name="google_storage_bucket" translatable="false">homzy2-461f9.appspot.com</string>
     <string name="groupType_info">[groupType]</string>
@@ -1824,6 +1838,7 @@
     <string name="push_notifications">Push Notifications</string>
     <string name="quick_conversation_loading">loading conversation…</string>
     <string name="rate_the_conversation">Rate the conversation</string>
+    <string name="rate_this_conversation">Rate this conversation</string>
     <string name="rating_average">Average</string>
     <string name="rating_good">Good</string>
     <string name="rating_poor">Poor</string>
@@ -1867,6 +1882,7 @@
     <string name="select_at_least">At least 1 contact must be selected</string>
     <string name="select_file">Select a file</string>
     <string name="select_file_count_limit">Can\'t select more than 1 file</string>
+    <string name="select_language">Select a language</string>
     <string name="selectionRequestText">Select date and time to schedule your message.</string>
     <string name="self_destruct">Self Destruct</string>
     <string name="send_location">Send Location</string>

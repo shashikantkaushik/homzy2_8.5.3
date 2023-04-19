@@ -11,7 +11,6 @@ import 'package:flutter/material.dart';
 import 'package:homzy1/user_model.dart';
 
 import 'package:homzy1/screens/otp_screen.dart';
-import 'package:homzy1/utils.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class AuthProvider extends ChangeNotifier {
@@ -223,7 +222,7 @@ class AuthProvider extends ChangeNotifier {
     required Function onSuccess,
   }) async {
     try {
-      if (reqModel == null || reqPic == null) {
+      if (reqPic == null) {
         // Handle invalid input
         return;
       }

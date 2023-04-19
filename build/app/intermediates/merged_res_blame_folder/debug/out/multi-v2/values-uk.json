@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shashikant/Documents/Application_developement/homzy2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+            "outputFile": "/Users/shashikant/Desktop/homzy2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
             "map": [
-                {
-                    "source": "/Users/shashikant/.gradle/caches/transforms-3/42e6491f5f37d2219727138ee1097e2e/transformed/core-1.8.0/res/values-uk/values-uk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "112",
-                        "startColumns": "4",
-                        "startOffsets": "10179",
-                        "endColumns": "100",
-                        "endOffsets": "10275"
-                    }
-                },
                 {
                     "source": "/Users/shashikant/.gradle/caches/transforms-3/5bdd0fab635acc883a193832612c14f5/transformed/material-1.3.0/res/values-uk/values-uk.xml",
                     "from": {
@@ -54,6 +37,23 @@
                         "startOffsets": "379,488,590,698,784,889,1007,1088,1167,1258,1351,1446,1540,1640,1733,1828,1923,2014,2105,2204,2310,2416,2514,2621,2728,2833,3003,10097",
                         "endColumns": "108,101,107,85,104,117,80,78,90,92,94,93,99,92,94,94,90,90,98,105,105,97,106,106,104,169,99,81",
                         "endOffsets": "483,585,693,779,884,1002,1083,1162,1253,1346,1441,1535,1635,1728,1823,1918,2009,2100,2199,2305,2411,2509,2616,2723,2828,2998,3098,10174"
+                    }
+                },
+                {
+                    "source": "/Users/shashikant/.gradle/caches/transforms-3/50ac565c2d78ece85381646878fcb457/transformed/core-1.9.0/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "112",
+                        "startColumns": "4",
+                        "startOffsets": "10179",
+                        "endColumns": "100",
+                        "endOffsets": "10275"
                     }
                 },
                 {

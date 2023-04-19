@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/FIRAuth.h</key>
 		<data>
-		I0y5dIlpoWOuOA90qZZXPSvUg6w=
+		G49PN62UsVN3/3V3/KYWjBRKCS0=
 		</data>
 		<key>Headers/FIRAuthAPNSTokenType.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/FIRAuthErrors.h</key>
 		<data>
-		enme8FMYm22Hn2UbqCqrj9YBSrI=
+		xWdg28nSmHTAPjKWv3G3S+Dg+4Y=
 		</data>
 		<key>Headers/FIRAuthSettings.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/FIRFederatedAuthProvider.h</key>
 		<data>
-		tnJPP+YKR+pSqgvzjGWNvqMesJg=
+		3L5SZqG018bWFHkpCscHYay/jdU=
 		</data>
 		<key>Headers/FIRGameCenterAuthProvider.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/FIROAuthProvider.h</key>
 		<data>
-		+jahqObty/2tZ+UTeqYJTT+jTUM=
+		b0chFy3Nojzn006gsgDKakC3geY=
 		</data>
 		<key>Headers/FIRPhoneAuthCredential.h</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		T98zyRH0b8/XY3bPvytgWlRaQfY=
+		6oH57jRMJpoi8gqqm3FzuoHcXR4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -169,7 +169,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BMI9ssFJXL42BQRg/HkGH+4fgB27GQhMOF/8DPWSVDQ=
+			YZdgpgoN21rcEu40OPyUsX5bHa9cP7PHpR5obpNGOiI=
 			</data>
 		</dict>
 		<key>Headers/FIRAuthAPNSTokenType.h</key>
@@ -197,7 +197,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XEDekh760AB0gADdrZCOklNJ/NR0QfR6WxV18kjtrS4=
+			Lfw8V2lIWCqmly5fGygE9jlG0VpMpzZCCLVDmob8/w8=
 			</data>
 		</dict>
 		<key>Headers/FIRAuthSettings.h</key>
@@ -239,7 +239,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			siScYIjKM8uzYnCU5qf1EEsnreh1Kpp2Uk8ZAxOQdAc=
+			GLofBHNQCtFyeGk8Ix7g7vz+UgFYb8axgucsuNWuehY=
 			</data>
 		</dict>
 		<key>Headers/FIRGameCenterAuthProvider.h</key>
@@ -309,7 +309,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8+FHdkS4An/icBxLZXx/pRBBFVqGx9bNwVSD/8Dm3cs=
+			NkfTdDI7sFbjDyRTMLKNCRnDsLHe6EzB/2Xw1nOER00=
 			</data>
 		</dict>
 		<key>Headers/FIRPhoneAuthCredential.h</key>
