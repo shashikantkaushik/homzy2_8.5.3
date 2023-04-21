@@ -12,7 +12,7 @@ class SubSetting extends StatelessWidget {
     const kchatbot="24b188427eb21cddb27882c3ee1ffae54";
     final name=(ap.userModel.name);
     final email=(ap.userModel.email);
-    final bio=(ap.userModel.bio);
+
     final phone=(ap.userModel.phoneNumber);
     final pic=(ap.userModel.profilePic);
     final uid=(ap.userModel.uid);

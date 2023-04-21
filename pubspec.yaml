@@ -50,6 +50,7 @@ dependencies:
   font_awesome_flutter: ^10.4.0
 
   carousel_pro: ^1.0.0
+  upi_india: ^3.0.1
 
 dev_dependencies:
   flutter_test:
@@ -142,4 +143,5 @@ flutter:
     - assets/repair_serivce/switch_poster.jpeg
     - assets/repair_serivce/electric_main.webp
     - assets/book.png
+    -
   #   - images/a_dot_ham.jpe

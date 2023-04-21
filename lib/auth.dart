@@ -5,11 +5,12 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:homzy1/booked_model.dart';
 import 'package:homzy1/req_model.dart';
 import 'package:homzy1/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:homzy1/user_model.dart';
-
+import 'package:homzy1/payment_model.dart';
 import 'package:homzy1/screens/otp_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -21,6 +22,10 @@ class AuthProvider extends ChangeNotifier {
   String? _uid;
   String get uid => _uid!;
   UserModel? _userModel;
+  PayModel? _payModel;
+  PayModel get payModel => _payModel!;
+  BookModel? _bookModel;
+  BookModel get bookModel => _bookModel!;
   UserModel get userModel => _userModel!;
   ReqModel? _reqModel;
   ReqModel get reqModel => _reqModel!;
@@ -138,8 +143,9 @@ class AuthProvider extends ChangeNotifier {
       _userModel = UserModel(
         name: snapshot['name'],
         email: snapshot['email'],
+
         createdAt: snapshot['createdAt'],
-        bio: snapshot['bio'],
+
         uid: snapshot['uid'],
         profilePic: snapshot['profilePic'],
         phoneNumber: snapshot['phoneNumber'],
@@ -333,6 +339,38 @@ class AuthProvider extends ChangeNotifier {
   }
 
 
+  void savePayToFirebase({
+    required BuildContext context,
+    required PayModel payModel,
+    required Function onSuccess,
+
+  }) async {
+    _isLoading = true;
+    notifyListeners();
+    try {
+      // uploading image to firebase storage.
+      {
+        userModel.phoneNumber = _firebaseAuth.currentUser!.phoneNumber!;
+        userModel.uid = _firebaseAuth.currentUser!.phoneNumber!;
+      };
+      _payModel = payModel;
+
+      // uploading to database
+      await _firebaseFirestore
+          .collection("payment")
+          .doc(_uid)
+          .set(payModel.toMap())
+          .then((value) {
+        onSuccess();
+        _isLoading = false;
+        notifyListeners();
+      });
+    } on FirebaseAuthException catch (e) {
+      showSnackBar(context, e.message.toString());
+      _isLoading = false;
+      notifyListeners();
+    }
+  }
 
 }
 

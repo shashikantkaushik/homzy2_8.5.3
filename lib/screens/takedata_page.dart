@@ -1,12 +1,12 @@
 //import 'dart:html';
 //import 'dart:js';
-
+import 'package:homzy1/screens/payment_screen.dart';
 import 'package:homzy1/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:homzy1/screens/home_screen.dart';
 import 'package:homzy1/utils.dart';
 import 'dart:io';
-
+import 'dart:io' show Platform;
 import 'package:provider/provider.dart';
 import 'package:homzy1/req_model.dart';
 class LocationScreen extends StatefulWidget {
@@ -67,14 +67,28 @@ class _LocationScreenState extends State<LocationScreen> {
           reqPic: image!,
           onSuccess: () {
 print("asdf1");
+return Platform.isAndroid
+    ?
+Navigator.pushAndRemoveUntil(
+    context,
 
-                    Navigator.pushAndRemoveUntil(
-                    context,
+    MaterialPageRoute(
+      builder: (context) =>  HomeScreen(),
+    ),
+        (route) => false)
 
-                    MaterialPageRoute(
-                      builder: (context) => const HomeScreen(),
-                    ),
-                        (route) => false);
+
+
+    : Navigator.pushAndRemoveUntil(
+    context,
+
+    MaterialPageRoute(
+      builder: (context) =>  HomeScreen(),
+    ),
+        (route) => false);
+
+
+
 print("asdfhlk ks");
 
           },

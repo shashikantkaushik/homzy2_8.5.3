@@ -245,7 +245,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final ap = Provider.of<AuthProvider>(context, listen: false); 
     final name=(ap.userModel.name);
     final email=(ap.userModel.email);
-    final bio=(ap.userModel.bio);
+
     final phone=(ap.userModel.phoneNumber);
     final pic=(ap.userModel.profilePic);
     final uid=(ap.userModel.uid);

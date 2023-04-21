@@ -20,6 +20,7 @@ class _UserInfromationScreenState extends State<UserInfromationScreen> {
   File? image;
   final nameController = TextEditingController();
   final emailController = TextEditingController();
+  final upiController=TextEditingController();
   final bioController = TextEditingController();
 
   @override
@@ -107,15 +108,16 @@ class _UserInfromationScreenState extends State<UserInfromationScreen> {
                               height: 20,
                             ),
                             // bio
+
                             TextField(
                               decoration: InputDecoration(
-                                hintText: "Enter Your Bio Here",
+                                hintText: "Enter Your Mail Here",
                                 icon: Icon(Icons.edit, color: Color(0xFFC5C6d0),
                                     size: 30),
                               ),
                               keyboardType: TextInputType.emailAddress,
-                              maxLines: 2,
-                              controller: bioController,
+                              maxLines: 1,
+                              controller: emailController,
                             ),
                           ],
                         ),
@@ -191,7 +193,7 @@ class _UserInfromationScreenState extends State<UserInfromationScreen> {
     UserModel userModel = UserModel(
       name: nameController.text.trim(),
       email: emailController.text.trim(),
-      bio: bioController.text.trim(),
+
       profilePic: "",
       createdAt: "",
       phoneNumber: "",

@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		SjBxl8dy/kgJzpOcui//BoeWt6k=
+		AWKZpsf5IA8aJ1jvnWJQd4R/20E=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		1fZT05n4e5klX8WCc8orDifGd+Y=
+		li7KKMFmFhhNTkNBrZOsvNCCebc=
 		</data>
 		<key>flutter_assets/assets/.DS_Store</key>
 		<data>
@@ -40,6 +40,10 @@
 		<data>
 		m11AtzHvj747byC3N1xvsVDmZrU=
 		</data>
+		<key>flutter_assets/assets/book.png</key>
+		<data>
+		tIJ6v13vpmBMbsQ0MSrPTc/1FjY=
+		</data>
 		<key>flutter_assets/assets/carsoul_image/electric_banner.jpeg</key>
 		<data>
 		tn2KiCy2SkRdTQsNWR6op450My4=
@@ -55,6 +59,50 @@
 		<key>flutter_assets/assets/carsoul_image/salon_banner.jpeg</key>
 		<data>
 		+Qu2ln7lsuKG+CeV52mAv99bqEM=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/1_room_set_cleaning.jpeg</key>
+		<data>
+		cWaLeh9Ze3UxPP0rHpauzuf+0vE=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/bathroom_cleaning.jpeg</key>
+		<data>
+		YiKL4DFtKuEvNFf5Yl9BseZZ/vw=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/bathroom_cleaning_poster.jpeg</key>
+		<data>
+		WJwjyu9GFn5cMU8Niwzn3liGpMA=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/carpet_cleaner_poster.jpeg</key>
+		<data>
+		mIVEuMRkf36bN0XgtwMz4ki+uKY=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/carpet_cleaning.webp</key>
+		<data>
+		LrDBIUNy3FGe6KHnUUNV9XYTpQ0=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/garden%20claening.jpeg</key>
+		<data>
+		lUpsyLTw0Orz23GOgPibi0T3UBw=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/garden_cleaner_poster.jpeg</key>
+		<data>
+		nUUEcY3P7Mt9B0A4Ko52Gm7Q+2Y=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/kitchen_cleaner_poster.jpeg</key>
+		<data>
+		N9+SQw0W6BcWUD6iEFF8G49Ohs4=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/kitchen_cleaning.jpeg</key>
+		<data>
+		YgvdSKLRi8iSkW0m70dRmFm4GoM=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/sofa_cleaner_poster.jpeg</key>
+		<data>
+		qMAK0rtNBVohopo2mZ2BGP2o868=
+		</data>
+		<key>flutter_assets/assets/cleaning_service/sofa_cleaning.jpeg</key>
+		<data>
+		ddpQV/QvKge3NXqlfdn7HtMAlk0=
 		</data>
 		<key>flutter_assets/assets/image1.png</key>
 		<data>
@@ -92,21 +140,97 @@
 		<data>
 		/HwEwVRzIhUQ+l9DamQyV5Epbmo=
 		</data>
+		<key>flutter_assets/assets/repair_serivce/electric_main.webp</key>
+		<data>
+		jR4ZU4jeOFqlO+/oieo2D2CXpIM=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/electrical-wiring.jpeg</key>
+		<data>
+		01umqQKILgbiaQqMhvvKNxKDFF0=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/fan_poster.webp</key>
+		<data>
+		BfN4MSz8KDDhJJqAL/wHtyGnXOo=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/fan_repair.webp</key>
+		<data>
+		6KbW63ILRx9HewiSACuHBadcC0k=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/ovens_stoves_repair.jpeg</key>
+		<data>
+		/gVNLQQNv4CSy5Z7FMae2fnfEvo=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/stove_poster.jpeg</key>
+		<data>
+		I/Gkh9UinQehG+s03dtvgPnKGGo=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/stove_poster_2.1.jpeg</key>
+		<data>
+		NSmQlPHE+1znzb9AfZ2PF/+IS4k=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/switch_poster.jpeg</key>
+		<data>
+		/jElW33gV5m74853c4xVmflLjIE=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/switch_repair.jpeg</key>
+		<data>
+		vE1RfxBZkgnJRCNdLSNQRrwd0oU=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/vaccum_cleaners.jpeg</key>
+		<data>
+		0ScXAFmznbGiEshBA54/COu6f4Y=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/vacuum_poster.jpeg</key>
+		<data>
+		O9tqVz0ZYvprncNl9i6nruDzfiE=
+		</data>
+		<key>flutter_assets/assets/repair_serivce/wire_repair_2.3.jpeg</key>
+		<data>
+		Gnz1wxiTYsPx4O/HctpGnwlANLc=
+		</data>
+		<key>flutter_assets/assets/salon_men/child_hari_cut.jpeg</key>
+		<data>
+		U98Zf+qEV1uBtk8tSV2j5T+yWDc=
+		</data>
+		<key>flutter_assets/assets/salon_men/facial_trement_2.0.webp</key>
+		<data>
+		V2l0pa1ouF1q6EG1zfEgGqmWafo=
+		</data>
 		<key>flutter_assets/assets/salon_men/facila_treatment.jpeg</key>
 		<data>
 		bh8mD7xN0ErPW1mUZD1kyz41fqs=
+		</data>
+		<key>flutter_assets/assets/salon_men/men_color_3.3.png</key>
+		<data>
+		g1Q6mCOmZmax+KPL8aKcNkYqWKw=
 		</data>
 		<key>flutter_assets/assets/salon_men/men_hair_color.jpeg</key>
 		<data>
 		PWIEeCAAfRrP/1MtGDs+cAsKb/s=
 		</data>
+		<key>flutter_assets/assets/salon_men/men_salon.jpeg</key>
+		<data>
+		P+qOW2b+gMQxskDBTGnTgwH2bIY=
+		</data>
 		<key>flutter_assets/assets/salon_men/men_shaving.jpeg</key>
 		<data>
 		sEh6OJt5sVZAc440G9L8esf/2d0=
 		</data>
+		<key>flutter_assets/assets/salon_men/men_shaving_4.1.jpeg</key>
+		<data>
+		PyQ1fr0r33iKm2UvlqFhZSRO3dI=
+		</data>
 		<key>flutter_assets/assets/salon_men/salon_service_men.jpeg</key>
 		<data>
 		OyDF59i70yLI4jF7JspZODnapFE=
+		</data>
+		<key>flutter_assets/assets/salon_women/change_pixel.jpg</key>
+		<data>
+		++kKO+tQM4VYrsBbZLy2h8t2AEQ=
+		</data>
+		<key>flutter_assets/assets/salon_women/coloring%20hair_women_sec.jpeg</key>
+		<data>
+		KdgNj3Gw7R8ynjAKOptVjI4hb1Q=
 		</data>
 		<key>flutter_assets/assets/salon_women/glow.jpeg</key>
 		<data>
@@ -116,37 +240,33 @@
 		<data>
 		FfJb5kjb+WQP9MUBe0GD6qN/cEI=
 		</data>
+		<key>flutter_assets/assets/salon_women/hair_cutt_women_5.2.jpeg</key>
+		<data>
+		BPkFyXJIQU4AsBZjs8itM+apTfo=
+		</data>
 		<key>flutter_assets/assets/salon_women/haircut.jpeg</key>
 		<data>
 		VLoBb77NIvreAkXyMBggMXtNZYE=
+		</data>
+		<key>flutter_assets/assets/salon_women/makup_women_3.1.webp</key>
+		<data>
+		DjIDRfvlgNhIPJCZE27miTDVe6k=
 		</data>
 		<key>flutter_assets/assets/salon_women/manicure.webp</key>
 		<data>
 		uzRiKdSwZNb6x9xRieRGvgYrHag=
 		</data>
-		<key>flutter_assets/assets/service/1.jpeg</key>
+		<key>flutter_assets/assets/salon_women/manicure_3.1.jpeg</key>
 		<data>
-		FiSq6byf7/iewSiZsE149NTg3AA=
+		EEkyKTOQQGrA4ypba/AZSC4zc4I=
 		</data>
-		<key>flutter_assets/assets/service/2.jpeg</key>
+		<key>flutter_assets/assets/salon_women/women_haircut_2.0.jpeg</key>
 		<data>
-		0nXfb98KMGBFvgBO3meXFoyNYo4=
+		3MSnrk0vTaP9vJSEBVwkNqwvafI=
 		</data>
-		<key>flutter_assets/assets/small_service/1.jpeg</key>
+		<key>flutter_assets/assets/sub_service/470110063%20(1).jpg</key>
 		<data>
-		FHz9WZMj7vk4mHMvPc/7jNPtQ78=
-		</data>
-		<key>flutter_assets/assets/small_service/2.jpeg</key>
-		<data>
-		wFRYRIiurmO4aQ73+jqyhlkZ5K8=
-		</data>
-		<key>flutter_assets/assets/small_service/3.jpeg</key>
-		<data>
-		XRXyMR9yAHR9Pt7r8wFTTR2GA1Q=
-		</data>
-		<key>flutter_assets/assets/small_service/4.jpeg</key>
-		<data>
-		rJOxZ/+LI/0Vufx/V4uTbsA51Ws=
+		WgWHy2Xc8vVAUvXmf1aBvkk5YAM=
 		</data>
 		<key>flutter_assets/assets/sub_service/470110063.jpg</key>
 		<data>
@@ -160,21 +280,37 @@
 		<data>
 		sJ/whXkLnGelgYn4JIdkmVPTBZ0=
 		</data>
+		<key>flutter_assets/assets/sub_service/Electric_image/ac_repair_3.3.jpeg</key>
+		<data>
+		BoV/QLyv1WD0AJ56LJo0MBUFEsk=
+		</data>
+		<key>flutter_assets/assets/sub_service/Electric_image/lighting_3.3.webp</key>
+		<data>
+		DUKyXSKPvXrcild0IPo2h9HhoH8=
+		</data>
 		<key>flutter_assets/assets/sub_service/Electric_image/referegator-repairing-large.jpg</key>
 		<data>
 		Or5K1gNcF/ncQ18sggRyzp/gai8=
 		</data>
-		<key>flutter_assets/assets/sub_service/Electric_image/washing_image.jpeg</key>
+		<key>flutter_assets/assets/sub_service/Electric_image/washing_image.jpg</key>
 		<data>
-		n8e14dnFrGv5vLysSbCOLoVBceE=
+		doiuox/tnpATClnJgWx1rGHxVyY=
 		</data>
-		<key>flutter_assets/assets/sub_service/plum.jpg</key>
+		<key>flutter_assets/assets/sub_service/Electric_image/washing_machine_3.2.jpeg</key>
 		<data>
-		WgWHy2Xc8vVAUvXmf1aBvkk5YAM=
+		GaeVdQIRBb/I/uodUoNShdX4hDI=
 		</data>
 		<key>flutter_assets/assets/sub_service/plumber_image/Faucet.jpeg</key>
 		<data>
 		5TF+0mSBNnoFaMyB8efr2ZHUqfE=
+		</data>
+		<key>flutter_assets/assets/sub_service/plumber_image/faucet_4.1.webp</key>
+		<data>
+		xbJiT9KVZkNpWwFGP3qggEZcqFk=
+		</data>
+		<key>flutter_assets/assets/sub_service/plumber_image/pipe_4.1.webp</key>
+		<data>
+		k1JGe/khIfBqOWHiT1c2uoAmbv8=
 		</data>
 		<key>flutter_assets/assets/sub_service/plumber_image/pipe_repair.jpeg</key>
 		<data>
@@ -188,9 +324,17 @@
 		<data>
 		sAx5sfJuFxkakP6IRO2oTyo3cl8=
 		</data>
+		<key>flutter_assets/assets/sub_service/plumber_image/water_heater_3.3.jpeg</key>
+		<data>
+		snKAbEIIQwNJ5UVys6myl2c+vtU=
+		</data>
 		<key>flutter_assets/assets/sub_service/plumber_image/water_purifier.webp</key>
 		<data>
 		2apsq/erKeGshf9HJLIhPOEkgTw=
+		</data>
+		<key>flutter_assets/assets/sub_service/plumber_image/water_system_3.2.jpeg</key>
+		<data>
+		QfksUT5zedSuaC3SeBCZ3TbETCk=
 		</data>
 		<key>flutter_assets/assets/sub_service/plumber_subscreen.jpeg</key>
 		<data>
@@ -210,7 +354,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		ZOkebcCqo1RzVeGrSCyDw7MN79E=
+		k2eh8CRXPmgLudvo7ZM3h0iQ4T4=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -243,7 +387,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iqSH6PIXB7+aXLcDHzODcj52OidDkBuGuFQ/h78w0UE=
+			RT4j+01PvzX3mbzF2o+6WWqxPGQa0sx/s1H3NKMBrnk=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -257,7 +401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wTnCjYRL7jfCZVInf7Vj5sMEZP8IsD3/mdv1mqpyk18=
+			prFPvaHwC5fbtgqJREFykHWUuD5ealB/ZCxpTZUjZL8=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/1.1.jpeg</key>
@@ -288,6 +432,13 @@
 			oH532R3DDzKg//G0TW6gAPcMMeTLTnOnZvMrlX/FcXI=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/book.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7SQm9O1kHa1jldjWfao87tllTeuGK6hOKopO4GfnBpA=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/carsoul_image/electric_banner.jpeg</key>
 		<dict>
 			<key>hash2</key>
@@ -314,6 +465,83 @@
 			<key>hash2</key>
 			<data>
 			a4T9yjxAFv5UnuVPMAvVYyoCGwnRTBwBusjKJ1Er++I=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/1_room_set_cleaning.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O/CcaQEMBz+2rfH4yIrkzihG8ibZG/UCS1oTB//kwic=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/bathroom_cleaning.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aF8QjwgcUCWW5ysuwjxblYIVz13OS4W/4UL+LG992dc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/bathroom_cleaning_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6AvT/4qoMJn2/jfvqsyVoTdFLVtUXsUIFiVL/o1JEQ4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/carpet_cleaner_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7bx8Q24fPWlA0yCV6bwhneC377PftT8gin89q6fPRO8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/carpet_cleaning.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LtJlorbXIx2xRFxU3vz8I4ZGu2RniFP9V7Lg9NTYAcE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/garden%20claening.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jJT4IdnpxV+Xhm8xlhUmEg96BBfB05oAh9GInUiTB7k=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/garden_cleaner_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BgSfAB4F2kL7pgEd8xD1w73KFid1a+J9zEF9jhYYuMM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/kitchen_cleaner_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Dh8vx81m0RPi4Fzc6LaFV5Jd7PQm288Lndob+DlTjAY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/kitchen_cleaning.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RVHm3B3STx1AQxi/JrrfIdUjZBjcUZWJTM5gfwMqfr0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/sofa_cleaner_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XGshbWbzqpP0GivPipipQsK7JG3AO+3HWdpSOTMyxDw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/cleaning_service/sofa_cleaning.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z/557OSv2ZaPu1JouvZdfkfMeD5o8mHKixiKOvClYL0=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/image1.png</key>
@@ -379,11 +607,116 @@
 			iewZdPFOHK/VQh9OIu0dGQvmAkTJnj+LKnR+fR1H99g=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/repair_serivce/electric_main.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z2M+xK7Nv/Jo+qCS6fcEGhyUxG73qkCUHo+JdyYOblo=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/electrical-wiring.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NPL+x1+FGmxEPbPOty1HQfWKdnzjSUnVam2jtyh9itE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/fan_poster.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QfVk4foZsKeqHNK3g02YIFzLrkbWDx4aNW2zW7DMKNk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/fan_repair.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F9TTD071KEx5ljEZRdz1wjWG09Kke45GEAqI+5RDjR0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/ovens_stoves_repair.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cBKF6Pcf19XOEzB4MC/LPB2HSHewQegzZcIekWOdLEM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/stove_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			plR29qRdDkgYjhhnicir20cYvbGUbwOEAVHqXhRdaIM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/stove_poster_2.1.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			56Prh6cqAttznzr1tyvyd4n+FSmySZ7MejwQDNHNKsg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/switch_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lRyDvRLhInMhl2z+Wd11c7a64VomYpTAJ5AtgxwG1UA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/switch_repair.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c5xrHXVeIV7RveKMOGUgnv6dPaAxOwSLyZLItKtafIU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/vaccum_cleaners.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6zS8IPLIbqiPq8BK1meD2iU+I002CC5eLRwYHo6tFiI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/vacuum_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tg/joZ/UHZXyZK67adlaKTS5+6zfGJgGLO8vp20ijvM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/repair_serivce/wire_repair_2.3.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FgTFOTutqTSA4oOXg7WnPqCWXbdubFviQv/qIKsF1XI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/salon_men/child_hari_cut.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MPRIPjsyeoIz6HqNyMI5MlsEsT3pmN2P/pz+M4+ZsKw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/salon_men/facial_trement_2.0.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wj06rNdgQM2sbSKb0ZFE9mBHcNx8fb9Cuv7X9Krzzlc=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/salon_men/facila_treatment.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			WhbfTglIbUVO8XkO84YqWdUBMhikyiBS4Y8ndlkQd3c=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/salon_men/men_color_3.3.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bEcKV+/E5lqibqquKY8F7PfW3jP+z66Rz/M6rYCe5wk=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/salon_men/men_hair_color.jpeg</key>
@@ -393,6 +726,13 @@
 			O/g0CAVFAwoOOgAle01GBd8RiqmUmZz+WrZnyhXY7rg=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/salon_men/men_salon.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fkZ2uhlkXunp3dLRb4ijUF8qrkOH9nQ+zu/jW62DHFQ=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/salon_men/men_shaving.jpeg</key>
 		<dict>
 			<key>hash2</key>
@@ -400,11 +740,32 @@
 			7E9+CMrogoZGDVwGxLHy1hasxlrBU9dX0DSiFQ9T9AU=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/salon_men/men_shaving_4.1.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ICinXdC3lT3NM+UJSsOQYRuFhWcMP5ofMiwMqC5lSKc=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/salon_men/salon_service_men.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			FxnqiBUACZrIzvQFM7JHrEnnwNyyXrM+sxxicY8wOc8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/salon_women/change_pixel.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/aUM5kYUSWaPoiaPshLGpE33LUVezXHHRGQXirbSCq0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/salon_women/coloring%20hair_women_sec.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hod/6QneyQPk/s+822tD10uGZWYkF2VxZhvzuzkMvxU=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/salon_women/glow.jpeg</key>
@@ -421,11 +782,25 @@
 			73h0T/4aoI/65QXxZIhvlYfupTmoag/B4fNSA1c6B2c=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/salon_women/hair_cutt_women_5.2.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnhXLOajJjAD/TAsA6LRF4zIryGZqAFlJYPBZTynh2o=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/salon_women/haircut.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			4soBeeCBuUj21YynEqjWn78G46CU3jhnPStn6oY0EiQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/salon_women/makup_women_3.1.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XEKXzvxGf94nUqnu+mFEgDkv9KmNTp+ECEmuchXfGBE=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/salon_women/manicure.webp</key>
@@ -435,46 +810,25 @@
 			mJykpUDHHxinvLRu09UiHVIfbmctqVCsl4ZyON+cR8w=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/service/1.jpeg</key>
+		<key>flutter_assets/assets/salon_women/manicure_3.1.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IqudvEkL5Etcsgw/uOxCYeb48fWlBIAYz3BSJiyw6/A=
+			eAv/43MP3JadpO0dRXJjrkmS6HGMUyjG6JGhUzyWhN4=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/service/2.jpeg</key>
+		<key>flutter_assets/assets/salon_women/women_haircut_2.0.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a8d6rc3qxT/9vp4KuYTy9K1qSp9SZlxyeJtz7dkGxts=
+			5/5bT4uzFkkCAtC8zNUT4dT1+zQnHP7zO7CQXL3kAjA=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/small_service/1.jpeg</key>
+		<key>flutter_assets/assets/sub_service/470110063%20(1).jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h1eaeTpufoiiS1JiRFnFld0xxTuZYgAYRLDz3GNqMjQ=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/small_service/2.jpeg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7AXp0OtO8Vxo4WI65biBElmShRFKLtuIKjArXMV6QE4=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/small_service/3.jpeg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dc/TVTS4ZryVoUZBTuQZivXsYblQZ7e7+xFKh/70YaM=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/small_service/4.jpeg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kVbwIrVBEgwfVxbP9TmM7dJLa0l2Xmif82vVzxCNZsE=
+			7puM4tuQRoBBPGzJpzyRTnljk7TIAi0OCZwaSfgwOAk=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/sub_service/470110063.jpg</key>
@@ -498,6 +852,20 @@
 			I4eCqpq0wmD5kJ+BsQPlrnvbKgJI9d8Nlaqh9fYHwbM=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/sub_service/Electric_image/ac_repair_3.3.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VBNO54mqhWOvnnuDdPC62MiWyopiglamVjsm5ymaRvo=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/sub_service/Electric_image/lighting_3.3.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5x3zTS/m0SiAK0npLTFstnsorVI1kwvjp/78IWG5N+s=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/sub_service/Electric_image/referegator-repairing-large.jpg</key>
 		<dict>
 			<key>hash2</key>
@@ -505,18 +873,18 @@
 			jNaXm92jCJSC93b0jCvcoimL6nVR0RRulkP1U1rx07Y=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/sub_service/Electric_image/washing_image.jpeg</key>
+		<key>flutter_assets/assets/sub_service/Electric_image/washing_image.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RjOVTcdP7mcJdWA1Rf9vk7ht3xfL68qJqp/vcyZzLiY=
+			ubCjiqsJOcbwnQ22kz0YfQrTLJOmY9qBYBymnP7SZOY=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/sub_service/plum.jpg</key>
+		<key>flutter_assets/assets/sub_service/Electric_image/washing_machine_3.2.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7puM4tuQRoBBPGzJpzyRTnljk7TIAi0OCZwaSfgwOAk=
+			bJFO9todx74vvm8aQsAv4fLrV9tLduWIBv8vvVE+i/Y=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/sub_service/plumber_image/Faucet.jpeg</key>
@@ -524,6 +892,20 @@
 			<key>hash2</key>
 			<data>
 			/4Mq7h3NlqAXJy/moXZV3mxi3ylVmPvuJwRgdRM6O0U=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/sub_service/plumber_image/faucet_4.1.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YNCBY549f3d4xsi/b2PeoxgtRFZQzgjD7IBE3pv7USY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/sub_service/plumber_image/pipe_4.1.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4klCHdvLGn1Tqa1ysXRlQ+r3xFOxaOWbYvPI5BzVI0E=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/sub_service/plumber_image/pipe_repair.jpeg</key>
@@ -547,11 +929,25 @@
 			AXaRYw7S4ZfqRYJD0r9ctr26fOU3D52RvU/WC+PJNo0=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/sub_service/plumber_image/water_heater_3.3.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nN+rw2B18/kkauZbjjLPTL/wBFEtajDtCUzBQFMeiGw=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/sub_service/plumber_image/water_purifier.webp</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			p45Q+B2JQ5ciSOc35FXfkWBoMbxCluwLiiwv+PbnY3g=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/sub_service/plumber_image/water_system_3.2.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zBGF4QReESmkQxIJsizayg+2Ln46EGFB192nO06WilA=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/sub_service/plumber_subscreen.jpeg</key>
@@ -586,7 +982,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pqocr+ehqRdsW5NfkGNoZk+IlVv6X8e5DWyfu4fkc/I=
+			KQ1NizmgZhJjYIm37Y+bodU/lAEiNIw86RokkoHAlgU=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

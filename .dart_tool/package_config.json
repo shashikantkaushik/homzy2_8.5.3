@@ -434,6 +434,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "upi_india",
+      "rootUri": "file:///Users/shashikant/.pub-cache/hosted/pub.dev/upi_india-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///Users/shashikant/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -458,7 +464,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-04-19T10:39:56.202523Z",
+  "generated": "2023-04-19T21:04:34.766082Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }

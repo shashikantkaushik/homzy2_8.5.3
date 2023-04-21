@@ -35,7 +35,7 @@ class _bookedServiceState extends State<bookedService> {
         title: Text('Booked Requests'),
       ),
       body: StreamBuilder<QuerySnapshot<Map<String, dynamic>>>(
-        stream: _firebaseFirestore.collection("moved").snapshots(),
+        stream: _firebaseFirestore.collection("book").snapshots(),
         builder: (context, snapshot) {
           print("erro3r");
           if (snapshot.connectionState == ConnectionState.waiting) {
@@ -59,15 +59,15 @@ class _bookedServiceState extends State<bookedService> {
 
           for (final docSnapshot in snapshot.data!.docs) {
             print('reqList length: ${reqList.length}');
-          if(reqList.length==0){
-            Navigator.push(
-                context,
-
-                MaterialPageRoute(
-                  builder: (context) => const NoBookingsScreen(),
-                ),
-            );
-          }
+          // if(reqList.length==0){
+          //   Navigator.push(
+          //       context,
+          //
+          //       MaterialPageRoute(
+          //         builder: (context) => const NoBookingsScreen(),
+          //       ),
+          //   );
+          // }
             print("error60r");
             final data = docSnapshot.data();
             print("error2345");
@@ -77,6 +77,15 @@ class _bookedServiceState extends State<bookedService> {
               reqList.add(bookModel); // Add the new object to the reqList
             }
           }
+          print(reqList.length);
+          // if (reqList.length==0) {
+          //   Navigator.pushAndRemoveUntil(
+          //     context,
+          //     MaterialPageRoute(
+          //       builder: (context) => const NoBookingsScreen(),
+          //     ),
+          //   );
+          // }
 
           return ListView.builder(
 

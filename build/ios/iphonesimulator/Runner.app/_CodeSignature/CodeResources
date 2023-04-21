@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		nSIecGcIjlcng1rZNMqIfYLllpQ=
+		NJiAWROo5ePGwO1mAGvpM2vQKk8=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		cdEH2GZSak4H77AoBtkk53UaZ4E=
+		xGIT0P/wjjMS8vKuQ6riRTBJ0ec=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		mapq4cl7NwZ3zHRoKY2ey+iwGzw=
+		DAGYeqnV8Iv+SAVQT2LW5VhGBZQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		SjBxl8dy/kgJzpOcui//BoeWt6k=
+		AWKZpsf5IA8aJ1jvnWJQd4R/20E=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		1fZT05n4e5klX8WCc8orDifGd+Y=
+		li7KKMFmFhhNTkNBrZOsvNCCebc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/1.1.jpeg</key>
 		<data>
@@ -84,6 +84,10 @@
 		<data>
 		m11AtzHvj747byC3N1xvsVDmZrU=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/book.png</key>
+		<data>
+		tIJ6v13vpmBMbsQ0MSrPTc/1FjY=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/carsoul_image/electric_banner.jpeg</key>
 		<data>
 		tn2KiCy2SkRdTQsNWR6op450My4=
@@ -99,6 +103,50 @@
 		<key>Frameworks/App.framework/flutter_assets/assets/carsoul_image/salon_banner.jpeg</key>
 		<data>
 		+Qu2ln7lsuKG+CeV52mAv99bqEM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/1_room_set_cleaning.jpeg</key>
+		<data>
+		cWaLeh9Ze3UxPP0rHpauzuf+0vE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/bathroom_cleaning.jpeg</key>
+		<data>
+		YiKL4DFtKuEvNFf5Yl9BseZZ/vw=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/bathroom_cleaning_poster.jpeg</key>
+		<data>
+		WJwjyu9GFn5cMU8Niwzn3liGpMA=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/carpet_cleaner_poster.jpeg</key>
+		<data>
+		mIVEuMRkf36bN0XgtwMz4ki+uKY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/carpet_cleaning.webp</key>
+		<data>
+		LrDBIUNy3FGe6KHnUUNV9XYTpQ0=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/garden%20claening.jpeg</key>
+		<data>
+		lUpsyLTw0Orz23GOgPibi0T3UBw=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/garden_cleaner_poster.jpeg</key>
+		<data>
+		nUUEcY3P7Mt9B0A4Ko52Gm7Q+2Y=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/kitchen_cleaner_poster.jpeg</key>
+		<data>
+		N9+SQw0W6BcWUD6iEFF8G49Ohs4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/kitchen_cleaning.jpeg</key>
+		<data>
+		YgvdSKLRi8iSkW0m70dRmFm4GoM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/sofa_cleaner_poster.jpeg</key>
+		<data>
+		qMAK0rtNBVohopo2mZ2BGP2o868=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/sofa_cleaning.jpeg</key>
+		<data>
+		ddpQV/QvKge3NXqlfdn7HtMAlk0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/image1.png</key>
 		<data>
@@ -136,21 +184,97 @@
 		<data>
 		/HwEwVRzIhUQ+l9DamQyV5Epbmo=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/electric_main.webp</key>
+		<data>
+		jR4ZU4jeOFqlO+/oieo2D2CXpIM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/electrical-wiring.jpeg</key>
+		<data>
+		01umqQKILgbiaQqMhvvKNxKDFF0=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/fan_poster.webp</key>
+		<data>
+		BfN4MSz8KDDhJJqAL/wHtyGnXOo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/fan_repair.webp</key>
+		<data>
+		6KbW63ILRx9HewiSACuHBadcC0k=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/ovens_stoves_repair.jpeg</key>
+		<data>
+		/gVNLQQNv4CSy5Z7FMae2fnfEvo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/stove_poster.jpeg</key>
+		<data>
+		I/Gkh9UinQehG+s03dtvgPnKGGo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/stove_poster_2.1.jpeg</key>
+		<data>
+		NSmQlPHE+1znzb9AfZ2PF/+IS4k=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/switch_poster.jpeg</key>
+		<data>
+		/jElW33gV5m74853c4xVmflLjIE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/switch_repair.jpeg</key>
+		<data>
+		vE1RfxBZkgnJRCNdLSNQRrwd0oU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/vaccum_cleaners.jpeg</key>
+		<data>
+		0ScXAFmznbGiEshBA54/COu6f4Y=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/vacuum_poster.jpeg</key>
+		<data>
+		O9tqVz0ZYvprncNl9i6nruDzfiE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/wire_repair_2.3.jpeg</key>
+		<data>
+		Gnz1wxiTYsPx4O/HctpGnwlANLc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/child_hari_cut.jpeg</key>
+		<data>
+		U98Zf+qEV1uBtk8tSV2j5T+yWDc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/facial_trement_2.0.webp</key>
+		<data>
+		V2l0pa1ouF1q6EG1zfEgGqmWafo=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/facila_treatment.jpeg</key>
 		<data>
 		bh8mD7xN0ErPW1mUZD1kyz41fqs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_color_3.3.png</key>
+		<data>
+		g1Q6mCOmZmax+KPL8aKcNkYqWKw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_hair_color.jpeg</key>
 		<data>
 		PWIEeCAAfRrP/1MtGDs+cAsKb/s=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_salon.jpeg</key>
+		<data>
+		P+qOW2b+gMQxskDBTGnTgwH2bIY=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_shaving.jpeg</key>
 		<data>
 		sEh6OJt5sVZAc440G9L8esf/2d0=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_shaving_4.1.jpeg</key>
+		<data>
+		PyQ1fr0r33iKm2UvlqFhZSRO3dI=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/salon_service_men.jpeg</key>
 		<data>
 		OyDF59i70yLI4jF7JspZODnapFE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/change_pixel.jpg</key>
+		<data>
+		++kKO+tQM4VYrsBbZLy2h8t2AEQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/coloring%20hair_women_sec.jpeg</key>
+		<data>
+		KdgNj3Gw7R8ynjAKOptVjI4hb1Q=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/glow.jpeg</key>
 		<data>
@@ -160,37 +284,33 @@
 		<data>
 		FfJb5kjb+WQP9MUBe0GD6qN/cEI=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/hair_cutt_women_5.2.jpeg</key>
+		<data>
+		BPkFyXJIQU4AsBZjs8itM+apTfo=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/haircut.jpeg</key>
 		<data>
 		VLoBb77NIvreAkXyMBggMXtNZYE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/makup_women_3.1.webp</key>
+		<data>
+		DjIDRfvlgNhIPJCZE27miTDVe6k=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/manicure.webp</key>
 		<data>
 		uzRiKdSwZNb6x9xRieRGvgYrHag=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/service/1.jpeg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/manicure_3.1.jpeg</key>
 		<data>
-		FiSq6byf7/iewSiZsE149NTg3AA=
+		EEkyKTOQQGrA4ypba/AZSC4zc4I=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/service/2.jpeg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/women_haircut_2.0.jpeg</key>
 		<data>
-		0nXfb98KMGBFvgBO3meXFoyNYo4=
+		3MSnrk0vTaP9vJSEBVwkNqwvafI=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/small_service/1.jpeg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/470110063%20(1).jpg</key>
 		<data>
-		FHz9WZMj7vk4mHMvPc/7jNPtQ78=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/small_service/2.jpeg</key>
-		<data>
-		wFRYRIiurmO4aQ73+jqyhlkZ5K8=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/small_service/3.jpeg</key>
-		<data>
-		XRXyMR9yAHR9Pt7r8wFTTR2GA1Q=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/small_service/4.jpeg</key>
-		<data>
-		rJOxZ/+LI/0Vufx/V4uTbsA51Ws=
+		WgWHy2Xc8vVAUvXmf1aBvkk5YAM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/470110063.jpg</key>
 		<data>
@@ -204,21 +324,37 @@
 		<data>
 		sJ/whXkLnGelgYn4JIdkmVPTBZ0=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/ac_repair_3.3.jpeg</key>
+		<data>
+		BoV/QLyv1WD0AJ56LJo0MBUFEsk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/lighting_3.3.webp</key>
+		<data>
+		DUKyXSKPvXrcild0IPo2h9HhoH8=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/referegator-repairing-large.jpg</key>
 		<data>
 		Or5K1gNcF/ncQ18sggRyzp/gai8=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/washing_image.jpeg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/washing_image.jpg</key>
 		<data>
-		n8e14dnFrGv5vLysSbCOLoVBceE=
+		doiuox/tnpATClnJgWx1rGHxVyY=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plum.jpg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/washing_machine_3.2.jpeg</key>
 		<data>
-		WgWHy2Xc8vVAUvXmf1aBvkk5YAM=
+		GaeVdQIRBb/I/uodUoNShdX4hDI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/Faucet.jpeg</key>
 		<data>
 		5TF+0mSBNnoFaMyB8efr2ZHUqfE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/faucet_4.1.webp</key>
+		<data>
+		xbJiT9KVZkNpWwFGP3qggEZcqFk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/pipe_4.1.webp</key>
+		<data>
+		k1JGe/khIfBqOWHiT1c2uoAmbv8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/pipe_repair.jpeg</key>
 		<data>
@@ -232,9 +368,17 @@
 		<data>
 		sAx5sfJuFxkakP6IRO2oTyo3cl8=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/water_heater_3.3.jpeg</key>
+		<data>
+		snKAbEIIQwNJ5UVys6myl2c+vtU=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/water_purifier.webp</key>
 		<data>
 		2apsq/erKeGshf9HJLIhPOEkgTw=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/water_system_3.2.jpeg</key>
+		<data>
+		QfksUT5zedSuaC3SeBCZ3TbETCk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_subscreen.jpeg</key>
 		<data>
@@ -254,7 +398,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		ZOkebcCqo1RzVeGrSCyDw7MN79E=
+		k2eh8CRXPmgLudvo7ZM3h0iQ4T4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -294,7 +438,7 @@
 		</data>
 		<key>Frameworks/FBLPromises.framework/FBLPromises</key>
 		<data>
-		MoZQSLt2k7KQe+OYTsI6d+BTKvs=
+		0pQK3wJkjH0r+f9b/ILxgA5S1Z8=
 		</data>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
 		<data>
@@ -318,7 +462,7 @@
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<data>
-		Fv49bhYeY692oDILeFLXcGb3mp8=
+		duJffQrYRTUi9uAXrVfJLPfUIz0=
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<data>
@@ -342,7 +486,7 @@
 		</data>
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<data>
-		Gzgvq1VRv3rgydxaQmtY6p7zAgk=
+		ImDx57aAGmBiSdNIcIVT88/puwQ=
 		</data>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<data>
@@ -366,7 +510,7 @@
 		</data>
 		<key>Frameworks/FirebaseCoreInternal.framework/FirebaseCoreInternal</key>
 		<data>
-		ZGD40iyFec/2VRZg0Yhsn1kOdyw=
+		CMhc+ElYdcu1b1JJdbBH9BaKzvk=
 		</data>
 		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
 		<data>
@@ -378,7 +522,7 @@
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
 		<data>
-		BFnQt9q6YTxyxHoo8dCFPfNBRm0=
+		2+TuA8YNUxvwCPiKJjr1gHIfrYw=
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
 		<data>
@@ -390,7 +534,7 @@
 		</data>
 		<key>Frameworks/FirebaseStorage.framework/FirebaseStorage</key>
 		<data>
-		MIMtYFOycYfkM+qaiOOmekMaXNE=
+		1Xoh+SFxF48qGus/gHrD8iNcQw4=
 		</data>
 		<key>Frameworks/FirebaseStorage.framework/Info.plist</key>
 		<data>
@@ -486,7 +630,7 @@
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		fVB3Vy8T1AOYVb+sSV0SRiPDbVk=
+		79ZOowmYb7stJ1F+ktJUM60syLg=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
@@ -498,7 +642,7 @@
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities</key>
 		<data>
-		M0rtu9Avk3tSRIuT5NCRWp6qGwU=
+		wJ/4LFFcIf3quXSNQ24bvldjf6A=
 		</data>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
 		<data>
@@ -522,7 +666,7 @@
 		</data>
 		<key>Frameworks/Kommunicate.framework/Assets.car</key>
 		<data>
-		ea/XTT7iuiAPKphVD8mz/7ei18I=
+		TrMQbW3qyxy7qe23/0zaLNQX4FQ=
 		</data>
 		<key>Frameworks/Kommunicate.framework/CustomPreChatFormView.nib</key>
 		<data>
@@ -538,7 +682,7 @@
 		</data>
 		<key>Frameworks/Kommunicate.framework/Kommunicate</key>
 		<data>
-		4bKBKg8caL24pMz+Kmm8qs78sfQ=
+		KmG5aYDeXOzb54RaWd5pofULkTM=
 		</data>
 		<key>Frameworks/Kommunicate.framework/Localizable.strings</key>
 		<data>
@@ -546,7 +690,7 @@
 		</data>
 		<key>Frameworks/Kommunicate.framework/_CodeSignature/CodeResources</key>
 		<data>
-		VG6FwZ2VwtL3TRWzp87W1D3fPuI=
+		cDEwbNhAIsyyvw3t74FF93/Yg1Q=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/ALKAccountSuspensionView.nib</key>
 		<data>
@@ -558,7 +702,7 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/Assets.car</key>
 		<data>
-		xrXlNYFulwT2M+VBdTS+h28UpfM=
+		Hb0NfFyeFEwexDnWi+54DY8MC2E=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/Base.lproj/Localizable.strings</key>
 		<dict>
@@ -715,7 +859,7 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/KommunicateChatUI_iOS_SDK</key>
 		<data>
-		9XqQL5bmGpxA5VbIdjeDEn/mvLk=
+		t3f0bpMQPSOp+tGz6xzYaeMPOH0=
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -815,7 +959,7 @@
 		</data>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		QenG1CVvdVf6dSrJaDeH/vA7/NE=
+		UHl/7+sxVaj70KZd1jA7Ji308k4=
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/AppLozic.momd/AppLozic 10.mom</key>
 		<data>
@@ -883,7 +1027,7 @@
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/KommunicateCore_iOS_SDK</key>
 		<data>
-		IHV6TU9DiGrzIYkY9emLtikDZqA=
+		A/HFHoP/xIecPHDMXmqv6YgkAIo=
 		</data>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/MQTTClient.momd/MQTTClient.mom</key>
 		<data>
@@ -927,7 +1071,7 @@
 		</data>
 		<key>Frameworks/absl.framework/absl</key>
 		<data>
-		DdkM0IOgmPjqjQRXkEIVqmFduy0=
+		+a/e/ON3gOKqWf697GiV1pz1/JY=
 		</data>
 		<key>Frameworks/grpc.framework/Info.plist</key>
 		<data>
@@ -939,7 +1083,7 @@
 		</data>
 		<key>Frameworks/grpc.framework/grpc</key>
 		<data>
-		nMmKblGp9fYpYox9+TX8JQmiWnA=
+		s0rKTnvlpylZuAFepJKNT7nr+HY=
 		</data>
 		<key>Frameworks/grpcpp.framework/Info.plist</key>
 		<data>
@@ -959,7 +1103,7 @@
 		</data>
 		<key>Frameworks/grpcpp.framework/grpcpp</key>
 		<data>
-		AMPJMgjLdGs2rBtfZ09FW6Cfkgc=
+		RlRS4fU4iYZueXrMwuIAYuLPPY4=
 		</data>
 		<key>Frameworks/image_picker_ios.framework/Info.plist</key>
 		<data>
@@ -983,7 +1127,7 @@
 		</data>
 		<key>Frameworks/kommunicate_flutter.framework/kommunicate_flutter</key>
 		<data>
-		A0TFMDrxnmHJM9U/pz7/0+fwmbE=
+		xXW9d9zgdUWv1Za5pKKEmI9/u6E=
 		</data>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
 		<data>
@@ -995,7 +1139,7 @@
 		</data>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<data>
-		LkhgqEyW1YkeYiC0ZIVkzNzY0yc=
+		pKvAnj5MRPStIFZgbx9MUyewAfE=
 		</data>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<data>
@@ -1007,7 +1151,7 @@
 		</data>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<data>
-		K/leZkcynH2C3/7n9CGVFzaOrmg=
+		vVqtB8xx0MKvZVn9lhYREL3syaA=
 		</data>
 		<key>Frameworks/openssl_grpc.framework/Info.plist</key>
 		<data>
@@ -1019,7 +1163,7 @@
 		</data>
 		<key>Frameworks/openssl_grpc.framework/openssl_grpc</key>
 		<data>
-		oSgPQOg3dAqiIMULVhdC2ZTH7vA=
+		CcT6HR9Pp79dY7Xlw6hPYK7eudM=
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
 		<data>
@@ -1055,7 +1199,7 @@
 		</data>
 		<key>Frameworks/uv.framework/uv</key>
 		<data>
-		64GN7Ty4RZc1IoRKDt58BG2lgpI=
+		qVwVVBS6qSF4nJ1Ny8Cz+DSL9aI=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -1097,7 +1241,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHuycqPwiQmwnuesdu7D9MkqTQJj42UHYeyPqmp6JZY=
+			wS81e7JvGeG5xyMFzoHzNiReGu6T1GhOkcHPsHwtuJg=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -1146,7 +1290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kZt2xGDtMrZ286D9duqveuj1zNK8so2zBGGlQnZVW4g=
+			O9H8H48Gq8kYMMbZLXom/IdUaAIfCZh5aUC4LiO3Bwk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -1160,14 +1304,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VwMbyRz4dm6E7UOGGc0enBDqvlWKytxvqc201Y2E9kI=
+			zoo52tgWMLEL594SQNsR/JesZViAsTOcC90PU2eINM8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iqSH6PIXB7+aXLcDHzODcj52OidDkBuGuFQ/h78w0UE=
+			RT4j+01PvzX3mbzF2o+6WWqxPGQa0sx/s1H3NKMBrnk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -1181,7 +1325,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wTnCjYRL7jfCZVInf7Vj5sMEZP8IsD3/mdv1mqpyk18=
+			prFPvaHwC5fbtgqJREFykHWUuD5ealB/ZCxpTZUjZL8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/1.1.jpeg</key>
@@ -1212,6 +1356,13 @@
 			oH532R3DDzKg//G0TW6gAPcMMeTLTnOnZvMrlX/FcXI=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/book.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7SQm9O1kHa1jldjWfao87tllTeuGK6hOKopO4GfnBpA=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/carsoul_image/electric_banner.jpeg</key>
 		<dict>
 			<key>hash2</key>
@@ -1238,6 +1389,83 @@
 			<key>hash2</key>
 			<data>
 			a4T9yjxAFv5UnuVPMAvVYyoCGwnRTBwBusjKJ1Er++I=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/1_room_set_cleaning.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O/CcaQEMBz+2rfH4yIrkzihG8ibZG/UCS1oTB//kwic=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/bathroom_cleaning.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aF8QjwgcUCWW5ysuwjxblYIVz13OS4W/4UL+LG992dc=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/bathroom_cleaning_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6AvT/4qoMJn2/jfvqsyVoTdFLVtUXsUIFiVL/o1JEQ4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/carpet_cleaner_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7bx8Q24fPWlA0yCV6bwhneC377PftT8gin89q6fPRO8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/carpet_cleaning.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LtJlorbXIx2xRFxU3vz8I4ZGu2RniFP9V7Lg9NTYAcE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/garden%20claening.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jJT4IdnpxV+Xhm8xlhUmEg96BBfB05oAh9GInUiTB7k=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/garden_cleaner_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BgSfAB4F2kL7pgEd8xD1w73KFid1a+J9zEF9jhYYuMM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/kitchen_cleaner_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Dh8vx81m0RPi4Fzc6LaFV5Jd7PQm288Lndob+DlTjAY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/kitchen_cleaning.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RVHm3B3STx1AQxi/JrrfIdUjZBjcUZWJTM5gfwMqfr0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/sofa_cleaner_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XGshbWbzqpP0GivPipipQsK7JG3AO+3HWdpSOTMyxDw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/cleaning_service/sofa_cleaning.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z/557OSv2ZaPu1JouvZdfkfMeD5o8mHKixiKOvClYL0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/image1.png</key>
@@ -1303,11 +1531,116 @@
 			iewZdPFOHK/VQh9OIu0dGQvmAkTJnj+LKnR+fR1H99g=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/electric_main.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z2M+xK7Nv/Jo+qCS6fcEGhyUxG73qkCUHo+JdyYOblo=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/electrical-wiring.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NPL+x1+FGmxEPbPOty1HQfWKdnzjSUnVam2jtyh9itE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/fan_poster.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QfVk4foZsKeqHNK3g02YIFzLrkbWDx4aNW2zW7DMKNk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/fan_repair.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F9TTD071KEx5ljEZRdz1wjWG09Kke45GEAqI+5RDjR0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/ovens_stoves_repair.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cBKF6Pcf19XOEzB4MC/LPB2HSHewQegzZcIekWOdLEM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/stove_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			plR29qRdDkgYjhhnicir20cYvbGUbwOEAVHqXhRdaIM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/stove_poster_2.1.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			56Prh6cqAttznzr1tyvyd4n+FSmySZ7MejwQDNHNKsg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/switch_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lRyDvRLhInMhl2z+Wd11c7a64VomYpTAJ5AtgxwG1UA=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/switch_repair.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c5xrHXVeIV7RveKMOGUgnv6dPaAxOwSLyZLItKtafIU=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/vaccum_cleaners.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6zS8IPLIbqiPq8BK1meD2iU+I002CC5eLRwYHo6tFiI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/vacuum_poster.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tg/joZ/UHZXyZK67adlaKTS5+6zfGJgGLO8vp20ijvM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/repair_serivce/wire_repair_2.3.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FgTFOTutqTSA4oOXg7WnPqCWXbdubFviQv/qIKsF1XI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/child_hari_cut.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MPRIPjsyeoIz6HqNyMI5MlsEsT3pmN2P/pz+M4+ZsKw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/facial_trement_2.0.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wj06rNdgQM2sbSKb0ZFE9mBHcNx8fb9Cuv7X9Krzzlc=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/facila_treatment.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			WhbfTglIbUVO8XkO84YqWdUBMhikyiBS4Y8ndlkQd3c=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_color_3.3.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bEcKV+/E5lqibqquKY8F7PfW3jP+z66Rz/M6rYCe5wk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_hair_color.jpeg</key>
@@ -1317,6 +1650,13 @@
 			O/g0CAVFAwoOOgAle01GBd8RiqmUmZz+WrZnyhXY7rg=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_salon.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fkZ2uhlkXunp3dLRb4ijUF8qrkOH9nQ+zu/jW62DHFQ=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_shaving.jpeg</key>
 		<dict>
 			<key>hash2</key>
@@ -1324,11 +1664,32 @@
 			7E9+CMrogoZGDVwGxLHy1hasxlrBU9dX0DSiFQ9T9AU=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/men_shaving_4.1.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ICinXdC3lT3NM+UJSsOQYRuFhWcMP5ofMiwMqC5lSKc=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_men/salon_service_men.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			FxnqiBUACZrIzvQFM7JHrEnnwNyyXrM+sxxicY8wOc8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/change_pixel.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/aUM5kYUSWaPoiaPshLGpE33LUVezXHHRGQXirbSCq0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/coloring%20hair_women_sec.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hod/6QneyQPk/s+822tD10uGZWYkF2VxZhvzuzkMvxU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/glow.jpeg</key>
@@ -1345,11 +1706,25 @@
 			73h0T/4aoI/65QXxZIhvlYfupTmoag/B4fNSA1c6B2c=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/hair_cutt_women_5.2.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnhXLOajJjAD/TAsA6LRF4zIryGZqAFlJYPBZTynh2o=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/haircut.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			4soBeeCBuUj21YynEqjWn78G46CU3jhnPStn6oY0EiQ=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/makup_women_3.1.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XEKXzvxGf94nUqnu+mFEgDkv9KmNTp+ECEmuchXfGBE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/manicure.webp</key>
@@ -1359,46 +1734,25 @@
 			mJykpUDHHxinvLRu09UiHVIfbmctqVCsl4ZyON+cR8w=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/service/1.jpeg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/manicure_3.1.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IqudvEkL5Etcsgw/uOxCYeb48fWlBIAYz3BSJiyw6/A=
+			eAv/43MP3JadpO0dRXJjrkmS6HGMUyjG6JGhUzyWhN4=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/service/2.jpeg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/salon_women/women_haircut_2.0.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a8d6rc3qxT/9vp4KuYTy9K1qSp9SZlxyeJtz7dkGxts=
+			5/5bT4uzFkkCAtC8zNUT4dT1+zQnHP7zO7CQXL3kAjA=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/small_service/1.jpeg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/470110063%20(1).jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h1eaeTpufoiiS1JiRFnFld0xxTuZYgAYRLDz3GNqMjQ=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/small_service/2.jpeg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7AXp0OtO8Vxo4WI65biBElmShRFKLtuIKjArXMV6QE4=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/small_service/3.jpeg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dc/TVTS4ZryVoUZBTuQZivXsYblQZ7e7+xFKh/70YaM=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/small_service/4.jpeg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kVbwIrVBEgwfVxbP9TmM7dJLa0l2Xmif82vVzxCNZsE=
+			7puM4tuQRoBBPGzJpzyRTnljk7TIAi0OCZwaSfgwOAk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/470110063.jpg</key>
@@ -1422,6 +1776,20 @@
 			I4eCqpq0wmD5kJ+BsQPlrnvbKgJI9d8Nlaqh9fYHwbM=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/ac_repair_3.3.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VBNO54mqhWOvnnuDdPC62MiWyopiglamVjsm5ymaRvo=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/lighting_3.3.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5x3zTS/m0SiAK0npLTFstnsorVI1kwvjp/78IWG5N+s=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/referegator-repairing-large.jpg</key>
 		<dict>
 			<key>hash2</key>
@@ -1429,18 +1797,18 @@
 			jNaXm92jCJSC93b0jCvcoimL6nVR0RRulkP1U1rx07Y=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/washing_image.jpeg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/washing_image.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RjOVTcdP7mcJdWA1Rf9vk7ht3xfL68qJqp/vcyZzLiY=
+			ubCjiqsJOcbwnQ22kz0YfQrTLJOmY9qBYBymnP7SZOY=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plum.jpg</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/Electric_image/washing_machine_3.2.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7puM4tuQRoBBPGzJpzyRTnljk7TIAi0OCZwaSfgwOAk=
+			bJFO9todx74vvm8aQsAv4fLrV9tLduWIBv8vvVE+i/Y=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/Faucet.jpeg</key>
@@ -1448,6 +1816,20 @@
 			<key>hash2</key>
 			<data>
 			/4Mq7h3NlqAXJy/moXZV3mxi3ylVmPvuJwRgdRM6O0U=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/faucet_4.1.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YNCBY549f3d4xsi/b2PeoxgtRFZQzgjD7IBE3pv7USY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/pipe_4.1.webp</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4klCHdvLGn1Tqa1ysXRlQ+r3xFOxaOWbYvPI5BzVI0E=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/pipe_repair.jpeg</key>
@@ -1471,11 +1853,25 @@
 			AXaRYw7S4ZfqRYJD0r9ctr26fOU3D52RvU/WC+PJNo0=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/water_heater_3.3.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nN+rw2B18/kkauZbjjLPTL/wBFEtajDtCUzBQFMeiGw=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/water_purifier.webp</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			p45Q+B2JQ5ciSOc35FXfkWBoMbxCluwLiiwv+PbnY3g=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_image/water_system_3.2.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zBGF4QReESmkQxIJsizayg+2Ln46EGFB192nO06WilA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/sub_service/plumber_subscreen.jpeg</key>
@@ -1510,7 +1906,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pqocr+ehqRdsW5NfkGNoZk+IlVv6X8e5DWyfu4fkc/I=
+			KQ1NizmgZhJjYIm37Y+bodU/lAEiNIw86RokkoHAlgU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1580,7 +1976,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e/qKosV/yUGcmO+s/ub/w8ZHiKZxyAup4exRUoCBVCA=
+			CVZlhCXpchbio8SZlBfhjm9Xw/0tGS/xUlVFGDdXyiw=
 			</data>
 		</dict>
 		<key>Frameworks/FBLPromises.framework/Info.plist</key>
@@ -1622,7 +2018,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m6yb/95o7E4ZQ9TlAdRbm3/OZIYzIrPaMLR91+pnVys=
+			BfXuBrgNaUtlvB4eVDEv96DDwycdbtPIUsc85zniACA=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
@@ -1664,7 +2060,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YSE6EYtqNgeCmvah/4ZPlgcE7I8TgyddAaVgoku1ey8=
+			D6LYSzM5mFBWdbAF30rjPjejOvj9PPmVbI3Fei0abfs=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
@@ -1706,7 +2102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J7MjTSlATvkApGSawB9LXdr5fEUtyDvmdopvn9vzfU8=
+			+acsjG9UY/RcBj+ZbmhHQzLIO8pUpHQyokf1zeFhrFI=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCoreInternal.framework/Info.plist</key>
@@ -1727,7 +2123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cyu4Num3QiB44nHvm2FaYsD3VOiOrrqWAmqv8M/VnXA=
+			aUMsSVVyoZdbbEoNJZa/bLMpbPfMzVq7InApld63URU=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
@@ -1748,7 +2144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFt2zW+YfpWcFMwOaBigJ6MlbS4Q5KGKJNbG5AQU7h0=
+			i0Ba7GKXewsUIn+L3eLnNQtG8CXm2p1rett9m8uXmuM=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseStorage.framework/Info.plist</key>
@@ -1916,7 +2312,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x8ogOpLWqPmxGP3ZAce/UJPnDqQyriDlnKm4DfmO1WY=
+			sFYR2pHvJrJ2RZpeNQ2o4iSrS+CtQ/HhnYvbLDBysuc=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
@@ -1937,7 +2333,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qyGukjoD8I9fma3aD0keYDMaL/mx4zl2svTCA42kL+4=
+			GuAz4PeIHPfK+QzzQGfFx/xC8CVFW2O+Ckh16oYqLpU=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
@@ -1979,7 +2375,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RRLpYwvFRgEv1WvKMhZwGyaIJyWD5ytfqiFwCDO2JXA=
+			5BA7NzPP9XKeXkvKi79e6KSFyACxcEvJ9YOSnwN50/U=
 			</data>
 		</dict>
 		<key>Frameworks/Kommunicate.framework/CustomPreChatFormView.nib</key>
@@ -2007,7 +2403,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xQzK3h5IPIzN4IpHQSLEy69RDTOrICl0PwE/BRxR5F0=
+			q6u11vs0OGb37Lmj1WZz8MdV9w47224Y6kTqnTakA7M=
 			</data>
 		</dict>
 		<key>Frameworks/Kommunicate.framework/Localizable.strings</key>
@@ -2021,7 +2417,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5gqil6A+LK/fWQkbesKRWG/X5PeQpQQCZsi0tD7PQKo=
+			AFFsKZIyaLWkpAqsJ3CcSa3kX9pz31f465uACCrBWu4=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/ALKAccountSuspensionView.nib</key>
@@ -2042,7 +2438,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7yYf07G3A3dZkaefqVweYF8AtPPOEu1P4/trrtZBsbo=
+			DLwkUHQwqKqCixx03D1w7vlILO1O8IgKodjAkgnF3mQ=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/Base.lproj/Localizable.strings</key>
@@ -2310,7 +2706,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFOEGjQHQmZSCcshr0OrNsri1VsmSa3SIECNPSFwU4Q=
+			310E/SIqHn9uXkfObPct7VY1TWPIznu/bcz/JikQbrY=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateChatUI_iOS_SDK.framework/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -2485,7 +2881,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kgogoKL3ck6TBMO1Ybdgk/OYA/4mqIyW48MNigI2Z+A=
+			qmaX/xXUueoWZjY1V9uqrHR7l+7Vm2NEs0UrLbZhzgg=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/AppLozic.momd/AppLozic 10.mom</key>
@@ -2604,7 +3000,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IKzR09WIG5s+UNHDvDFBmozuA7aoCZc5Y9OwQ6gdfqw=
+			QxYPNvdpvYZGlk/PR2+QuG8tyJZQmD/fFrTpEZoee0c=
 			</data>
 		</dict>
 		<key>Frameworks/KommunicateCore_iOS_SDK.framework/MQTTClient.momd/MQTTClient.mom</key>
@@ -2681,7 +3077,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NT8weA+54AePVC+xfa/Nl5hB226ieqwXPudombNLHNw=
+			pMSAP2tJV6rTGU97tvv8r+eNFG6n4qDnH0HnRkz7Tag=
 			</data>
 		</dict>
 		<key>Frameworks/grpc.framework/Info.plist</key>
@@ -2702,7 +3098,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L5735BwHOf6KADx1K2m9jHiSMrUmrcj5U8sVbN9R/uo=
+			seLEr65iaRQKlXgC1Rc2SehfI/p1g0kikKLu4ja/cCA=
 			</data>
 		</dict>
 		<key>Frameworks/grpcpp.framework/Info.plist</key>
@@ -2737,7 +3133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9DJ3AdtJvTRdbFOpyST46sndCd7dyvGVbc0ZjmHo3xA=
+			j2TLO49imWBPS7/Vfs4JFfDU2hZV4W+DUPybd2gR4pM=
 			</data>
 		</dict>
 		<key>Frameworks/image_picker_ios.framework/Info.plist</key>
@@ -2779,7 +3175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kubo4kA3ZR9J0RC3tnpSDz1gKb9PJQIB96T5VbZGU1Y=
+			4kIBdFxZ8kYiY2saIun61t3jr0bj3Loiu/Kc9EuRA2U=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
@@ -2800,7 +3196,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uyfIag3eIVpnGuowUf6AXVv/1gbI85ZIpnTGznDO8KY=
+			buI3pUujYkLD9fvMAq+8CuOZAybqPcomYUWDnN4J4O0=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
@@ -2821,7 +3217,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5OzUic/WKZKCZsQT2ueRD/tNwvJn2xA7INTVtc+GCSE=
+			z3ti6K9N2TMnH82bzRs3w1NOXfpEZIhF+dnaAizgKnY=
 			</data>
 		</dict>
 		<key>Frameworks/openssl_grpc.framework/Info.plist</key>
@@ -2842,7 +3238,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			68PBDj42cTHQPmfCX7zwCpe3vimIzVmwENPLP8C2JR4=
+			5Tnl6FaeOs8jtj8J/frn2Fzz48shvbC7y6jXM58u+rM=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
@@ -2905,7 +3301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JPqC8kdlSS+dS+yTqGVJK9C3OMhZoP2ZKGMvej+3PCU=
+			H5uCH8HuFeMSYGjxlW7wHK+hzDQOBBGI9tThsfYqib8=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
