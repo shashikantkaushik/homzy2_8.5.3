@@ -8,6 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08ba082b-b4df-4f33-bd8b-b5842d7446f4" name="Changes" comment="this is full fledge user app made by shashi kant">
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/book.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/payment_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/payment_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/895ddd2ce0c91daa4bfd0cf3e1557e81/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/895ddd2ce0c91daa4bfd0cf3e1557e81/.filecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/895ddd2ce0c91daa4bfd0cf3e1557e81/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/895ddd2ce0c91daa4bfd0cf3e1557e81/app.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/895ddd2ce0c91daa4bfd0cf3e1557e81/debug_ios_bundle_flutter_assets.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/895ddd2ce0c91daa4bfd0cf3e1557e81/debug_ios_bundle_flutter_assets.stamp" afterDir="false" />
@@ -288,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681901602297</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="this is full fledge user app made by shashi kant">
+      <created>1682057144185</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682057144185</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
